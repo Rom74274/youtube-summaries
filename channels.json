@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "aberkane",
+    "name": "Idriss Aberkane",
+    "channelId": "UCsBPtU4hJkWNQ4kA-IsxgKw",
+    "handle": "@IdrissJAberkane"
+  },
+  {
+    "slug": "scanderia",
+    "name": "Scanderia",
+    "channelId": "UCtJuE2ar0ptD5b12ueCMq1w",
+    "handle": "@Scanderia"
+  },
+  {
+    "slug": "omerta",
+    "name": "Omerta",
+    "channelId": "UC3lacWBPVK-JfmGyyHx4AAw",
+    "handle": "@omertamediaoff",
+    "minDurationSec": 900
+  },
+  {
+    "slug": "lemondemoderne",
+    "name": "Le Monde Moderne",
+    "channelId": "UCA3dZqGawAvJO6Lexbj8EGg",
+    "handle": "@LeMondeModerne"
+  }
+]

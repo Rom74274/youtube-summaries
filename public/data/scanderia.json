@@ -1,0 +1,153 @@
+{
+  "channelId": "UCtJuE2ar0ptD5b12ueCMq1w",
+  "channelName": "Scanderia",
+  "handle": "@Scanderia",
+  "slug": "scanderia",
+  "lastUpdate": "2026-05-05T16:13:58.010Z",
+  "videos": [
+    {
+      "id": "VZOYsP1Hs2U",
+      "title": "L'IA se referme: le local paye l'addition ! Octogone Tech avec Philippe Anel",
+      "url": "https://www.youtube.com/watch?v=VZOYsP1Hs2U",
+      "publishedAt": "2026-04-24T16:35:32.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/VZOYsP1Hs2U/hqdefault.jpg",
+      "durationSec": 8838,
+      "summary": {
+        "tldr": "L'IA se centralise et devient payante à mesure que les tokens augmentent. La solution : passer au local pour reprendre le contrôle, économiser et sécuriser vos données.",
+        "thesis": "Nous vivons une révolution industrielle dans l'IA : les géants fragmentent leur dépendance à Nvidia, les prix des tokens explosent, et le local devient une nécessité stratégique et économique pour les particuliers et professionnels.",
+        "arguments": [
+          "Les modèles d'IA cloud deviennent insoutenables : OpenAI perd 20 fois son chiffre d'affaires sur chaque abonnement ; les tokens coûteront bientôt trop cher pour justifier les modèles SaaS",
+          "Tous les géants (Google, Amazon, Meta, Microsoft, Anthropic) fabriquent leur propre matériel pour se libérer de Nvidia, signe d'une fragilité majeure",
+          "La RAM et la mémoire deviennent le goulet d'étranglement (commandes HBM fermées jusqu'à 2027), mais les solutions locales existent et fonctionnent avec peu de ressources",
+          "La sécurité et la confidentialité imposent le local : anonymisation des données sensibles, cryptage, échappatoire aux perquisitions judiciaires",
+          "OpenAI perd crédibilité : procès criminels (tueries liées aux conseils de ChatGPT), propriété opaque malgré le nom, capacité insuffisante, augmentations de tarifs agressives"
+        ],
+        "concepts": [
+          "Dumping : pratique interdite à l'OMC, ici appliquée à l'IA par les USA et Chine",
+          "Décudaisation : affranchissement de la dépendance aux GPU Nvidia (particulièrement en Chine)",
+          "HBM (High Bandwidth Memory) : mémoire critique, commandes fermées jusqu'à fin 2027",
+          "Llama, Claude, Grok, Gemini, DeepSeek : modèles alternatifs viables en local",
+          "Mixture of Experts (MoE) : architecture réduisant la RAM nécessaire sans perdre capacité",
+          "World model, Umwelt, First principles : concepts de compréhension véritable par l'IA",
+          "Section 230 (CDA) : protection américaine de responsabilité pour plateformes",
+          "Postmortem : analyse transparente d'Anthropic sur les dérives de Claude 4.6",
+          "Masterclass live vs enregistrée : modèle dual de formation (lindy vs réactif)"
+        ],
+        "quote": "Aujourd'hui, le coût quand on achète un abonnement à 20 dollars, c'est pas le prix du tout que ça coûte aux entreprises. C'est du coût plutôt 20 fois plus en fait que ça leur coûte réellement. C'est du dumping, interdit à l'OMC.",
+        "takeaway": "Inscrivez-vous à la masterclass live du 19 mai (99,50€ si abonné Scanderia, 199€ sinon, code SCANDERIA30) pour apprendre à installer une IA locale en 3 heures. Vous retrouverez autonomie, économies (tokens gratuits), sécurité légale, et un atout concurrentiel dans votre domaine. Le futur de l'IA n'est pas au cloud : il est sur votre machine."
+      },
+      "summarizedAt": "2026-05-05T15:21:30.556Z"
+    },
+    {
+      "id": "q5SUdzrHnV0",
+      "title": "La vengeance de la BBC sur Trump #Octogone83",
+      "url": "https://www.youtube.com/watch?v=q5SUdzrHnV0",
+      "publishedAt": "2026-04-22T09:52:18.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/q5SUdzrHnV0/hqdefault.jpg",
+      "durationSec": 4564,
+      "summary": {
+        "tldr": "Octogone 83 examine la vengeance présumée de la BBC envers Trump via des accusations d'insider trading, tout en analysant les conflits géopolitiques (Iran, Liban, Russie-Israël) et l'émergence de Palantir comme nouvel acteur du complexe militaro-industriel établissant sa propre doctrine politique.",
+        "thesis": "Les États-Unis et leurs alliés font face à une fragmentation du pouvoir : d'un côté, les entreprises technologiques (Palantir, Microsoft) imposent leurs propres règles géopolitiques ; de l'autre, les rivalités entre puissances (Chine, Russie, Israël) s'intensifient autour du contrôle des données et des territoires, tandis que les institutions démocratiques perdent leur légitimité face à ces nouveaux acteurs.",
+        "arguments": [
+          "La BBC pourrait enquêter sur l'insider trading du clan Trump pour se venger du procès en diffamation que Trump lui a intenté, menaçant la BBC de faillite.",
+          "Des fortunes colossales sont faites sur les marchés dérivés du pétrole (marchés des promesses) par des initiés informés 15 minutes avant les annonces de Trump sur l'Iran.",
+          "Palantir publie un manifeste politique (22 points) transformant une entreprise de logiciel en acteur idéologique imposant sa vision de guerre et de surveillance aux gouvernements.",
+          "La Russie et la Chine divisent progressivement Internet en deux systèmes hermétiques pour se protéger du vol de données, notamment par les firmes israéliennes et américaines.",
+          "Le Liban, sans armée nationale, risque de perdre 25% de son territoire sous l'expansion stratégique d'Israël visant un 'Grand Israël', sans moyens diplomatiques ou militaires pour s'y opposer."
+        ],
+        "concepts": [
+          "BBC et Trump — procès en diffamation, audience tronquée du 6 janvier",
+          "Insider trading — marchés dérivés vs marchés pétroliers physiques, trading haute fréquence diplomatique",
+          "Palantir — manifeste politique, complexe militaro-industriel, armes à IA, 'Dark Hippies 2.0'",
+          "Vallée de Barossa — vignes franc de pied, terroir européen d'origine en Australie",
+          "Elon Musk — défi des 100 MW de batterie lithium en 100 jours (2017, Adelaide)",
+          "D3 d'Ormous — détroit stratégique, flux pétrolier, spéculation géopolitique",
+          "Guerre de l'Iran — Schrodinger (ouverte/fermée), 17 déclarations de victoire de Trump",
+          "Glenn Greenwald — journaliste d'investigation, rapport sur enrichissement Trump vs Hunter Biden",
+          "Données et surveillance — câbles sous-marins coupés, backdoors israéliens, durcissement Russie-Israël",
+          "Liban — dialogue national de Fouad Makshoui, occupation du sud, zones tampons"
+        ],
+        "quote": "Si vous n'êtes pas capable de livrer parce que vous n'avez pas un contrat pétrolier dans vos mains, vous n'avez qu'un papier qui est une promesse, dans ce cas-là, vous êtes obligé de vous débarrasser de votre promesse et bien entendu, ça vous faites avec une perte.",
+        "takeaway": "Trois phénomènes critiques redessinent le pouvoir global : (1) le système financier devient arme géopolitique via les dérivés et l'information privilégiée ; (2) les entreprises technologiques (Palantir, etc.) remplacent les États comme architectes idéologiques ; (3) le monde se divise en deux internets hermétiques. Les institutions traditionnelles (ONU, démocratie, droit international) perdent légitimité, créant un vide où l'extrémisme prospère. Le pragmatisme politique et le dialogue deviennent essentiels mais quasi impossibles dans ce climat de suspicion généralisée."
+      },
+      "summarizedAt": "2026-05-05T15:21:44.665Z"
+    },
+    {
+      "id": "XFr4OO4qrHE",
+      "title": "Iran : le nouveau TACO est arrivé #Octogone82",
+      "url": "https://www.youtube.com/watch?v=XFr4OO4qrHE",
+      "publishedAt": "2026-04-09T13:40:48.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/XFr4OO4qrHE/hqdefault.jpg",
+      "durationSec": 4223,
+      "summary": {
+        "tldr": "Trump a menacé l'Iran de frappes thermonucléaires pour finalement accepter un accord en 10 points bien pire que celui d'Obama, incluant le retrait des bases américaines du Moyen-Orient et des réparations de guerre massives. C'est une victoire iranienne et une humiliation stratégique pour les États-Unis et Israël.",
+        "thesis": "L'accord Iran-USA est une défaite politique majeure pour Trump maquillée en victoire par le sophisme du tireur texan : les promesses de campagne (drainer le marais) ont laissé place à des délits d'initiés et à une capitulation géopolitique totale.",
+        "arguments": [
+          "Les 10 points de l'accord demandent le retrait de TOUS les combattants américains du Moyen-Orient et l'abandon du CENTCOM, l'assurance-vie d'Israël",
+          "L'Iran obtient l'enrichissement d'uranium illimité, le contrôle du détroit d'Ormuz, la levée de Swift et des sanctions primaires et secondaires",
+          "L'accord inclut des réparations de guerre en milliards (contre des millions sous Obama) et représente une bien meilleure affaire pour Téhéran",
+          "L'entourage de Trump a spéculé sur le pétrole, empochant 125 millions de dollars en délits d'initiés pendant les négociations",
+          "Les tweets israéliens (hébreux) parlent de défaite stratégique tandis que les pro-Netanyahu du 16e arrondissement français crient victoire : dissonance totale avec la réalité"
+        ],
+        "concepts": [
+          "Sophisme du tireur texan (Texas Sharpshooter fallacy)",
+          "TACO = Trump Always Chickens Out",
+          "CENTCOM (United States Central Command)",
+          "Détroit d'Ormuz, contrôle du détroit, géopolitique pétrolière",
+          "Délits d'initiés, insider trading de l'entourage Trump",
+          "Accord JCPOA Obama vs nouvel accord",
+          "Humiliation d'Israël post-12 jours",
+          "Dôme de fer, défense antimissile",
+          "Mossad, services de renseignement israéliens",
+          "Wall Street Journal, fuites diplomatiques",
+          "Arnaud Bertrand, analystes géopolitiques",
+          "Jeremy Irons, film Margin Call, Jamie Dimon",
+          "Nancy Pelosi, délits d'initiés au Congrès",
+          "Sylvie Goulard, Banque de France, or français",
+          "Épistein, documents compromettants",
+          "Affaire Atanor, tentatives d'assassinat",
+          "Stanislas Dehaene, directeur scientifique Éducation nationale"
+        ],
+        "quote": "C'est comme quand vous avez perdu un procès : vous obtenez ce que vous auriez pu obtenir sans aller au procès mais en plus vous devez payer les frais d'avocat.",
+        "takeaway": "L'accord Iran est une catastrophe diplomatique maquillée par la rhétorique trumpiste. Ne vous laissez pas piéger par le sophisme du tireur texan : testez les faits (guerre en Ukraine non terminée, CENTCOM non retiré). La géopolitique change profondément avec l'affaiblissement des alliances occidentales et l'émergence d'un axe Chine-Russie-Iran."
+      },
+      "summarizedAt": "2026-05-05T15:22:16.332Z"
+    },
+    {
+      "id": "f_xlN9BJJrE",
+      "title": "Engrais, helium: l'AUTRE choc économique de la guerre en Iran #Octogone81",
+      "url": "https://www.youtube.com/watch?v=f_xlN9BJJrE",
+      "publishedAt": "2026-03-22T10:29:46.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/f_xlN9BJJrE/hqdefault.jpg",
+      "durationSec": 4187,
+      "summary": {
+        "tldr": "La guerre en Iran perturbe les chaînes d'approvisionnement mondiales, notamment en hélium et engrais, créant une crise alimentaire majeure. L'Europe, dépourvue de souveraineté énergétique et alimentaire, perd son influence géopolitique tandis que les puissances asiatiques (Chine, Indonésie) et l'Iran renforcent leur position.",
+        "thesis": "La guerre en Iran révèle l'effondrement de la stratégie occidentale : les sanctions contre la Russie et l'Iran créent des pénuries d'engrais et d'énergie que l'Europe ne peut compenser, fragilisant ses alliances (OTAN, UE) et favorisant une réorganisation géopolitique vers l'Asie et une nouvelle économie de guerre basée sur les données et la souveraineté énergétique.",
+        "arguments": [
+          "L'hélium, coproduit du gaz naturel, devient critique pour la technologie (TSMC, armements, imagerie médicale); la Russie en est le principal producteur non affecté par la guerre, renforçant sa position",
+          "Les engrais modernes dépendent du gaz naturel (Qatar, Algérie, Russie); l'abandon historique des algues marines renouvelables pour cette production centralisée crée une vulnérabilité majeure",
+          "L'Indonésie, les Philippines et la Tanzanie reprennent le contrôle des cultures d'algues marines (engrais naturels), tandis que l'Europe reste bureaucratiquement bloquée malgré ses capacités maritimes",
+          "La Chine maîtrise le biogaz et les satellites pour l'IA militaire; l'Iran accède aux satellites chinois avec précision balistique, tandis que l'Europe dépend entièrement des données et renseignements américains",
+          "La démission du patron du National Counter Terrorism Center (Joe Kent) révèle que la véritable cause de la guerre n'est pas le nucléaire, mais le contrôle du pétrole du Moyen-Orient pour le profit d'Israël"
+        ],
+        "concepts": [
+          "Gunter Poly — spécialiste des supply chains et du Japon",
+          "Hélium — élément non récupérable qui s'échappe de la planète",
+          "Gaz naturel vs algues marines — transition énergétique ratée des années 1970",
+          "Palantir, Microsoft, BlackRock — oligopole des données et de la défense américaine",
+          "Data sovereignty — enjeu géopolitique majeur du contrôle des données nationales",
+          "Runet — intranet russe fermé utilisé en cas de guerre nucléaire",
+          "NCTC — National Counter Terrorism Center",
+          "Straits of Hormuz — 20 % des flux mondiaux de pétrole/GNL",
+          "Biogaz — production à partir de déchets humains (60 millions de m³/jour en France possible)",
+          "Indonésie, Philippines, Tanzanie — nouveaux leaders mondiaux des cultures d'algues",
+          "Sana Takaishi — première ministre japonaise victime de la maladresse diplomatique de Trump",
+          "Joe Kent — directeur démissionnaire; ami de Charlie Kirk assassiné; héros de guerre anti-guerre en Iran"
+        ],
+        "quote": "Celui qui peut détruire quelque chose, c'est lui qui le possède vraiment. (Paul Atréides, Dune) — reprise pour illustrer que l'Iran contrôle désormais le détroit d'Ormuz par simple menace, sans fermeture réelle.",
+        "takeaway": "L'Europe doit d'urgence relancer la culture d'algues marines sur son littoral (France, Bretagne, Normandie, Galice), développer une stratégie de biogaz national à partir de ses déchets, et acquérir sa propre souveraineté énergétique et alimentaire. Les pays asiatiques (Chine, Indonésie) et l'Iran construisent déjà des alternatives aux dépendances occidentales; l'inaction bureaucratique européenne conduit à l'inflation alimentaire, énergétique et à la dissolution de l'UE."
+      },
+      "summarizedAt": "2026-05-05T15:22:46.862Z"
+    }
+  ]
+}
