@@ -30,8 +30,12 @@ export default defineConfig({
         runtimeCaching: [
           {
             urlPattern: /\/data\/.*\.json$/,
-            handler: 'StaleWhileRevalidate',
-            options: { cacheName: 'data-json' },
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'data-json',
+              networkTimeoutSeconds: 5,
+              expiration: { maxEntries: 20, maxAgeSeconds: 60 * 60 * 24 * 7 },
+            },
           },
           {
             urlPattern: /^https:\/\/i\d?\.ytimg\.com\/.*/,
