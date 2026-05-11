@@ -3,6 +3,7 @@ import { resolve, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import Parser from 'rss-parser'
 import { YoutubeTranscript } from 'youtube-transcript'
+import { Innertube } from 'youtubei.js'
 import Anthropic from '@anthropic-ai/sdk'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -11,8 +12,8 @@ const DATA_DIR = resolve(ROOT, 'public/data')
 
 const MODEL = 'claude-haiku-4-5-20251001'
 const MAX_OUTPUT_TOKENS = 2000
-const FEED_SIZE = 4 // top N non-Shorts à garder par chaîne
-const DEFAULT_MIN_DURATION_SEC = 20 * 60 // seuil global, override possible par chaîne
+const FEED_SIZE = 4
+const DEFAULT_MIN_DURATION_SEC = 20 * 60
 const MAX_TRANSCRIPT_CHARS = 250_000
 
 if (!existsSync(DATA_DIR)) mkdirSync(DATA_DIR, { recursive: true })
@@ -26,6 +27,12 @@ const anthropic = new Anthropic({ apiKey })
 
 const channels = JSON.parse(readFileSync(resolve(ROOT, 'channels.json'), 'utf8'))
 const rssParser = new Parser()
+
+let _yt
+async function yt() {
+  if (!_yt) _yt = await Innertube.create({ lang: 'fr', location: 'FR' })
+  return _yt
+}
 
 const SYSTEM_PROMPT = `Tu reçois la transcription d'une vidéo YouTube (en français). Produis un résumé structuré au format JSON STRICT.
 
@@ -56,7 +63,20 @@ Règles strictes:
 - Garde le ton et la perspective du locuteur, ne juge pas.
 - Pas de markdown sauf **gras** pour mettre en avant les concepts/théories/lois dans les arguments.`
 
-async function fetchTranscriptWithDuration(videoId) {
+// Durée: via Innertube (marche depuis IPs cloud, contrairement au scrape HTML)
+async function fetchDurationSec(videoId) {
+  try {
+    const innertube = await yt()
+    const info = await innertube.getBasicInfo(videoId)
+    return info?.basic_info?.duration ?? null
+  } catch (e) {
+    return null
+  }
+}
+
+// Transcript: cascade de stratégies
+async function fetchTranscriptText(videoId) {
+  // Stratégie 1: youtube-transcript (marche en local, parfois bloqué sur cloud)
   for (const lang of ['fr', undefined]) {
     try {
       const segs = await YoutubeTranscript.fetchTranscript(
@@ -64,18 +84,32 @@ async function fetchTranscriptWithDuration(videoId) {
         lang ? { lang } : undefined,
       )
       if (segs?.length) {
-        const last = segs[segs.length - 1]
-        const durationSec = Math.round((last.offset + last.duration) / 1000)
-        const text = segs
+        return segs
           .map((s) => s.text)
           .join(' ')
           .replace(/\s+/g, ' ')
           .trim()
-        return { text, durationSec }
       }
     } catch {
-      // try next strategy
+      // try next
     }
+  }
+  // Stratégie 2: youtubei.js getTranscript (parfois 400 mais on tente)
+  try {
+    const innertube = await yt()
+    const info = await innertube.getInfo(videoId)
+    const tr = await info.getTranscript()
+    const segs = tr?.transcript?.content?.body?.initial_segments
+    if (segs?.length) {
+      return segs
+        .map((s) => s.snippet?.text || '')
+        .filter(Boolean)
+        .join(' ')
+        .replace(/\s+/g, ' ')
+        .trim()
+    }
+  } catch {
+    // give up
   }
   return null
 }
@@ -129,7 +163,7 @@ async function processChannel(channel) {
     : { videos: [] }
   const minDuration = channel.minDurationSec ?? DEFAULT_MIN_DURATION_SEC
 
-  // 1. Récupérer le RSS, filtrer Shorts, trier par date desc
+  // 1. RSS, filtre Shorts, sort by date desc
   const feedUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${channel.channelId}`
   const feed = await rssParser.parseURL(feedUrl)
   const sorted = feed.items
@@ -142,39 +176,45 @@ async function processChannel(channel) {
     .filter((c) => c.videoId)
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
 
-  // 2. Identifier les nouvelles vidéos (pas dans existing), fetch leur transcript+durée
-  const existingIds = new Set(existing.videos.map((v) => v.id))
+  // 2. Pour chaque nouvelle vidéo: fetch durée, filtrer
+  const existingById = new Map(existing.videos.map((v) => [v.id, v]))
   const newCandidates = []
   for (const c of sorted) {
-    if (existingIds.has(c.videoId)) continue
-    const tr = await fetchTranscriptWithDuration(c.videoId)
-    if (!tr) {
-      console.log(`  • ?       no transcript ${c.videoId}  ${c.entry.title.slice(0, 60)}`)
+    if (existingById.has(c.videoId)) continue
+    const duration = await fetchDurationSec(c.videoId)
+    if (duration == null) {
+      console.log(`  • ?       no duration  ${c.videoId}  ${c.entry.title.slice(0, 60)}`)
       continue
     }
-    if (tr.durationSec < minDuration) {
+    if (duration < minDuration) {
       console.log(
-        `  • ${fmtMin(tr.durationSec).padStart(7)} too short skip  ${c.videoId}  ${c.entry.title.slice(0, 60)}`,
+        `  • ${fmtMin(duration).padStart(7)} too short  ${c.videoId}  ${c.entry.title.slice(0, 60)}`,
       )
       continue
     }
     console.log(
-      `  • ${fmtMin(tr.durationSec).padStart(7)} NEW            ${c.videoId}  ${c.entry.title.slice(0, 60)}`,
+      `  • ${fmtMin(duration).padStart(7)} NEW         ${c.videoId}  ${c.entry.title.slice(0, 60)}`,
     )
-    newCandidates.push({ ...c, duration: tr.durationSec, transcript: tr.text })
+    newCandidates.push({ ...c, duration })
   }
 
-  // 3. Pool = anciennes résumées + nouvelles candidates, trié par date desc
+  // 3. Pool = anciennes résumées + nouvelles candidates, sort by date desc
   const existingWithSummary = existing.videos.filter((v) => v.summary)
   const pool = [
-    ...existingWithSummary.map((v) => ({ kind: 'existing', data: v, publishedAt: v.publishedAt })),
+    ...existingWithSummary.map((v) => ({
+      kind: 'existing',
+      data: v,
+      publishedAt: v.publishedAt,
+    })),
     ...newCandidates.map((c) => ({ kind: 'new', data: c, publishedAt: c.publishedAt })),
   ].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
 
   const top = pool.slice(0, FEED_SIZE)
-  console.log(`  pool: ${existingWithSummary.length} existing + ${newCandidates.length} new → top ${top.length}`)
+  console.log(
+    `  pool: ${existingWithSummary.length} existing + ${newCandidates.length} new → top ${top.length}`,
+  )
 
-  // 4. Pour chaque élément du top : KEEP si existant, SUMMARIZE si nouveau
+  // 4. Pour chaque élément du top: KEEP si existant, SUMMARIZE si nouveau
   const videos = []
   let processedThisRun = 0
   const totalUsage = { input_tokens: 0, output_tokens: 0 }
@@ -183,38 +223,62 @@ async function processChannel(channel) {
     if (item.kind === 'existing') {
       console.log(`  • KEEP         ${item.data.id}  ${item.data.title.slice(0, 60)}`)
       videos.push(item.data)
-    } else {
-      const c = item.data
-      console.log(`  • SUMMARIZE    ${c.videoId}  ${c.entry.title.slice(0, 60)}`)
-      try {
-        const { summary, usage } = await summarize(c.transcript, c.entry.title)
-        totalUsage.input_tokens += usage.input_tokens
-        totalUsage.output_tokens += usage.output_tokens
-        const cost =
-          (usage.input_tokens * 1) / 1_000_000 + (usage.output_tokens * 5) / 1_000_000
-        console.log(
-          `    ✓ in=${usage.input_tokens} out=${usage.output_tokens} cost≈$${cost.toFixed(4)}`,
-        )
-        videos.push({
-          id: c.videoId,
-          title: c.entry.title,
-          url: `https://www.youtube.com/watch?v=${c.videoId}`,
-          publishedAt: c.publishedAt,
-          thumbnail: `https://i.ytimg.com/vi/${c.videoId}/hqdefault.jpg`,
-          durationSec: c.duration,
-          summary,
-          summarizedAt: new Date().toISOString(),
-        })
-        processedThisRun++
-      } catch (e) {
-        console.warn(`    ✗ summary failed: ${e.message}`)
-      }
+      continue
+    }
+    const c = item.data
+    console.log(`  • SUMMARIZE    ${c.videoId}  ${c.entry.title.slice(0, 60)}`)
+    const transcript = await fetchTranscriptText(c.videoId)
+    if (!transcript) {
+      console.log(`    no transcript — keeping in feed without summary`)
+      videos.push({
+        id: c.videoId,
+        title: c.entry.title,
+        url: `https://www.youtube.com/watch?v=${c.videoId}`,
+        publishedAt: c.publishedAt,
+        thumbnail: `https://i.ytimg.com/vi/${c.videoId}/hqdefault.jpg`,
+        durationSec: c.duration,
+        summary: null,
+        _noTranscript: true,
+      })
+      continue
+    }
+    try {
+      const { summary, usage } = await summarize(transcript, c.entry.title)
+      totalUsage.input_tokens += usage.input_tokens
+      totalUsage.output_tokens += usage.output_tokens
+      const cost =
+        (usage.input_tokens * 1) / 1_000_000 + (usage.output_tokens * 5) / 1_000_000
+      console.log(
+        `    ✓ in=${usage.input_tokens} out=${usage.output_tokens} cost≈$${cost.toFixed(4)}`,
+      )
+      videos.push({
+        id: c.videoId,
+        title: c.entry.title,
+        url: `https://www.youtube.com/watch?v=${c.videoId}`,
+        publishedAt: c.publishedAt,
+        thumbnail: `https://i.ytimg.com/vi/${c.videoId}/hqdefault.jpg`,
+        durationSec: c.duration,
+        summary,
+        summarizedAt: new Date().toISOString(),
+      })
+      processedThisRun++
+    } catch (e) {
+      console.warn(`    ✗ summary failed: ${e.message}`)
+      videos.push({
+        id: c.videoId,
+        title: c.entry.title,
+        url: `https://www.youtube.com/watch?v=${c.videoId}`,
+        publishedAt: c.publishedAt,
+        thumbnail: `https://i.ytimg.com/vi/${c.videoId}/hqdefault.jpg`,
+        durationSec: c.duration,
+        summary: null,
+        _error: e.message,
+      })
     }
   }
 
   const totalCost =
     (totalUsage.input_tokens * 1) / 1_000_000 + (totalUsage.output_tokens * 5) / 1_000_000
-
   if (processedThisRun === 0) {
     console.log(`  → no new summaries`)
   } else {
