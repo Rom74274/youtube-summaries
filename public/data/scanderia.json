@@ -3,8 +3,18 @@
   "channelName": "Scanderia",
   "handle": "@Scanderia",
   "slug": "scanderia",
-  "lastUpdate": "2026-05-11T15:43:15.043Z",
+  "lastUpdate": "2026-05-11T15:58:50.810Z",
   "videos": [
+    {
+      "id": "T7wuY2nnE_Y",
+      "title": "Les Émirats quittent l’OPEP : le cartel pétrolier se fissure #octogone84",
+      "url": "https://www.youtube.com/watch?v=T7wuY2nnE_Y",
+      "publishedAt": "2026-05-07T11:00:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/T7wuY2nnE_Y/hqdefault.jpg",
+      "durationSec": 4345,
+      "summary": null,
+      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4L1z8pwdZWgoHm3sDz\"}"
+    },
     {
       "id": "VZOYsP1Hs2U",
       "title": "L'IA se referme: le local paye l'addition ! Octogone Tech avec Philippe Anel",

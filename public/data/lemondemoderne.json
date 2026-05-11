@@ -3,6 +3,37 @@
   "channelName": "Le Monde Moderne",
   "handle": "@LeMondeModerne",
   "slug": "lemondemoderne",
-  "lastUpdate": "2026-05-11T15:43:44.410Z",
-  "videos": []
+  "lastUpdate": "2026-05-11T15:58:57.981Z",
+  "videos": [
+    {
+      "id": "EyipWZXAXzk",
+      "title": "Hantavirus Hantacircus, Iran, Edouard Philippe se lance encore ! La revue de presse d'Alexis Poulin",
+      "url": "https://www.youtube.com/watch?v=EyipWZXAXzk",
+      "publishedAt": "2026-05-11T06:52:43.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/EyipWZXAXzk/hqdefault.jpg",
+      "durationSec": 3791,
+      "summary": null,
+      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4LTLdQJhwdoLhDWpA5\"}"
+    },
+    {
+      "id": "uWX6ovoyTVs",
+      "title": "Santé avec Patrick Matini : la vitalité",
+      "url": "https://www.youtube.com/watch?v=uWX6ovoyTVs",
+      "publishedAt": "2026-05-09T09:07:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/uWX6ovoyTVs/hqdefault.jpg",
+      "durationSec": 3257,
+      "summary": null,
+      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4LWJisCbWyFT8cJHH3\"}"
+    },
+    {
+      "id": "0NJPjliP1-k",
+      "title": "Starmer ratatiné, plus de censure  , Ormuz, au secours, Hollande revient !",
+      "url": "https://www.youtube.com/watch?v=0NJPjliP1-k",
+      "publishedAt": "2026-05-08T10:23:49.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/0NJPjliP1-k/hqdefault.jpg",
+      "durationSec": 6503,
+      "summary": null,
+      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4LYfrGdbzNBqLAfZx2\"}"
+    }
+  ]
 }

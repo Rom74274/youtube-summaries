@@ -3,6 +3,47 @@
   "channelName": "Omerta",
   "handle": "@omertamediaoff",
   "slug": "omerta",
-  "lastUpdate": "2026-05-11T15:43:31.830Z",
-  "videos": []
+  "lastUpdate": "2026-05-11T15:58:54.793Z",
+  "videos": [
+    {
+      "id": "czN06ZEcUVE",
+      "title": "MOYEN-ORIENT : LA PERTE DE CONTRÔLE DE TRUMP",
+      "url": "https://www.youtube.com/watch?v=czN06ZEcUVE",
+      "publishedAt": "2026-05-11T10:00:58.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/czN06ZEcUVE/hqdefault.jpg",
+      "durationSec": 3705,
+      "summary": null,
+      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4LCLEmQARnWVpz9byx\"}"
+    },
+    {
+      "id": "U7LU2RkKIjM",
+      "title": "LA FRANCE EST-ELLE SINCÈRE AVEC L'ARMÉNIE ?",
+      "url": "https://www.youtube.com/watch?v=U7LU2RkKIjM",
+      "publishedAt": "2026-05-11T05:00:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/U7LU2RkKIjM/hqdefault.jpg",
+      "durationSec": 1414,
+      "summary": null,
+      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4LEL3NtyZyb7MG2RHd\"}"
+    },
+    {
+      "id": "FVf1plgqn-M",
+      "title": "\"FRANCE TV EST LE MOTEUR DU WOKISME\"",
+      "url": "https://www.youtube.com/watch?v=FVf1plgqn-M",
+      "publishedAt": "2026-05-10T15:00:31.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/FVf1plgqn-M/hqdefault.jpg",
+      "durationSec": 3013,
+      "summary": null,
+      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4LGkPfZYLUCfdPLVK6\"}"
+    },
+    {
+      "id": "BhEcypDsWmw",
+      "title": "IRAN : L’ESCALADE SANS FIN",
+      "url": "https://www.youtube.com/watch?v=BhEcypDsWmw",
+      "publishedAt": "2026-05-10T09:00:25.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/BhEcypDsWmw/hqdefault.jpg",
+      "durationSec": 2967,
+      "summary": null,
+      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4LK34RJP1HVZiTpLiJ\"}"
+    }
+  ]
 }

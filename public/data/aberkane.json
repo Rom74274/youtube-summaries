@@ -3,8 +3,18 @@
   "channelName": "Idriss Aberkane",
   "handle": "@IdrissJAberkane",
   "slug": "aberkane",
-  "lastUpdate": "2026-05-11T15:43:12.521Z",
+  "lastUpdate": "2026-05-11T15:58:49.996Z",
   "videos": [
+    {
+      "id": "KFckhtA7qLA",
+      "title": "Pédocriminalité Suisse. Partie 1 : les horreurs de la RTS.",
+      "url": "https://www.youtube.com/watch?v=KFckhtA7qLA",
+      "publishedAt": "2026-05-09T12:56:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/KFckhtA7qLA/hqdefault.jpg",
+      "durationSec": 3390,
+      "summary": null,
+      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4KxU45UXUHWY19UwxU\"}"
+    },
     {
       "id": "TD7On1r8C-8",
       "title": "Quand les radars sont détruits, la pluie revient en force en Iran...",
@@ -73,29 +83,6 @@
         "takeaway": "Le service public audiovisuel français est structurellement corrompu et ne peut pas être réformé sans changement systémique. La vraie solution passe par la création de **réseaux de médias décentralisés, autonomes et militants**, financés transparemment par les citoyens, gérés collectivement, et ancrés localement. Ces médias doivent devenir les outils d'une éducation populaire et d'une reconstitution du lien social autour de la conscience politique. Sans cette infrastructure médiatique indépendante, aucune démocratisation réelle du pouvoir politique n'est possible, et le peuple restera désarmé face aux élites qui dominent l'information."
       },
       "summarizedAt": "2026-05-05T16:12:47.826Z"
-    },
-    {
-      "id": "sIeoPJpu9as",
-      "title": "Aliens.gov : la Maison Blanche veut déclassifier le sujet OVNI",
-      "url": "https://www.youtube.com/watch?v=sIeoPJpu9as",
-      "publishedAt": "2026-04-27T20:37:23.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/sIeoPJpu9as/hqdefault.jpg",
-      "durationSec": 6701,
-      "summary": {
-        "tldr": "La Maison Blanche annonce la déclassification des données sur les OVNI via le site Aliens.gov, tandis qu'un ancien directeur de recherche de la NSA confirme l'intérêt pour les technologies de propulsion à masse négative. Jean-Pierre Petit, dont les prédictions cosmologiques s'avèrent exactes, souligne le manque de reconnaissance académique malgré des découvertes majeures en physique théorique.",
-        "thesis": "L'auteur affirme que Jean-Pierre Petit a eu raison sur des sujets fondamentaux (armes russes, modèle cosmologique, masses négatives) malgré une censure systématique liée à ses travaux sur les OVNI. La déclassification annoncée ne sera que du « spectacle » sans révélations substantielles, mais elle légitime enfin le sujet qu'il défend depuis des décennies.",
-        "arguments": [
-          "**Le modèle Janus de Petit possède une puissance prédictive supérieure à tous les modèles cosmologiques actuels.** Il explique l'accélération variable de l'univers, le confinement des galaxies, la structure à grande échelle de l'univers, les courbes de rotation galactiques planes, et prédit un rapport de 3 entre les longueurs d'onde des objets massifs supermassifs (confirmé par les images de M87 et de la Voie lactée). Aucun autre modèle aujourd'hui n'offre autant de prédictions empiriques vérifiables.",
-          "**D'Amour et Felder représentent deux réactions opposées aux équations de Janus : rejet ou appropriation.** Quand Felder accuse Petit d'avoir volé ses équations en 2014, cela prouve que les équations valent quelque chose (contrairement aux critiques de d'Amour qui les disqualifie). Ce paradoxe montre que le discrédit vient de la politique universitaire, non du mérite scientifique.",
-          "**L'ancien directeur de la NSA confirme publiquement que les masses négatives et les énergies négatives sont des domaines de recherche sérieux au Pentagone.** Cette déclaration valide 35 ans de travaux de Petit sur la propulsion utilisant ces concepts, bien que le directeur décrive ensuite des solutions impraticables (nécessitant la masse de Jupiter). Cela montre que le sujet figurait dans les radars du renseignement américain.",
-          "**Jean-Pierre Petit prétend avoir reçu des communications téléphoniques d'êtres extraterrestres entre 1990-2018 qui lui ont transmis des solutions techniques.** Par exemple, en 1991, un correspondant lui explique que les trous noirs n'existent pas mais sont des univers parallèles créés par des étoiles à neutrons déstabilisées recrachant la matière dans un univers jumeau. En 2025, un article (plugstar) confirme exactement cette description. Ces coïncidences à 35 ans d'intervalle constituent selon lui la preuve tangible de contacts.",
-          "**Au moins 11 scientifiques américains liés à Los Alamos et impliqués dans les recherches sur les OVNI ont disparu ou décédé récemment dans des circonstances troublantes.** Matthew James Sullivan (pilote de l'USAF), David Wilcock (chercheur) et d'autres ont déclaré qu'ils ne se suicideraient jamais avant de mourir d'overdose ou de circonstances suspectes. Le New York Post et Jeremy Corbell rapportent que des disques durs de cybersécurité seront déclassifiés le 17 mai.",
-          "**La **désinformation amplifiante** est la stratégie employée : mélanger le vrai et le faux pour discréditer l'ensemble du sujet.** La CIA a reconnu utiliser la désinformation OVNI pour faire diversion (affaire de la Baie des Cochons). Actuellement, les déclarations sur les démons (J.D. Vance) ou la théorie des univers parallèles (Jacques Vallée) visent à noyer le vrai signal dans du bruit. Même les pseudo-déclassifications ne révèleront que du secondaire.",
-          "**L'absence de reconnaissance de Petit en France versus son impact indirect sur les missiles hypersoniques russes prouve la censure structurelle.** Les Russes ont reconnu que la résolution des instabilités de Velikov par Petit permit les armes hypersoniques. Pourtant, en France, l'Académie des Sciences et les universités le boycottent systématiquement, tandis que le monde anglo-saxon l'ignore médiatiquement. C'est un calcul géopolitique intentionnel."
-        ],
-        "takeaway": "La déclassification annoncée par Trump sur les OVNI sera vraisemblablement cosmétique et dénuée de contenu substantiel, comme tous les spectacles politiques précédents. Le vrai scandale est que Jean-Pierre Petit, dont les prédictions cosmologiques sont factuellement correctes et dont les travaux sur la MHD ont permis les armes hypersoniques, reste marginalisé par peur institutionnelle. Le sujet OVNI, longtemps tabou, devient enfin mainstream politiquement ; il ne reste plus qu'à permettre aux vrais chercheurs comme Petit et Felder de collaborer sans préjugé idéologique."
-      },
-      "summarizedAt": "2026-05-05T16:13:57.753Z"
     }
   ]
 }
