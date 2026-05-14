@@ -1,9 +1,8 @@
 name: Summarize new videos
 
 on:
-  schedule:
-    # Tous les jours à 06:00 UTC (08:00 Paris l'été, 07:00 l'hiver)
-    - cron: '0 6 * * *'
+  # Cron désactivé: YouTube bloque les IPs GitHub Actions, ce qui produit des
+  # données partielles. Refresh manuel depuis Mac via `yt-refresh` à la place.
   workflow_dispatch:
   push:
     branches: [main]
