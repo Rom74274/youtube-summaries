@@ -3,17 +3,30 @@
   "channelName": "Idriss Aberkane",
   "handle": "@IdrissJAberkane",
   "slug": "aberkane",
-  "lastUpdate": "2026-05-11T15:58:49.996Z",
+  "lastUpdate": "2026-05-14T11:55:31.321Z",
   "videos": [
     {
-      "id": "KFckhtA7qLA",
-      "title": "Pédocriminalité Suisse. Partie 1 : les horreurs de la RTS.",
-      "url": "https://www.youtube.com/watch?v=KFckhtA7qLA",
-      "publishedAt": "2026-05-09T12:56:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/KFckhtA7qLA/hqdefault.jpg",
-      "durationSec": 3390,
-      "summary": null,
-      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4KxU45UXUHWY19UwxU\"}"
+      "id": "7YXaf9t2KqQ",
+      "title": "Hantavirus : la vraie grande menace, c'est la presse!",
+      "url": "https://www.youtube.com/watch?v=7YXaf9t2KqQ",
+      "publishedAt": "2026-05-12T17:54:58.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7YXaf9t2KqQ/hqdefault.jpg",
+      "durationSec": 6542,
+      "summary": {
+        "tldr": "Le vrai danger du hantavirus n'est pas le virus lui-même, peu transmissible et peu contagieux, mais la peur médiatique orchestrée par des institutions corrompues (OMS, médias, pharma) qui utilisent les crises sanitaires pour justifier des mesures autoritaires et générer des profits massifs.",
+        "thesis": "La **presse et les institutions internationales** représentent une menace plus grave que le hantavirus en tant que virus émergent. Le système crée une « société du factice » où les fausses promesses politiques, les mensonges médiatiques et la manipulation scientifique remplacent la réalité, rendant les populations incapables de distinguer le vrai du faux.",
+        "arguments": [
+          "Le hantavirus est connu depuis longtemps et provoque historiquement des infections sporadiques chez l'homme par contact avec les déjections de rongeurs. Un nouveau variant (Andes) peut donner des formes respiratoires graves, mais il reste peu transmissible : l'exemple du bateau de croisière montre seulement 3-4 cas confirmés, bien inférieur aux niveaux du COVID (50-80% d'infectés sur navires). Cette transmissibilité basse indique une maladie non-épidémique.",
+          "Le **virus à ARN** mute 100 fois plus vite que l'ADN, créant constamment de la **quasi-espèce virale** (variants aléatoires à chaque réplication). Cela rend les **anticorps monoclonaux** inefficaces : ils ciblent une seule séquence antigénique, et la pression de sélection crée rapidement des mutants résistants. C'est de la biologie élémentaire ignorée volontairement pour justifier des investissements pharma.",
+          "La **chloroquine** s'avère efficace contre le hantavirus (concentration efficace 25 fois inférieure à la toxicité cellulaire), comme démontré dans la littérature scientifique en 2021. Ce médicament bon marché, prescrit massivement en rhumatologie, ne rapporte rien. Son discrédit pendant le COVID obéit à une logique purement financière : l'hydroxychloroquine nuit aux profits des nouveaux vaccins à ARNm rapportant des milliards.",
+          "L'OMS, financée par l'industrie pharmaceutique et Gates, perd sa crédibilité en déclarant simultanément l'hydroxychloroquine dangereuse (alors qu'elle est prescrite depuis des décennies) et en reconnaissant l'efficacité de la chloroquine. Son directeur, ayant bénéficié de la chloroquine sa vie durant en Éthiopie, incarne l'hypocrisie institutionnelle. La presse reprend sans critique ces positions contradictoires.",
+          "Les vaccins anti-hantavirus se multiplient (7 prototypes en développement accéléré, 13 tentatives de thérapie génique listées) avant même une épidémie confirmée, reproduisant le modèle profitable du COVID. L'annonce de crises sanitaires précède systématiquement la mobilisation massive de fonds et brevets, inversant le rapport causalité-opportunisme. Les gouvernements promettent des financements (Macron au Kenya) sans pouvoir légalement les assurer, violant le **principe d'annualité budgétaire**.",
+          "La **presse fabrique le réel politique**. Pendant le COVID, les fact-checkers validaient 100% des positions OMS sans les critiquer, créant une « **science Fiat** » où la vérité dépend de décrets institutionnels, non des preuves. Le monkeypox illustre ce mécanisme : tentative de création de psychose virale échouée car le public, immunisé par les mensonges antérieurs, refuse de croire. La peur tue plus que le virus (parabole soufie : la mort prend 5 000 personnes, la panique en tue 45 000).",
+          "Le système français repose sur des **faux contractuels** : les promesses électorales pluriannuelles violent l'annualité budgétaire constitutionnelle, les ministres de passage prennent des décisions à 15-20 ans de conséquence (réduction du numerus clausus divisant les médecins par trois) sans en supporter les résultats. Les institutions (Conseil de l'Ordre, assistance publique, CNRS) appliquent le simulacre : condamnent des médecins ne pratiquant plus, cachent l'inefficacité administrative derrière la conformité bureaucratique, accumulent des déficits massifs."
+        ],
+        "takeaway": "Le hantavirus n'est pas une menace épidémique. La véritable crise est civilisationnelle : une « société du factice » où les institutions, la presse et la politique mentent systématiquement pour justifier autoritarisme et profit. L'immunité croissante du public contre ces mensonges offre une opportunité historique, mais exige une reconstruction radicale de la confiance institutionnelle fondée sur l'honnêteté, la compétence réelle et l'abandon du simulacre politique-médiatique."
+      },
+      "summarizedAt": "2026-05-14T11:55:31.321Z"
     },
     {
       "id": "TD7On1r8C-8",

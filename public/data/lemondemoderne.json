@@ -3,37 +3,86 @@
   "channelName": "Le Monde Moderne",
   "handle": "@LeMondeModerne",
   "slug": "lemondemoderne",
-  "lastUpdate": "2026-05-11T15:58:57.981Z",
+  "lastUpdate": "2026-05-14T11:58:57.269Z",
   "videos": [
     {
-      "id": "EyipWZXAXzk",
-      "title": "Hantavirus Hantacircus, Iran, Edouard Philippe se lance encore ! La revue de presse d'Alexis Poulin",
-      "url": "https://www.youtube.com/watch?v=EyipWZXAXzk",
-      "publishedAt": "2026-05-11T06:52:43.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/EyipWZXAXzk/hqdefault.jpg",
-      "durationSec": 3791,
+      "id": "TQSqL5tkpL8",
+      "title": "La CIA vous ment, propagande virus, Blair et le business du digital ID ! La RDP avec Alexis Poulin",
+      "url": "https://www.youtube.com/watch?v=TQSqL5tkpL8",
+      "publishedAt": "2026-05-14T07:35:57.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/TQSqL5tkpL8/hqdefault.jpg",
+      "durationSec": 7571,
       "summary": null,
-      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4LTLdQJhwdoLhDWpA5\"}"
+      "_noTranscript": true
     },
     {
-      "id": "uWX6ovoyTVs",
-      "title": "Santé avec Patrick Matini : la vitalité",
-      "url": "https://www.youtube.com/watch?v=uWX6ovoyTVs",
-      "publishedAt": "2026-05-09T09:07:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/uWX6ovoyTVs/hqdefault.jpg",
-      "durationSec": 3257,
-      "summary": null,
-      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4LWJisCbWyFT8cJHH3\"}"
+      "id": "xHb2YVnu7Z4",
+      "title": "Xavier Poussard, Félix Marquardt et Alexis Poulin débunke la comm des Macron",
+      "url": "https://www.youtube.com/watch?v=xHb2YVnu7Z4",
+      "publishedAt": "2026-05-13T17:00:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/xHb2YVnu7Z4/hqdefault.jpg",
+      "durationSec": 3817,
+      "summary": {
+        "tldr": "Xavier Poussard expose une opération de communication orchestrée par l'Élysée autour d'une prétendue relation entre Macron et une actrice iranienne, visant à détourner l'attention du procès américain imminental et à préparer une possible succession de Macron à la présidence de l'Europe fédérale. Cette stratégie s'inscrit dans un système de contrôle politique et de répression des libertés en France, où la presse capitule face au pouvoir.",
+        "thesis": "Le régime macronien est un système autoritaire calqué sur le modèle russe (oligarques, état profond, leader pantomime) qui utilise des opérations de communication grotesques pour masquer la corruption, la pédocriminalité présumée et l'absence totale de démocratie, tout en préparant l'accession de Macron à la tête d'une Europe fédérale totalitaire.",
+        "arguments": [
+          "Le livre 'Devenir Brigitte' de Xavier Poussard présente une **enquête journalistique sourcée** prétendant que Brigitte Macron et Jean-Michel Trogneux seraient la même personne, appuyée sur des analyses de reconnaissance faciale. Malgré les poursuites en cyberharcèlement contre l'auteur, aucune condamnation pour diffamation n'a été prononcée. Poussard note que les poursuites sont bloquées car appliquer la loi SKPA (destinée aux adolescents) à un cas d'enquête journalistique pose des problèmes légaux majeurs.",
+          "L'opération de communication autour de l'actrice iranienne intervient stratégiquement quelques semaines avant l'audience du 22 juin au Delaware dans le procès Macron-Candace Owens. Paris Match publie un article via Florent Tardif (journaliste de cour) présenté par Caroline Fourest, créant une image de Macron en 'séducteur international'. L'Élysée reconnaît implicitement dans le journal Tribune Dimanche que les Macrons 'n'ont aucune garantie sur la viabilité de leur action', admettant par là même qu'ils perdront le procès.",
+          "Le régime macronien fonctionne comme une **hybridation du modèle russe unie**: à la différence des élites russes qui conservent la notion d'intérêt national, les élites françaises formées à Sciences Po sont sélectionnées pour leur absence totale de conscience républicaine. Elles proviennent des réseaux du théâtre subventionné, de cabinets de conseil (McKinsey, BCG) et constituent un appareil de contrôle sans responsabilité démocratique, contrairement aux anciennes carrières politiques structurées.",
+          "Macron a été promis la présidence d'une **Europe fédérale**, notamment via une couverture de The Economist le montrant en 'Sauveur de l'Europe'. Selon Poussard, deux modèles historiques guident ce projet: le 'moment hamiltonien' (fédéralisation par la crise de la dette) et le 'moment bismarckien' (fédéralisation par la guerre). Cette aspiration apparaît confirmée par les documents Epstein mentionnant Macron comme 'futur leader de l'Europe voire du monde'.",
+          "Le système de répression en France utilise des cellules de renseignement (Viginum) et des mécanismes de contrôle judiciaire pour criminaliser la parole. Xavier Poussard décrit une persécution systématique: interdit bancaire, webmaster assigné à résidence, contrôle fiscal, poursuites pour 'cyberharcèlement'. Les médias indépendants (Musk, Trump potentiellement) deviennent les seuls contre-pouvoirs face à cette **dictature technocratique** sans véritables oligarques assumés mais avec un pillage systématique des ressources publiques.",
+          "La presse française a capitulé par **autocensure systématique**: les journalistes savent qu'écrire sur certains sujets détruit leur carrière. Même des enquêtes documentées (Olivier Marleix sur Alstom, affaires classifiées) ne sont jamais assemblées en narration cohérente. Des rédactions reçoivent des ordres d'en haut ('ne pas traiter le sujet') sans que cela soit formalisé. Les projets éditoriaux sérieux sur Brigitte Macron sont systématiquement repoussés à après 2027, montrant la terreur du moment présent.",
+          "Donald Trump a changé de positionnement vis-à-vis de l'affaire (initialement soutenant Candace Owens, puis se rapprochant des Macron) pour des raisons de politique intérieure américaine et de position juridictionnelle dans le Delaware. Cependant, des échéances inévitables (Coupe du monde, 250ème anniversaire de l'indépendance américaine le 4 juillet, midterms) contraignent les acteurs. Les éléments Epstein restent la clé: si Trump y apparaît comme lanceur d'alerte plutôt que complice, cela change totalement la dynamique géopolitique."
+        ],
+        "takeaway": "L'affaire Brigitte Macron révèle l'existence d'un régime autoritaire français déguisé en démocratie, où la répression, la presse complice et les opérations de communication spectaculaires masquent la corruption supposée et préparent la mise en place d'une dictature européenne fédéralisée. Le moment critique arrive en juin 2025 avec le procès américain, où des acteurs extérieurs (Musk, Trump, médias indépendants) pourraient faire basculer l'équilibre actuellement maintenu par la terreur et l'autocensure."
+      },
+      "summarizedAt": "2026-05-14T11:57:58.499Z"
     },
     {
-      "id": "0NJPjliP1-k",
-      "title": "Starmer ratatiné, plus de censure  , Ormuz, au secours, Hollande revient !",
-      "url": "https://www.youtube.com/watch?v=0NJPjliP1-k",
-      "publishedAt": "2026-05-08T10:23:49.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/0NJPjliP1-k/hqdefault.jpg",
-      "durationSec": 6503,
-      "summary": null,
-      "_error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011Caw4LYfrGdbzNBqLAfZx2\"}"
+      "id": "FUUMv0FBTlg",
+      "title": "Mbappe contre Bardella, Glucksmann et les sans-dents,  le couple macron, virus virus , hantavirus !",
+      "url": "https://www.youtube.com/watch?v=FUUMv0FBTlg",
+      "publishedAt": "2026-05-13T09:20:23.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/FUUMv0FBTlg/hqdefault.jpg",
+      "durationSec": 4795,
+      "summary": {
+        "tldr": "Revue de presse mordante couvrant le scandale du couple Macron (gifle et liaison platonique présumée), la campagne de Raphaël Glucksmann avec sa base électorale stéréotypée (Nathalie de Nant), la montée du hantavirus en Argentine, et divers scandales politiques français incluant la condamnation de Sarkozy et les violations des droits des détenus canaques.",
+        "thesis": "La politique française est devenue un spectacle vide de contenu réel, dominé par des personnages médiocres servis par une élite corrompue et incompétente qui perpétue l'impunité tout en écrasant les citoyens ordinaires et les minorités.",
+        "arguments": [
+          "Le couple Macron traverse une crise conjugale révélée par un journaliste de Paris Match : Emmanuel Macron entretenait une relation platonique (mais avec messages intimes) avec l'actrice iranienne Golshifteh Farahani, ce qui a provoqué la jalousie de Brigitte et la scène de gifle en avion. Cet épisode illustre comment les scandales personnels des dirigeants sont instrumentalisés médiatiquement pour humaniser l'image présidentielle plutôt que de traiter les vrais enjeux politiques.",
+          "**La campagne de Raphaël Glucksmann repose sur un profilage électoré révélateur du mépris des élites** : des documents fuités montrent que son équipe a créé le portrait-type de sa base électorale incarnée par Nathalie de Nant, 57 ans, professeure de français à Nantes, consommatrice de contenus France 2, France Inter et de médias mainstream. Ce ciblage commercial de l'électeur démontre que les candidats ne comprennent pas le pays et payent des cabinets de conseil pour inventer des stratégies creuses.",
+          "La **stratégie américaine du déploiement de sous-marins nucléaires lanceurs d'engin** (USS Alaska à Gibraltar, USS Nebraska en Asie) vise à intimider la Chine pendant la visite de Trump. Cette démonstration de force nucléaire révèle comment les grandes puissances géopolitiques se jouent du rapport de force militaire plutôt que de chercher des solutions diplomatiques aux tensions internationales.",
+          "L'antavirus et la **théorie du virus connu depuis les années 90** montrent la répétition du cycle pandémique : des vaccins sont déjà en développement, les théories complotistes refont surface (complot de l'industrie pharmaceutique, lien avec les vaccins Covid), et les gouvernements mobilisent des appareils de crise identiques à ceux du Covid. Cela révèle comment chaque \"crise\" devient un vecteur de contrôle et de désinformation organisée.",
+          "La **double peine des détenus canaques** incarcérés loin de leur territoire d'origine est une manifestation néocoloniale française : environ 60 détenus ont été transférés de force en métropole après les émeutes de 2024, privés de visites et isolés. Frédéric Grochin, 31 ans, est mort en prison à Bourgogne, loin de sa tribu, illustrant comment le système pénal français utilise l'éloignement géographique comme outil de répression politique contre les mouvements indépendantistes.",
+          "Le contraste d'impunité entre Nicolas Sarkozy et les citoyens ordinaires expose la corruption systémique : Sarkozy risque 10 ans pour corruption et financement illégal de campagne via Kadhafi, mais ses 5 ans initiaux lui ont coûté seulement 20 jours à La Santé où il écrivait. Parallèlement, l'ex-commandant de la lutte antidrogue accro aux drogues synthétiques (3MMC) reste en poste malgré ses scandales, tandis que 90 milliards d'euros vont à l'Ukraine sans transparence sur la destination réelle des fonds.",
+          "L'affaire de l'animal crushing et les vidéos de torture d'animaux monétisées sur internet révèlent **l'effondrement moral de l'espèce humaine** : des individus paient pour regarder des singes, oiseaux et rongeurs être torturés, les contrevenants reçoivent 2 ans avec sursis. Cette criminalité organisée dépasse en horreur les scandales politiques traditionnels et montre comment le système tolère les pires formes de cruelty contre les créatures vulnerables."
+        ],
+        "takeaway": "La France contemporaine fonctionne comme un système théâtral où les scandales politiques personnels, les campagnes électorales vides, et les crises sanitaires orchestrées occultent la corruption systémique, l'impunité des élites, la répression des minorités, et l'effondrement moral de la société. Le spectacle médiatique remplace la politique réelle, tandis que les institutions (justice, médias, administration) servent à perpétuer ce système d'exploitation plutôt qu'à le réformer."
+      },
+      "summarizedAt": "2026-05-14T11:58:15.423Z"
+    },
+    {
+      "id": "4ItrFnN8NRQ",
+      "title": "Hantavirus médiatique, Macron en Afrique, VDL, UE, Ukraine et coorruption",
+      "url": "https://www.youtube.com/watch?v=4ItrFnN8NRQ",
+      "publishedAt": "2026-05-12T10:04:58.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/4ItrFnN8NRQ/hqdefault.jpg",
+      "durationSec": 4865,
+      "summary": {
+        "tldr": "Revue d'actualité critiquant la couverture médiatique alarmiste du hantavirus (présentée comme excessive comparée à son danger réel), tout en dénonçant la corruption endémique en France et en Ukraine, les dysfonctionnements politiques européens, et la censure des réseaux sociaux planifiée par l'UE.",
+        "thesis": "Les médias de masse créent une psychose inutile autour du hantavirus pour détourner l'attention des vrais problèmes : la corruption systémique à haut niveau, les guerres non résolues (Ukraine, Moyen-Orient), et la mise en place d'un contrôle autoritaire via la censure des réseaux sociaux sous couvert de protection des enfants.",
+        "arguments": [
+          "Le hantavirus est présenté médiatiquement comme une menace gravissime alors que ses caractéristiques épidémiologiques le rendent beaucoup moins dangereux que le Covid-19. Son **incubation est très longue (1 à 6 semaines)**, sa **transmission nécessite un contact étroit prolongé** (contrairement au Covid qui se propage par gouttelettes aériennes), et sa **létalité reste inférieure à 1% en contexte global**, bien que plus élevée chez les cas symptomatiques (40-50%). Pourtant, ce virus existe depuis longtemps en Amérique du Sud sans provoquer d'épidémies majeures.",
+          "Nicolas Sarkozy, ancien président de la République, fait l'objet de poursuites judiciaires pour **association de malfaiteurs du plus haut niveau de gravité** (financement de campagne électorale par l'argent de Mouammar Kadhafi, qui avait financé des attentats terroristes en France), mais conserve une influence politique considérable comme 'padrino' du système. Ces scandales d'État sont relégués au second plan par les médias tandis que le hantavirus occupe les unes, révélant une hiérarchie médiatique orientée.",
+          "L'Ukraine reçoit des milliards d'euros sans contrôle démocratique ou parlementaire réel, alors que le pays demeure **le plus corrompu d'Europe** avec des collaborateurs de Zelinski (notamment Yermak) accusés de corruption généralisée. Les fonds seraient en partie détournés vers des achats de luxe et des propriétés plutôt que vers l'effort de guerre, situation ignorée par les autorités européennes qui continuent d'exiger des sacrifices économiques aux citoyens.",
+          "L'Union européenne, par la voix d'Ursula von der Leyen, promeut **la restriction d'accès aux réseaux sociaux pour les mineurs** sous prétexte de les protéger des contenus nuisibles, tout en préparant le lancement d'une plateforme alternative (W, lancée à Davos 2025) totalement contrôlable par les autorités européennes. Ce projet crée un monopole de la parole et remplace la liberté d'expression par une 'safe place' de propagande officielle.",
+          "Emmanuel Macron effectue un voyage en Afrique présenté comme 'colonie de vacances' où il joue au football et fait la cuisine pour se créer artificiellement une vie sociale, tandis que les crises géopolitiques majeures s'aggravent (conflit israélo-palestinien, tensions en Ormuz, positionnement militaire français). Un documentaire promotionnel financé par les fonds publics est en préparation pour sortir après l'élection de 2027.",
+          "Keir Starmer, premier ministre britannique défait électoralement, refuse de démissionner malgré plus de 81 députés de son parti réclamant son départ, situation parallèle à la dissolution macronniste qui n'a résolu aucun problème. Ces leaders non-légitimes incarnent une crise de légitimité démocratique où les élites ignorent les mandats électoraux tout en prétendant écouter les citoyens.",
+          "Un film français ayant coûté plus de 4 millions d'euros de fonds publics n'a attiré que 25000 spectateurs en deux semaines, montrant l'inefficacité de l'aide culturelle d'État. Ce modèle permet aux acteurs-producteurs de s'enrichir personnellement via les dispositifs d'aide publique (CNC, région, avances), illustrant comment l''exception culturelle française' devient un système de redistribution privée de l'argent public."
+        ],
+        "takeaway": "Derrière la couverture alarmiste du hantavirus se cache une redirection de l'attention médiatique loin des véritables crises : corruption endémique des élites françaises et européennes, détournement de fonds publics, guerres non-résolues, et mise en place d'une censure institutionnelle déguisée en protection. Le système médiatico-politique occidental fonctionne par cycles de panique artificielle pour maintenir une emprise psychologique sur les populations tandis que les vraies malversations restent impunies."
+      },
+      "summarizedAt": "2026-05-14T11:58:57.269Z"
     }
   ]
 }
