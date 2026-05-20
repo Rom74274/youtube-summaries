@@ -1,15 +1,10 @@
 name: Summarize new videos
 
 on:
-  # Cron désactivé: YouTube bloque les IPs GitHub Actions, ce qui produit des
-  # données partielles. Refresh manuel depuis Mac via `yt-refresh` à la place.
+  # Cron désactivé + plus de path filter: YouTube bloque les IPs GitHub Actions,
+  # ce qui produit des données partielles. Refresh manuel depuis Mac via
+  # `yt-refresh`. Le workflow reste déclenchable manuellement via "Run workflow".
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'channels.json'
-      - 'scripts/summarize.mjs'
-      - '.github/workflows/summarize.yml'
 
 permissions:
   contents: write
