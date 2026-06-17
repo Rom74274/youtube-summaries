@@ -3,8 +3,31 @@
   "channelName": "Scanderia",
   "handle": "@Scanderia",
   "slug": "scanderia",
-  "lastUpdate": "2026-06-07T20:52:45.693Z",
+  "lastUpdate": "2026-06-17T16:57:24.817Z",
   "videos": [
+    {
+      "id": "peqNdGdFQho",
+      "title": "La nouvelle IA d'Apple est plus dingue que vous ne le pensez! Octogone Tech #9",
+      "url": "https://www.youtube.com/watch?v=peqNdGdFQho",
+      "publishedAt": "2026-06-15T12:12:15.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/peqNdGdFQho/hqdefault.jpg",
+      "durationSec": 7555,
+      "summary": {
+        "tldr": "Apple développe une IA locale intégrée à ses appareils en partenariat avec Google, tandis que Fable d'Anthropic a été interdit à l'export par les États-Unis. Ces événements illustrent une course géopolitique intense autour de l'IA, où les petits modèles optimisés (« small is beautiful ») deviennent aussi performants que les grands modèles frontières grâce à de meilleurs systèmes de contexte (harness).",
+        "thesis": "L'IA ne progresse plus seulement par la taille des modèles, mais par l'optimisation des systèmes qui les encadrent (harness, RAG, contexte). Cette approche « small is beautiful » permet aux petits acteurs et communautés de rivaliser avec les géants, tandis que les restrictions géopolitiques sur les modèles frontières accélèrent la démocratisation de l'IA décentralisée et souveraine.",
+        "arguments": [
+          "**Les harness (systèmes de contexte)** sont devenus plus importants que la taille brute des modèles. Un petit modèle bien harnaché avec beaucoup de contexte historique et professionnel peut égaler les performances d'un modèle frontière massive sur des tâches spécifiques. C'est exactement comme une équipe de travail où les anciens expérimentés guident les novices : le harness fournit le contexte métier, l'historique et les ajustements nécessaires. Cela signifie que des petits modèles locaux optimisés deviennent viables alternatives aux géants coûteux.",
+          "**Le **phénomène de nerfing de Fable 5** par Anthropic lui-même (avant l'interdiction gouvernementale) est révélateur d'une tendance dangereuse : les entreprises d'IA limitent intentionnellement les capacités de recherche sur leurs modèles, transformant l'IA en outil dirigé plutôt qu'ouvert. Anthropic avait annoncé que toute tentative d'entraîner ou d'améliorer Fable en local serait bloquée, ce qui empêcherait les utilisateurs de créer leurs propres CRM ou outils métier. C'est une forme de verrouillage bien pire que les restrictions gouvernementales.",
+          "**L'interdiction de Fable par l'administration Trump** s'appuie sur une demande d'Amazon (qui investit 8 milliards chez Anthropic) et révèle des enjeux géopolitiques réels autour de la cybersécurité. Mythos (le modèle précédent) avait trouvé plus de 200 bugs dans Firefox et d'autres systèmes sécurisés. Cependant, cette même puissance peut être reproduite avec d'autres modèles mieux harnaché, ce qui rend l'interdiction plus symbolique que réellement efficace pour contrôler les capacités offensives.",
+          "**Apple Intelligence représente une stratégie d'intégration massive de données personnelles locales** : l'IA accède à WhatsApp, calendriers, photos, certificats scolaires uploadés, tests de santé. Cela crée une arme d'analyse comportementale extrêmement puissante mais invisibilisée (contrairement à Google qui ne dit pas ce qu'il sait). Le risque légal en Europe et aux États-Unis est majeur car cela constitue une vente forcée de services IA liés à l'écosystème Apple, sans possibilité pour l'utilisateur de changer la source du modèle.",
+          "**Tesla a créé le format .small (petit modèle)** avec un brevet accepté en 2024 qui accélère l'entraînement du full self-driving par 5. C'est une optimisation du stockage et du flux de données (vidéos, CSV) qui élimine les goulots d'étranglement. Ce format aurait dû être créé par une communauté open-source (comme VLC l'a fait pour le codec vidéo), mais c'est Tesla qui l'a breveté. Cela illustre comment les grosses entreprises imposent les standards alors que les communautés pourraient le faire.",
+          "**La dépendance à la RAM explose** (RAM apocalypse) : les prix ont multiplié par 7 à 10 en raison de la demande colossale d'IA. Même Apple, avec la meilleure logistique du monde, en souffre. Cela crée un goulot d'étranglement global que les nouveaux formats (comme .small) et les modèles plus légers aident à contourner. Une usine de RAM prend 2 ans à construire, et la technologie DDR6 arrive, ce qui aggravera temporairement la situation.",
+          "**La souveraineté technologique française et européenne est compromise par la dépendance aux infrastructures américaines** : Mistral (le champion français) n'a pas ses propres serveurs souverains, LVMH utilise Google Cloud, CMA CGM utilise Microsoft Azure. Même le Crédit Mutuel, plus mutualiste, a dû construire sa propre infrastructure. La solution : des projets comme le campus de l'IA avec ASML et Mistral (1,4 GW prévu pour 2032), mais on manque de structure énergétique et de volonté politique pour vraiment s'émanciper."
+        ],
+        "takeaway": "L'avenir de l'IA ne dépendra pas uniquement des modèles les plus grands et les plus puissants, mais de la capacité à optimiser contexte, données et harness pour des petits modèles viables localement. Les restrictions géopolitiques, loin de ralentir l'innovation, accélèrent la décentralisation. Les communautés et petits acteurs armés de la philosophie « small is beautiful » (Rodrig Beck) peuvent rivaliser avec les géants en se concentrant sur les vrais leviers : souveraineté énergétique, formats ouverts et apprentissage continu plutôt que la course aux paramètres bruts. La France et l'Europe ont une opportunité de bâtir une alternative crédible si elles investissent dans la structure, pas seulement en marketing."
+      },
+      "summarizedAt": "2026-06-17T16:57:24.817Z"
+    },
     {
       "id": "eAffMkQkRyA",
       "title": "L'effondrement de l'auto électrique européenne? #octogone86",
@@ -72,29 +95,6 @@
         "takeaway": "La **RAMpocalypse** confirme que les défis réels de l'IA ne sont pas abstraits mais profondément matériels et géopolitiques. L'IA locale devient l'axe stratégique central : c'est la seule façon d'échapper à la dépendance à Nvidia, Google, OpenAI et à une régulation fragmentée. La fenêtre de tir pour les acteurs décentralisés (Mistral, initiatives open-source, chercheurs) se ferme rapidement à mesure que les hyperscalers consolidident leurs positions. L'éducation à l'IA locale, dès le secondaire, est devenue un impératif civilisationnel pour former la génération capable de maintenir les systèmes de demain."
       },
       "summarizedAt": "2026-05-14T11:55:50.925Z"
-    },
-    {
-      "id": "T7wuY2nnE_Y",
-      "title": "Les Émirats quittent l’OPEP : le cartel pétrolier se fissure #octogone84",
-      "url": "https://www.youtube.com/watch?v=T7wuY2nnE_Y",
-      "publishedAt": "2026-05-07T11:00:00.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/T7wuY2nnE_Y/hqdefault.jpg",
-      "durationSec": 4345,
-      "summary": {
-        "tldr": "Les Émirats Arabes Unis quittent l'OPEP après 60 ans, marquant une rupture majeure dans le cartel pétrolier. Cette décision révèle une fragmentation géopolitique plus profonde impliquant les États-Unis, Israël, l'Iran et la Chine, avec des conséquences majeures sur l'équilibre énergétique et stratégique mondial, notamment pour Taïwan, la Corée et le Japon.",
-        "thesis": "Le départ des Émirats de l'OPEP ne relève pas simplement d'une stratégie commerciale, mais d'un réalignement géopolitique majeur où les acteurs régionaux s'adaptent à l'affaiblissement du levier de l'OPEP face à la domination américaine et russe, tout en négociant leur sécurité avec Israël et les États-Unis plutôt qu'avec l'Arabie Saoudite, tandis que la Chine consolide son influence économique et énergétique.",
-        "arguments": [
-          "L'OPEP a traditionnellement fonctionné comme **un instrument de contrôle des prix par limitation de la production**. Cependant, ce levier a perdu de sa force car les États-Unis, grâce au gaz de schiste et aux réserves du Venezuela, contrôlent désormais une grande partie du marché mondial, tandis que la Russie représente le deuxième producteur. Abu Dhabi cherche à maximiser ses revenus à court terme en produisant davantage plutôt que de dépendre d'une discipline collective orchestrée par Riyad.",
-          "Les Émirats disposent d'un avantage logistique décisif avec l'oléoduc d'Abschan-Fujairah, qui leur permet de contourner le détroit d'Ormuz en direction de l'est. Cette infrastructure transforme leur géographie en levier d'autonomie stratégique, particulièrement crucial dans un contexte de tensions iraniennes où les routes maritimes traditionnelles deviennent risquées.",
-          "Abu Dhabi a choisi de s'allier aux États-Unis et à Israël plutôt qu'à l'Arabie Saoudite, acceptant publiquement la présence de 300 experts militaires israéliens sur son territoire. Cette décision est irréversible et redéfinit complètement les alliances moyen-orientales, notamment face à la menace iranienne qui a ciblé les installations Microsoft et Oracle à Abu Dhabi, révélant le danger permanent que représente l'Iran pour les ambitions des Émirats en tant que hub technologique et ville de l'intelligence artificielle.",
-          "**La Guerre des Puissances dans le Détroit d'Ormuz** se joue selon des règles historiques : l'Iran applique le modèle du Danemark au XVe siècle, qui avait imposé des taxes de passage pendant 400 ans, montrant qu'une puissance côtière peut contrôler les routes maritimes. L'Iran détient actuellement la main forte, ayant endommagé partiellement les bases américaines régionales par des attaques de drones, tandis que Trump ne peut déclarer officiellement une guerre sans l'approbation du Congrès selon le **War Powers Resolution de 1973**.",
-          "Trump utilise des contournements légaux pour justifier des actions militaires sans déclarer la guerre : chaque cessez-le-feu redéfinit les délais du War Powers Resolution, permettant une extension de 60 jours à chaque trêve. De plus, il a approuvé 8,6 milliards de dollars de ventes d'armements au Moyen-Orient en invoquant une situation d'urgence, contournant l'approbation du Congrès, illustrant comment le vocabulaire (opération vs. guerre) masque la réalité stratégique.",
-          "La Chine et le Japon redéfinissent les rapports de force économiques : les Chinois ont vendu massivement la dette américaine pour la première fois depuis 1974, signalant une réorientation stratégique. Le Japon, détenant trois fois plus de dette américaine que la Chine, ne peut plus en absorber davantage et dépend des swap de yens avec la Réserve Fédérale. Trump a également renommé le Pentagone en « Department of War », marquant symboliquement un basculement idéologique malgré l'interdiction légale de déclarer la guerre sans le Congrès.",
-          "En Asie du Pacifique, une réunification potentielle de la Corée transformerait l'équilibre régional : une Corée unifiée aurait la puissance économique de l'Allemagne, l'arme nucléaire, et contrôlerait les principales raffineries de jet fuel mondiales (Corée du Sud est le premier exportateur). Cela rendrait une puissance nucléaire corééenne virtuellement supérieure au Japon, remettant en question la hiérarchie régionale et ouvrant des opportunités pour l'intégration économique du Moyen-Orient (via un approvisionnement énergétique chinois) aux dépens des intérêts américains."
-        ],
-        "takeaway": "Le monde entre dans une phase de réalignement profond où les anciennes structures de pouvoir (OPEP, alliances atlantiques, domination américaine en Asie) se fissurent. Les acteurs régionaux—Émirats, Japon, Corée du Sud, Taïwan—cherchent autonomie et développement économique plutôt que confrontation militaire. La Chine consolide methodiquement son influence par l'énergie et l'infrastructure, tandis que les États-Unis maintiennent leur pouvoir militaire mais perdent leur levier économique. Les trois à dix prochaines années seront déterminantes : une possible réunification coréenne, une stabilisation énergétique en Asie, et une redéfinition des routes maritimes mondiales sous contrôle distribué et non plus hégémonique."
-      },
-      "summarizedAt": "2026-05-20T08:37:39.867Z"
     }
   ]
 }
