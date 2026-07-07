@@ -3,99 +3,47 @@
   "channelName": "Omerta",
   "handle": "@omertamediaoff",
   "slug": "omerta",
-  "lastUpdate": "2026-06-17T16:58:40.384Z",
+  "lastUpdate": "2026-07-07T08:20:31.995Z",
   "videos": [
     {
-      "id": "fh5ss5flPW8",
-      "title": "PEER DE JONG \"LA FRANCE A OUBLIÉ LA LANGUE DE L'AFRIQUE\"",
-      "url": "https://www.youtube.com/watch?v=fh5ss5flPW8",
-      "publishedAt": "2026-06-17T16:00:08.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/fh5ss5flPW8/hqdefault.jpg",
-      "durationSec": 3235,
-      "summary": {
-        "tldr": "La France a progressivement perdu son influence et sa connaissance profonde de l'Afrique entre 1994 et 2025, en raison d'une succession de choix politiques et diplomatiques maladroits (dévaluation du franc CFA, opération Turquoise au Rwanda, intervention en Libye, militarisation des relations). Cette perte a ouvert la porte à d'autres puissances (Russie, États-Unis, Chine) et culminé avec les coups d'état sahéliens et le départ de la France du continent.",
-        "thesis": "La rupture franco-africaine n'est pas un événement brutal mais le résultat d'une lente érosion de la capacité française à comprendre et respecter les réalités africaines, aggravée par une transition de l'influence personnelle et culturelle vers une approche diplomatique et militaire rigide qui a progressivement aliéné les États africains.",
-        "arguments": [
-          "L'année 1994 marque le véritable tournant avec trois événements concomitants : la mort de Félix Houphouët-Boigny (symbole de la vieille garde connectée à la France), la **dévaluation surprise du franc CFA par Édouard Balladur** (qui divise par deux les économies africaines sans avertissement), et le génocide rwandais. Cette conjonction révèle une France qui considère les États africains avec méfiance malgré un discours d'extrême proximité, et expose une relation fondamentalement asymétrique.",
-          "L'intervention française en Libye en 2011 sous Nicolas Sarkozy constitue un **point de rupture stratégique majeur**. Au-delà du catastrophe humanitaire, cette opération disperse les arsenaux de Kaddafi dans le Sahel, déstabilise toute la région et entraîne une fragmentation tribale incontrôlable. Les Africains comprennent que la France ne maîtrise plus les conséquences de ses interventions et a perdu sa finesse géopolitique historique.",
-          "Le passage du ministère de la Coopération vers une diplomatie classique unifiée (amorcé par Jospin 1997-2002) représente **l'institutionnalisation de l'oubli**. Auparavant, il y avait une double structure qui fonctionnait : contacts politiques et financiers d'un côté, accès direct au chef d'État de l'autre. Cette fusion bureaucratique détruit le système relationnel personnel qui fondait l'influence française et soumet l'Afrique aux règles diplomatiques rigides.",
-          "L'opération **Serval-Barkhane (2013-2022) démontre l'incapacité française à traduire la supériorité militaire en succès politique**. Malgré des performances opérationnelles impeccables (décapitation des groupes djihadistes locaux), la France ne pratique pas la contre-insurrection et ignore la doctrine française d'Algérie pourtant redécouverte par les Américains avec Petraeus. En imposant des casernes et des équipements européens à des armées légères mobiles, la France les emprisonne au lieu de les renforcer.",
-          "La France commet l'erreur capitale d'**imposer des conditions souveraines au Mali en 2013**, notamment en empêchant le commandant Goïta d'entrer à Kidal. Cet acte détruit le respect mutuel et alimente le ressentiment qui culminera dans les coups d'état de 2020-2021. Elle oublie que le Mali possède une histoire millénaire (l'Empire du Mali) et mérite un traitement de nation souveraine, non de protectorat.",
-          "Entre 2020 et 2025, le **départ français du continent est précipité et total** (sauf Djibouti à 45 millions de loyer). Les ports sont vendus à Bolloré, les banques françaises se retirent, aucune implantation économique réelle n'existe. Simultanément, la Russie (Wagner depuis 2017), les États-Unis (sociétés militaires privées depuis 2013), la Chine, la Turquie et même l'Ukraine comblent le vide. Cette vacuité stratégique révèle que la France n'a jamais investi réellement au-delà de relations clientélistes.",
-          "La **condescendance française envers l'Afrique** (tutoyement des présidents, leçons de morale, ingérence dans les affaires internes) contraste avec le respect accordé à d'autres continents comme l'Asie. Cette attitude paternaliste, symbole par le discours de Dakar 2007 (« l'homme africain n'a pas assez entré l'histoire »), aliène durablement les élites africaines éduquées et brillantes. La rupture est d'autant plus irréversible que, comme dans un divorce, le partenaire rejeté doit d'abord regagner confiance et respect avant de pouvoir revenir."
-        ],
-        "takeaway": "La France a transformé sa relation privilégiée avec l'Afrique en position de faiblesse par une succession de ruptures : perte de compréhension fine des réalités locales, militarisation des rapports, bureaucratisation de la diplomatie, absence d'investissement économique véritable, et attitude condescendante. Le résultat est un vide de 5 années (2020-2025) durant lequel d'autres puissances ont consolidé leur présence. Pour retrouver une influence, la France doit d'abord admettre son humilité, respecter réellement la souveraineté africaine, prendre des risques entrepreneuriaux, et reconstruire des relations basées non sur la domination nostalgique mais sur le partenariat égalitaire."
-      },
-      "summarizedAt": "2026-06-17T16:57:51.432Z"
+      "id": "ArTp6OUJ4jQ",
+      "title": "LA COURSE AU RÉARMEMENT",
+      "url": "https://www.youtube.com/watch?v=ArTp6OUJ4jQ",
+      "publishedAt": "2026-07-07T05:00:12.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ArTp6OUJ4jQ/hqdefault.jpg",
+      "durationSec": 1369,
+      "summary": null,
+      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNUupoy2JVLNFnjze3V\"}"
     },
     {
-      "id": "eeSsRWFTU-w",
-      "title": "PIERRE YVES ROUGEYRON : 2027 MACRON NE VEUT PAS LÂCHER",
-      "url": "https://www.youtube.com/watch?v=eeSsRWFTU-w",
-      "publishedAt": "2026-06-17T10:00:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/eeSsRWFTU-w/hqdefault.jpg",
-      "durationSec": 2066,
-      "summary": {
-        "tldr": "La campagne présidentielle française 2027 se structure autour d'une stratégie de Macron visant à neutraliser le bloc central par l'élimination mutuelle des candidats modérés, lui permettant de revenir au pouvoir comme recours face à un duel des extrêmes (Bardella vs Mélenchon). Attal et Philippe s'affrontent pour la suprématie centriste tandis que Macron orchestre le chaos politique par l'ingénierie des perceptions.",
-        "thesis": "Emmanuel Macron refuse de quitter la scène politique et entend maintenir sa domination en empêchant l'émergence d'une majorité stable au centre, préférant un scénario chaotique où il serait rappelé comme recours incontournable face aux extrêmes.",
-        "arguments": [
-          "**La stratégie du chaos orchestré** : Macron utilise l'**ingénierie des perceptions**, un concept selon lequel la réalité politique n'existe que par la perception qu'on en a. Il cherche à créer suffisamment de chaos pour pouvoir surfer dessus et se présenter comme le seul recours. Cette approche s'appuie sur le maintien de tensions intercommunautaires et une politique de terre brûlée destinée à empêcher toute majorité alternative de s'installer.",
-          "Attal et Philippe incarnent deux stratégies opposées dans le bloc central : Philippe souffre d'un déficit d'énergie lié à sa morgue aristocratique (héritage de Chirac-Jupé), tandis qu'Attal joue la carte de la France des territoires avec une énergie feinte. Macron les maintient en tension mutuelle en les forçant à s'éliminer l'un l'autre, sachant qu'il ne peut avoir que trois candidats maximums au centre sans que tous périclitent.",
-          "Le rôle crucial d'**Alexis Kohler** révèle l'architecture du pouvoir macroniste : il incarne une situation rarissime en histoire politique française en concentrant à la fois le contrôle de l'énarchie et celui du capital post-français (les grandes familles). C'est cet homme qui amène Philippe avec lui et qui bloque Macron dans son désir de terre brûlée politique.",
-          "La **brésilianisation froide** est le véritable objectif : créer un effondrement psychique des populations dans un climat de tension permanent où la sécurité devient monayable. Ce modèle repose sur l'acceptation de restrictions politiques en échange d'un minimum de sécurité, reproduisant le système des favelas où les bandes ethniques terrorisent pendant que l'État propose sa protection.",
-          "Le **rackettage politique** constitue le mécanisme concret : d'un côté, terroriser les Français par le spectre de l'extrême droite ; de l'autre, exploiter les peurs face à l'immigration (contrôlée par le traité d'Amsterdam, hors de la compétence de tout gouvernement français) pour opposer les populations. Chaque bloc se pose en protecteur de l'autre tout en maintenant le climat de chaos.",
-          "Mélenchon adopte une stratégie diamétralement opposée inspirée du **populisme latino-américain théorisé par Ernesto Laclau et Chantal Mouffe** : conflictualiser plutôt que pacifier, donner des ennemis aux électeurs pour les mobiliser. Contrairement au RN qui cherche la respectabilité bourgeoise, Mélenchon accepte sa position de non-souveraineté française face à Bruxelles et crée une guerre symbolique permanente pour galvaniser ses troupes.",
-          "L'absence de souveraineté française structure tout le jeu politique : la France étant un pays 'occupé' politiquement par l'Union européenne, aucune véritable politique de transformation n'est possible. Cette réalité oblige les acteurs à choisir entre l'acceptation résignée (bloc central) ou la conflictualisation permanente (Mélenchon) comme seules stratégies viables."
-        ],
-        "takeaway": "La présidentielle 2027 s'annonce comme une bataille pour l'élimination du bloc central, orchestrée par Macron en vue de son retour au pouvoir via un scénario chaotique d'extrêmes opposés. Les véritables enjeux ne résident pas dans les programmes mais dans la gestion des perceptions et les jeux de pouvoir entre réseaux. L'absence structurelle de souveraineté française redéfinit complètement les conditions du jeu politique traditionnel."
-      },
-      "summarizedAt": "2026-06-17T16:58:05.771Z"
+      "id": "hLiI9D235O4",
+      "title": "IRAN : LES COULISSES D'UN DOCUMENTAIRE HORS NORME",
+      "url": "https://www.youtube.com/watch?v=hLiI9D235O4",
+      "publishedAt": "2026-07-06T16:12:22.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/hLiI9D235O4/hqdefault.jpg",
+      "durationSec": 1411,
+      "summary": null,
+      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNUwvZqSGLTM7uRfeV5\"}"
     },
     {
-      "id": "RrbJ7em_C6o",
-      "title": "QUELLES STRATÉGIES POUR LA FRANCE ?",
-      "url": "https://www.youtube.com/watch?v=RrbJ7em_C6o",
-      "publishedAt": "2026-06-17T05:00:01.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/RrbJ7em_C6o/hqdefault.jpg",
-      "durationSec": 1571,
-      "summary": {
-        "tldr": "La France conserve une présence globale dans les crises internationales actuelles (Ukraine, Moyen-Orient, Proche-Orient) mais son influence réelle s'érode considérablement. Elle doit désormais compter sur le dialogue diplomatique, ses partenariats stratégiques au Moyen-Orient et sa dissuasion nucléaire autonome pour peser sur les équilibres internationaux.",
-        "thesis": "La France demeure centralement positionnée sur la scène internationale mais son influence concrète décline : elle passe d'une puissance d'action à une puissance de paroles et de postures, particulièrement visible en Ukraine où elle est devenue périphérique après l'exclusion diplomatique de février 2025.",
-        "arguments": [
-          "La France occupe une position stratégique unique en Europe avec une empreinte globale dans plusieurs conflits majeurs, notamment en Ukraine et au Moyen-Orient. Cependant, son influence réelle s'est considérablement réduite : elle exerce davantage par les déclarations et les postures que par une capacité à influer concrètement le cours des événements. Cette distinction entre présence et influence marque le décalage principal de la position française actuelle.",
-          "En Ukraine, la France joue désormais un rôle de second plan après avoir été évincée du jeu diplomatique en février 2025 par la reprise du dialogue direct entre Washington et Moscou. Les trois acteurs essentiels sont l'Ukraine, la Russie et les États-Unis; les Européens, incluant la France, sont devenus des acteurs périphériques cherchant à se réinviter à la table des négociations. Les tentatives françaises de se repositionner passent par le soutien militaire et financier à l'Ukraine, mais ces manœuvres restent davantage des postures que des actions diplomatiques crédibles.",
-          "Au Proche-Orient, la France dispose d'une légitimité historique et d'une antériorité pour intervenir dans la crise israélo-libanaise, contrairement à la situation ukrainienne. En réaction rapide caractéristique, Emmanuel Macron a déployé des forces navales importantes en Méditerranée orientale et articulé une **diplomatie dissuasive** via le porte-avion Charles de Gaulle. Cependant, la France dispose de moins de leviers qu'autrefois pour peser dans cette région, bien qu'elle puisse maintenir une **appréciation autonome de situation** grâce à ses capteurs militaires sans dépendre des États-Unis.",
-          "Les partenariats stratégiques français au Moyen-Orient (Émirats arabes unis, Qatar, Koweit, Jordanie, Irak, Chypre) reposent sur un modèle gagnant-gagnant où la France vend du matériel technologique de défense (Rafale, navires de surface, systèmes antiaériens) tout en offrant formation, savoir-faire et une garantie de soutien militaire. L'avantage distinctif du Rafale est sa livraison clé en main sans restrictions d'emploi, contrairement aux avions américains (F-15, F-35) que les États-Unis continuent de piloter à distance. Cette autonomie technologique demeure un atout commercial et stratégique majeur pour la France.",
-          "Le déploiement du Charles de Gaulle et du porte-hélicoptères Tonnerre répond à trois objectifs simultanés : créer un signal stratégique dissuasif, protéger les 60 000 citoyens français au Liban et les 400 000 au Moyen-Orient, et acquérir une **appréciation autonome de situation** par le biais de capteurs avancés permettant de comprendre l'évolution du conflit indépendamment des alliés américains. Cette posture reste strictement défensive, excluant toute implication directe aux côtés des opérations israélo-américaines.",
-          "Emmanuel Macron maintient une ligne de crête entre communication militaire et effet politico-militaire, cherchant à positionner la France comme acteur dans la région malgré l'absence d'implication directe. Cette posture défensive devrait persister tant que le conflit entre Israélo-Américains et l'Iran continue de s'intensifier plutôt que de se régler. Macron reconnaît lui-même qu'il ne voit aucune raison à un règlement rapide des tensions.",
-          "Malgré l'érosion de son influence, la France dispose de deux atouts fondamentaux : sa **dissuasion nucléaire autonome**, unique en Europe continentale, qui représente une assurance-vie stratégique justifiant l'investissement colossal de 6-7 milliards d'euros annuels, et sa capacité de dialogue multilatéral avec les différents belligérants (Iran, Liban, Israël, États-Unis). Cette capacité de communication diplomatique, bien que sa crédibilité soit questionnée, reste un atout à réactiver, contrairement à la coupure relationnelle avec Moscou jugée contre-productive dans la gestion de la crise ukrainienne."
-        ],
-        "takeaway": "La France doit accepter un rôle redéfini : elle ne peut plus prétendre peser sur les grands équilibres internationaux façonnés par la tectonique géopolitique post-Ukraine, mais elle conserve une capacité d'action significative via ses partenariats régionaux au Moyen-Orient, son arsenalucléaire dissuasif et sa capacité de dialogue. Ses forces résident dans l'autonomie technologique de ses systèmes d'armes, la pertinence historique de son implication régionale (Proche-Orient), et le maintien de canaux de communication avec l'ensemble des acteurs majeurs—des atouts qu'elle doit chercher à valoriser plutôt que de simuler une influence globale qu'elle ne possède plus."
-      },
-      "summarizedAt": "2026-06-17T16:58:23.087Z"
+      "id": "8AiwGi7zy-s",
+      "title": "LIVE : OCCIDENT DÉGÉNÉRÉ",
+      "url": "https://www.youtube.com/watch?v=8AiwGi7zy-s",
+      "publishedAt": "2026-07-06T12:15:52.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/8AiwGi7zy-s/hqdefault.jpg",
+      "durationSec": 4035,
+      "summary": null,
+      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNV5xWc6Uv58vqm65d8\"}"
     },
     {
-      "id": "L_pdjG-zq4k",
-      "title": "TUGDUAL DENIS : LA DROITE N'A PAS DIT SON DERNIER MOT",
-      "url": "https://www.youtube.com/watch?v=L_pdjG-zq4k",
-      "publishedAt": "2026-06-16T16:00:35.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/L_pdjG-zq4k/hqdefault.jpg",
-      "durationSec": 2970,
-      "summary": {
-        "tldr": "Tugdual Denis, directeur de Valeurs Actuelles, présente son livre « La Cendre et le Feu » qui retrace l'histoire personnelle et politique de la droite française à travers ses rencontres avec des figures majeures (Le Pen, Fillon, Édouard Philippe, Mitterrand). L'ouvrage défend une droite caricaturée, maudite par les défaites historiques, mais riche de fidélités, d'héroïsme et de mythologies.",
-        "thesis": "La droite française, souvent diabolisée et politiquement incorrecte aux yeux de l'establishment, possède une profondeur culturelle, militaire et patriotique ignorée. Denis entend célébrer cette droite au-delà des étiquettes partisanes, en mettant l'accent sur les mémoires, les fidélités héroïques et les enracinements historiques qui la composent réellement.",
-        "arguments": [
-          "**La malédiction historique de la droite** : De l'épuration sauvage après-guerre (incarnée par le grand-père avocat de Denis) à la Guerre d'Algérie, en passant par la diabolisation de la famille Le Pen et l'affaire Fillon en 2017, la droite accumule des stigmates et des cicatrices politiques. Cette accumulation de défaites et de calamités explique le titre « La Cendre et le Feu » - la cendre des malédictions, mais aussi le feu des élans et des mythologies qui persistent.",
-          "Jean-Marie Le Pen, arrivé trop tôt avant un écosystème médiatique favorable au nationalisme, s'est volontairement caricaturé par la provocation (autocollants agressifs, rhétorique outrancière). Denis s'interroge : si Le Pen avait employé une rhétorique plus conventionnelle, aurait-il gelé la question de l'immigration en la portant de manière si extrême, rendant tout débat ultérieur sur ce sujet suspect de lépénisme ? Cette stratégie pourrait avoir paradoxalement freiné le progrès politique.",
-          "La droite ne se définit pas par les partis politiques contemporains (Républicains, RN, Horizon) mais par **les mémoires, les fidélités, l'héroïsme et le romanesque** : des gestes comme l'ordre écrit du général Bigeard à Diên Biên Phủ (« Le feu à 17h »), la liturgie militaire traditionnelle, les pèlerinages. Ces éléments façonnent une nation bien plus que les discours politiques et constituent une droite sociologique, culturelle et patriotique.",
-          "**Édouard Philippe incarne la paradoxe** : jupéiste et macroniste en apparence, il possède une âme militaire profonde (chanteur de coloniale au bureau de Matignon, fan de littératures militaires, épée de cavalier dans son bureau). Bien que critiqué par le Monde et l'establishment progressiste, il reste fidèle à une mythologie guerrière, ce qui le rapproche secrètement de la droite enracinée que Denis défend.",
-          "**François Fillon représente l'homme politique complet manqué** : Avec un programme radical de 2017 sur les retraites, l'immigration et l'islamisme, appuyé sur son expérience d'État, Fillon aurait pu transformer la France. L'affaire de l'emploi de son épouse et le pilonnage médiatique (20 minutes chaque jour pendant 2,5 mois aux JT) constituent une « falsification électorale » qui a privé les Français d'un débat démocratique légitime.",
-          "**Mélenchon a commis le plus grand cynisme politique contemporain** : Éduqué dans la foi catholique, il était un grand défenseur de la laïcité à la Jaurès, opposé au voile et au communautarisme. Par capitulation électorale, il s'est transformé en communautariste violent, abandonnant ses principes fondamentaux pour une base militante quasi mafieuse. C'est une trahison envers lui-même et ses humanités.",
-          "La foi catholique, longtemps vécue comme militantisme (messe en latin, Port-Marli, résistance à Vatican II), a été transformée chez Denis par son mariage : plutôt que la religion militante de l'enfance, il découvre une foi plus profonde et personnelle auprès de figures comme Monseigneur Rouget. Les pèlerinages (Cotignac, Chartres) et les moments de communion deviennent des expériences d'une douceur christique, reliant la foi à l'humanité."
-        ],
-        "takeaway": "La droite française, maudite par l'histoire mais vivante dans ses fidélités héroïques, ses enracinements culturels et ses mythologies militaires, mérite d'être célébrée au-delà des clivages électoraux contemporains. Denis plaide pour une compréhension de la droite comme matrice civilisationnelle française, non comme étiquette politique, capable de redonner sens et profondeur à une nation en quête d'identité."
-      },
-      "summarizedAt": "2026-06-17T16:58:40.384Z"
+      "id": "SKm9LL1O7_I",
+      "title": "LIVE : OCCIDENT DÉGÉNÉRÉ",
+      "url": "https://www.youtube.com/watch?v=SKm9LL1O7_I",
+      "publishedAt": "2026-07-06T11:33:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/SKm9LL1O7_I/hqdefault.jpg",
+      "durationSec": 4815,
+      "summary": null,
+      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNVA456VTULmdVWKs2W\"}"
     }
   ]
 }

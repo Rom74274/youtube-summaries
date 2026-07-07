@@ -3,99 +3,47 @@
   "channelName": "Le Monde Moderne",
   "handle": "@LeMondeModerne",
   "slug": "lemondemoderne",
-  "lastUpdate": "2026-06-17T16:59:47.456Z",
+  "lastUpdate": "2026-07-07T08:20:38.425Z",
   "videos": [
     {
-      "id": "TlIVkIfQlAo",
-      "title": "G7, UK, Justice et 2027",
-      "url": "https://www.youtube.com/watch?v=TlIVkIfQlAo",
-      "publishedAt": "2026-06-16T16:51:54.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/TlIVkIfQlAo/hqdefault.jpg",
-      "durationSec": 2734,
-      "summary": {
-        "tldr": "Le locuteur critique la justice française pour son inaction face aux abus sur enfants, dénonce le G7 comme un spectacle de leaders inefficaces, et analyse la montée de candidatures présidentielles (notamment Gluxman) comme du théâtre politique servant des intérêts étrangers avant 2027.",
-        "thesis": "Les institutions françaises (justice, politique, médias) sont devenues des structures de contrôle et de propagande servant des intérêts financiers et étrangers plutôt que la protection des citoyens et des enfants, avec 2027 marquant une tentative de perpétuer ce système par de faux candidats.",
-        "arguments": [
-          "La justice française s'avère complice dans les affaires de pédocriminalité : un animateur périscolaire accusé d'abus sur enfants a été relaxé faute d'éléments concordants, ce qui démontre une **indulgence systémique** des tribunaux. Cette décision envoie le message que l'impunité est garantie aux criminels, encourageant la continuation des abus et réduisant les enfants à des objets jetables dans un système qui les traite comme des sous-citoyens.",
-          "Le G7 fonctionne comme un théâtre de gouvernance sans substance réelle où les leaders mondiaux se réunissent non pour prendre des décisions constructives mais pour maintenir un statu quo favorable aux élites financières. **Trump personnifie ce mépris** avec sa passivité et son indifférence envers les autres chefs d'État, tandis que Zelinski vient négocier des milliards en armements, confirmant que ces réunions servent à financer des guerres plutôt qu'à résoudre des crises.",
-          "L'interdiction des réseaux sociaux aux moins de 16 ans, présentée comme protection de l'enfance par Macron et Starmer, est en réalité un **mécanisme de contrôle identitaire** qui vise à fichier l'ensemble de la population et censurer l'information. Le véritable objectif n'est pas de protéger les enfants mais de monopoliser l'accès aux médias et d'empêcher les citoyens de contourner la propagande médiatique d'État ou d'oligarques.",
-          "Raphaël Gluxman représente un candidat fabriqué servant les intérêts du bloc occidental néoconservateur et américain, positionné pour sauver les macronistes par une candidature apparemment de gauche mais fondamentalement alignée sur l'UE et la guerre en Ukraine. Son meeting rassemble les vestiges d'une France vieille et dépassée, pas la jeunesse, et ses slogans enfoncent des portes ouvertes (« l'avenir c'est la jeunesse ») révélant le vide idéologique de sa campagne.",
-          "La police et l'État ferment les commerces de proximité (boulangeries) au lieu de tacler les **points de deal**, inversant les responsabilités : ce ne sont pas les trafiquants qui doivent partir mais les boulangeries, écoles et petits commerces. Cette absurdité administrative montre que la lutte déclarée contre le narcotrafic est une façade puisque le tsunami blanc de cocaïne explose avec une augmentation de 26 % des passages aux urgences en un an.",
-          "François Bayrou et Xavier Bertrand incarnent le jeu politique routinier où les candidats récurrents se « préparent » tous les 5 ans sans jamais rien accomplir, faisant du tourisme dans leur propre pays et minimisant leurs notes de frais pour éviter le scandale. Laurent Wauquier a tenté de faire publier ses frais de mandat en papier pour compliquer leur consultation, révélant comment les politiques utilisent des stratagèmes bureaucratiques pour échapper à la transparence.",
-          "Le totalitarisme contemporain fonctionne via **une propagande centralisée** ciblant les 20 % de citoyens encore accrochés aux médias mainstream, que Desmet qualifie de moutons. Les candidats à la présidentielle ignorent délibérément la majorité qui s'informe par réseaux sociaux, concentrant leurs efforts sur les électeurs réceptifs à la propagande, ce qui explique pourquoi le système politique perdure malgré son incompétence flagrante."
-        ],
-        "takeaway": "La France et l'Occident naviguent en 2024-2027 dans un système où les institutions officielles (justice, politique, diplomatie) servent de façades à un contrôle réel exercé par des intérêts financiers et étrangers. La protection des enfants, la souveraineté nationale et la démocratie sont sacrifiées au profit d'une censure croissante, d'une militarisation accélérée vers un conflit nucléaire potentiel, et d'un jeu politique où les véritables décisions se prennent en dehors des scrutins, rendant les élections présidentielles de 2027 largement théâtrales face à des candidats prédéterminés."
-      },
-      "summarizedAt": "2026-06-17T16:58:59.231Z"
+      "id": "AWinMWZyKgI",
+      "title": "Houria Bouteldja : “La campagne 2027 va être déstabilisée”",
+      "url": "https://www.youtube.com/watch?v=AWinMWZyKgI",
+      "publishedAt": "2026-07-06T17:00:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/AWinMWZyKgI/hqdefault.jpg",
+      "durationSec": 4371,
+      "summary": null,
+      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNVLnEytbarbFBfDfX6\"}"
     },
     {
-      "id": "2OgPF9E0_Yw",
-      "title": "2027 sera-t-elle une élection de plus, ou le moment où le système commencera à craquer ?",
-      "url": "https://www.youtube.com/watch?v=2OgPF9E0_Yw",
-      "publishedAt": "2026-06-15T18:00:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/2OgPF9E0_Yw/hqdefault.jpg",
-      "durationSec": 4047,
-      "summary": {
-        "tldr": "La présidentielle 2027 ne sera probablement qu'une élection de façade où les élites macronistes et centre-droit tentent de maintenir leur contrôle face au Rassemblement national, qui refuse la stratégie populiste. Le système politique français s'effondre sous le poids de ses contradictions et seul un événement extérieur majeur pourrait rompre ce scénario prévisible.",
-        "thesis": "Le système politique français est en réalité déjà 'dévitalisé' et contrôlé par des élites xénocratiques qui jouent une alternance factice entre eux-mêmes. La présidentielle 2027 sera un simulacre démocratique dominé par la stratégie de faire passer l'euro et la soumission à Bruxelles, avec le RN neutralisé et les gauches fragmentées.",
-        "arguments": [
-          "Le **Rassemblement national refuse la stratégie populiste** de mobilisation des non-votants, préférant une « dédiabolisation bourgeoisement » (devenir acceptés par le système). Ce choix tactique, acté sous la période Philippe, le rend inoffensif pour l'ordre établi : le RN cherche le 'siège' et les 'miettes' du pouvoir plutôt que sa transformation, comme l'a montré Méloni en Italie avec 500 000 immigrés dans un programme anti-immigration.",
-          "Les élites macronistes et centre-droit ont compris la **leçon du 21 avril 2002** : face à un leader populiste, il suffit de faire du mensonge (la logique Buisson) ou de coalescer tous les autres contre l'« épouvantail ». Ce scénario a fonctionné deux fois et continue, car aucune étude d'opinion sérieuse ne donne au RN une majorité sans faire sortir l'abstention—ce que le RN refuse stratégiquement.",
-          "La **xénocratie européiste** (gouvernance par des élites légitimées de l'extérieur, pas par le peuple) remplace la démocratie française depuis les années 1950. Ces élites tiennent leur pouvoir horizontalement par classe sociale ('je t'emmerde') et verticalement par réseaux internationaux. Elles font de la 'gouvernance' (soft law, décisions non contraignantes) plutôt que du gouvernement, ce qui les rend anti-État par nature.",
-          "**Mélenchon reste le seul candidat de gauche capable de créer un 'vortex'** électoral malgré la diabolisation sans précédent (comparée seulement à celle de Le Pen père). Contrairement à Marine Le Pen, il encaisse psychologiquement l'attaque et peut générer une bonne campagne, bien que limité par sa ligne politique. La gauche libérale attend des garanties du 'grand gouvernement central' futur pour ne pas le soutenir massivement.",
-          "Le **technofédéralisme** est le mode de sociabilité de cette nouvelle élite : je contrôle les flux de données et d'échanges, donc je te contrains à me donner la 'dîme seigneuriale' en transparence totale. C'est une forme de tyrannie anomique où Macron (tyran, non dictateur) veut brûler le système pour se réinventer, tandis que les eurocrates cherchent juste à pérenniser leur contrôle extractif.",
-          "**Les vrais changements viendront de l'en bas**, non du politique : 80 000 à 100 000 Français quittent annuellement le système (permaculture, école à la maison, médecines alternatives), formant une 'contreciété organique'. Cette organisation locale préfigure une résistance structurelle, bien que persécutée par l'administration. Sauver l'état psychique des populations et s'organiser politiquement/socialement sont les deux urgences.",
-          "Un **événement extérieur imprévisible** (crise économique, énergétique, ou dénomination de l'euro par un agent de marché refusant les euros non-allemands) pourrait tout casser. Le système est si lourd et fragile que le simple arrêt du PEG (parité euro) paralyserait l'architecture financière européenne. L'élite française s'effondrerait car elle dépend entièrement du 'bon vouloir atlantiste' : c'est une xénocratie en contrat précaire, comme Vichy le fut sous l'occupation."
-        ],
-        "takeaway": "2027 ne sera pas une élection au sens démocratique : c'est un simulacre controlé où toutes les factions élitaires jouent entre elles. Le seul espoir réside dans l'organisation d'une alternative civile et sociétale par le bas, capable de survivre à l'effondrement programmé du système politique français dominé par une xénocratie européiste. Tant qu'un événement extérieur majeur ne survient pas, les populations doivent préparer collectivement leur autonomie économique, énergétique et intellectuelle face à un ordre qui s'effondrera de son propre poids."
-      },
-      "summarizedAt": "2026-06-17T16:59:16.781Z"
+      "id": "_CcOGEJRjKo",
+      "title": "FIFA, Philippe et Jubilar",
+      "url": "https://www.youtube.com/watch?v=_CcOGEJRjKo",
+      "publishedAt": "2026-07-06T09:07:01.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/_CcOGEJRjKo/hqdefault.jpg",
+      "durationSec": 4034,
+      "summary": null,
+      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNVSwKktj87sT9wuZSp\"}"
     },
     {
-      "id": "WIrnufxYDoA",
-      "title": "Le danger des métaux lourds, avec Patrick Martini",
-      "url": "https://www.youtube.com/watch?v=WIrnufxYDoA",
-      "publishedAt": "2026-06-13T16:33:54.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/WIrnufxYDoA/hqdefault.jpg",
-      "durationSec": 1420,
-      "summary": {
-        "tldr": "100% des Français sont contaminés aux métaux lourds (arsenic, plomb, cadmium, mercure, aluminium) selon une étude de 2021, principalement via l'agriculture intensive et les engrais phosphatés. Cette accumulation provoque des symptômes variés et nécessite des mesures préventives et des cures détoxifiantes.",
-        "thesis": "La contamination universelle aux métaux lourds en France résulte d'une accumulation chronique non étudiée en tant que phénomène cumulatif, avec des effets synergiques ignorés par les normes sanitaires actuelles, exigeant une prévention alimentaire active et des détoxifications régulières.",
-        "arguments": [
-          "**La contamination universelle et l'effet cumulatif non régulé** : Une étude de Santé Publique France (2021) démontre que 100% des Français présentent des traces de métaux lourds (arsenic, plomb, cadmium) dans les cheveux, l'urine et le sang. Le problème majeur réside dans l'**absence d'études sur l'effet cocktail**, c'est-à-dire l'accumulation simultanée de multiples métaux. Les seuils sanitaires sont calculés sans tenir compte de cette synergie cumulée, qui s'avère bien plus puissante que l'exposition à chaque métal pris isolément.",
-          "**Les sources agricoles comme vecteur principal** : L'agriculture intensive utilise des **engrais phosphatés naturellement chargés en métaux lourds**, remplaçant le fumier traditionnel. La France bénéficie d'un accord avec le Maroc dont les engrais contiennent 50% de cadmium supplémentaire comparé à d'autres sources, ce qui explique pourquoi les Français sont davantage intoxiqués au cadmium que d'autres populations européennes.",
-          "**Les symptômes spécifiques par métal lourd** : L'aluminium provoque une **neurotoxicité** pouvant causer convulsions, anémie et être impliqué dans certaines scleroses en plaques et Alzheimer. Le cadmium génère des problèmes rénaux et d'hypertension. L'arsenic provoque des dermatoses et problèmes neurologiques. Le plomb entraîne fatigue, insomnie, anémie et troubles de mémoire. Le mercure crée des troubles de l'humeur, tremblements et dysfonctionnements immunitaires.",
-          "**L'accumulation des prédateurs marins par bioconcentration** : Les grands prédateurs (thon, espadon, requins) accumulent les métaux lourds à des taux bien plus élevés que les petits poissons car ils consomment de nombreuses proies contaminées sur une longue durée de vie, sans système d'élimination suffisant. La dose recommandée de thon ne dépasse pas 300g par semaine pour éviter une intoxication au mercure.",
-          "**La contamination végétale et les techniques de réduction** : Le riz est particulièrement chargé en arsenic et aluminium. En le rinçant jusqu'à obtenir une eau claire, puis en le cuisinant comme des pâtes avec beaucoup d'eau (plutôt que selon la méthode asiatique minimaliste), on réduit de plus de 70% les métaux lourds. Pour le thé, jeter la première eau après 20 secondes élimine 80-90% des métaux tout en conservant les polyphénols qui se libèrent après 30 secondes.",
-          "**Les moyens de prévention et de minéralisation protectrice** : Varier son alimentation limite l'exposition répétée. Le **zinc bloque l'absorption du cadmium**, le sélénium combat le mercure (présent dans les noix du Brésil), et le silicium chélate l'aluminium. Consommer bio quand possible, éviter les sodas acides en bouteille aluminium, peler les légumes racines (où se concentrent les métaux), filtrer l'eau du robinet ou la consommer en bouteille sont des mesures essentielles.",
-          "**L'absence de régulation et les cures détoxifiantes comme nécessité** : Face à l'inertie législative malgré les dangers avérés sur la santé, les cures détoxifiantes deviennent indispensables plutôt que simples compléments. L'étude de 2021 ne prend pas en compte l'aluminium (classé métal léger bien que neurotoxique), minimisant l'ampleur réelle de la contamination. Les enfants en croissance requièrent une attention particulière car l'immunité en construction est vulnérable à l'accumulation quotidienne de métaux lourds."
-        ],
-        "takeaway": "La contamination universelle aux métaux lourds en France exige une approche préventive multifacette : choix alimentaires conscients (varier sources, privilégier bio, réduire poissons prédateurs), préparation adéquate (rinçage du riz, première eau du thé), et recours périodique à des cures détoxifiantes. Cette prévention demeure essentielle car les normes sanitaires actuelles ne régulent pas l'effet cumulatif et synergique de l'exposition chronique aux multiples métaux lourds."
-      },
-      "summarizedAt": "2026-06-17T16:59:31.686Z"
+      "id": "usO_Wf4rfys",
+      "title": "Nord Stream, canicule et clim, Wauquiez traitre en chef",
+      "url": "https://www.youtube.com/watch?v=usO_Wf4rfys",
+      "publishedAt": "2026-07-03T10:48:36.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/usO_Wf4rfys/hqdefault.jpg",
+      "durationSec": 8416,
+      "summary": null,
+      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNVYwivHLvkoxcSTJwu\"}"
     },
     {
-      "id": "ouwHoYrysRI",
-      "title": "Hans-Georg Moeller : \"Le syndrome de supériorité morale de l'Europe est une impasse dangereuse.\"",
-      "url": "https://www.youtube.com/watch?v=ouwHoYrysRI",
-      "publishedAt": "2026-06-12T07:30:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ouwHoYrysRI/hqdefault.jpg",
-      "durationSec": 3962,
-      "summary": {
-        "tldr": "L'Allemagne a développé un système de culpabilité-fierté basé sur l'acceptation catégorique de la culpabilité historique, transformant cette culpabilité authentique en une performance d'identité qui génère paradoxalement une supériorité morale. Ce syndrome s'est exporté à l'UE entière et représente un danger car il repose sur une performance morale dépourvue de sentiment authentique, masquant un impérialisme moral sous le couvert d'universalisme.",
-        "thesis": "La supériorité morale performative européenne, incarnée par le syndrome allemand de culpabilité-fierté, constitue une impasse dangereuse qui transforme la culpabilité historique authentique en un outil de domination politique et culturelle, bloquant l'acceptation d'un monde multipolaire et perpétuant un impérialisme moral occidental.",
-        "arguments": [
-          "Le concept de **culpabilité-fierté (Schuldstolz)** émerge après la réunification allemande, non pas de la culpabilité authentique ressentie par la génération de guerre, mais de la génération bénéficiaire de la **grâce de la naissance tardive (Gnade der späten Geburt)**. Cette génération n'ayant pas connu authentiquement le nazisme transforme la culpabilité en profil identitaire performatif, créant ainsi une fierté paradoxale basée sur l'acceptation éternelle et catégorique d'une responsabilité historique infinie.",
-          "La **Vergangenheitsbewältigung** (maîtrise du passé) initialement centrée sur réconciliation et recommencement a été remplacée par une **Erinnerungskultur** (culture de mémoire) basée sur le concept kantien d'**impératif catégorique** et de responsabilité éternelle. Cette évolution transforme ce qui devait être un processus de guérison en une performance religieuse civile permanente de supériorité morale, incarnée visiblement par le mémorial de l'Holocauste au centre de Berlin.",
-          "La transition de l'authenticité à la **profilicité** (Profilierung) explique le passage d'une culpabilité authentique à une culpabilité performative. La **profilicité** est l'identité construite et curée comme une marque personnelle plutôt que découverte authentiquement, parallèle au marketing commercial. Ce mécanisme permet aux élites allemandes d'afficher une culpabilité qu'elles ne ressentent pas authentiquement, générant ainsi une fierté morale sans fondement réel.",
-          "La politique migratoire allemande de 2015 (Willkommenskultur) démontre l'absurdité de cette supériorité morale performative. L'Allemagne a accueilli les migrants pour renforcer son profil moral, tout en ignorant que ces migrants, majoritairement musulmans, n'embrassaient pas le **Staatsraison** (raison d'État) allemand d'appui incondititionnel à Israël. Cette contradiction révèle que la performance morale prime sur la cohérence réelle.",
-          "Le concept de **raison d'État allemande (Staatsräson)** appliqué au soutien inconditionnel et éternel à Israël révèle un **impérialisme moral universaliste** et catégorique. Cet universalisme des principes kantiens est intrinsèquement contradictoire : si seules l'Allemagne et l'UE les incarnent, ils ne sont par définition pas universels, mais plutôt un nouvel absolutisme masqué sous le vernis de la moralité.",
-          "Ce syndrome allemand s'est exporté avec succès à toute l'UE, remplaçant une union fondée sur les échanges économiques par une **religion civile morale**. Selon le modèle analysé, la **raison de l'État** allemande s'impose comme principe directeur européen, transformant l'UE en instrument de domination morale justifiée par une culpabilité historique performée, comparable au modèle suédois de remplacement du **racialisme blanc** par une **blancheur morale**.",
-          "Cette structure mentale repose sur les racines protestantes et françaises de l'Occident (Réforme, Révolution française) qui ont remplacé la foi religieuse par la **raison universelle morale** kantienne. L'éducation européenne, l'académie et les médias s'investissent personnellement dans cette religion civile, créant un système de contrôle idéologique totalitaire où il faut non seulement dire les bonnes choses, mais **penser les bonnes pensées**—dépassant le totalitarisme classique qui contrôlait seulement les paroles."
-        ],
-        "takeaway": "La supériorité morale européenne, loin d'être une vertu, représente une pathologie politique fondée sur la performance de culpabilité plutôt que sa compréhension authentique. Elle empêche l'Europe d'accepter son déclin géopolitique et la transition vers un monde multipolaire, tout en imposant son impérialisme moral universaliste aux autres civilisations. Cette structure mentale, devenue religion civile de l'UE, bloque toute pensée alternative et constitue un obstacle majeur à la coexistence pacifique dans un ordre mondial diversifié."
-      },
-      "summarizedAt": "2026-06-17T16:59:47.456Z"
+      "id": "3dRx0MiSbXQ",
+      "title": "Edouard Philippe promet de la sueur, Lecronu \"sort de ses gonds\" , USS Liberty",
+      "url": "https://www.youtube.com/watch?v=3dRx0MiSbXQ",
+      "publishedAt": "2026-07-01T09:05:25.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/3dRx0MiSbXQ/hqdefault.jpg",
+      "durationSec": 4471,
+      "summary": null,
+      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNVd7kNsPQNqEniRdtU\"}"
     }
   ]
 }
