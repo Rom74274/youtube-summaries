@@ -3,8 +3,31 @@
   "channelName": "Scanderia",
   "handle": "@Scanderia",
   "slug": "scanderia",
-  "lastUpdate": "2026-07-07T08:20:25.698Z",
+  "lastUpdate": "2026-07-20T06:42:33.170Z",
   "videos": [
+    {
+      "id": "X-ECvFXi-ko",
+      "title": "Un MacBook à 10 000 € ?! Le plan secret d'Apple (IA + gaming) - Octogone Tech",
+      "url": "https://www.youtube.com/watch?v=X-ECvFXi-ko",
+      "publishedAt": "2026-07-10T12:02:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/X-ECvFXi-ko/hqdefault.jpg",
+      "durationSec": 6775,
+      "summary": {
+        "tldr": "Apple prépare un MacBook Ultra à 10 000€ avec une puce M7 dédiée à l'IA et 256 Go de RAM, marquant sa stratégie de dominer le hardware pour l'inférence IA locale. Le podcast explore comment Apple, la Chine et les modèles open source remodèlent l'industrie de l'IA, tandis que les capacités de calcul local deviennent essentielles pour les utilisateurs et les entreprises.",
+        "thesis": "L'avenir de l'IA réside dans le calcul local sur des hardware performants plutôt que dans la dépendance aux services cloud centralisés. Apple se positionne comme leader en hardware supérieur pour l'inférence, tandis que la Chine avance rapidement en open source et que les régulations européennes (chat contrôle, euro numérique) menacent la confidentialité des données.",
+        "arguments": [
+          "**Rumeur du MacBook Ultra à 10 000€** : Selon Bloomberg et Ming-Chi Kuo, Apple préparerait une machine avec puce M7 entièrement dédiée à l'IA, 256 Go de RAM et une bande passante mémoire record de 1200 Go/s (contre 819 Go/s sur le Mac Studio actuel). Cette machine représente un investissement massif dans le local IA, suggérant qu'Apple voit l'inférence locale comme un marché stratégique où elle peut dominer grâce à son avance technologique.",
+          "**Bande passante mémoire vs puissance brute** : La limitation critique pour l'inférence IA n'est pas le nombre de GPU mais la **bande passante mémoire**. Le préfil (traitement initial du texte) bénéficie de puissance massive, mais le décode (affichage token par token) est limité par la bande passante. Apple excelle sur ce dernier point, expliquant pourquoi son hardware est surpassant pour l'inférence locale malgré une puissance GPU inférieure à celle des serveurs Nvidia.",
+          "**Apple gaming : repositionnement majeur** : Apple prépare une stratégie gaming coordonnée avec une nouvelle Apple TV surpassant la PS5 en puissance pour ~200$ et trois présentations à la GDC 2026 portant sur le game porting. Les rumeurs évoquent écran tactile, metal 4 advanced, et compatibilité manette PS5/Xbox. Cela indique qu'Apple veut capitaliser sur son hardware supérieur pour capture un marché gaming lucratif.",
+          "**Problématique des condensateurs MLCC** : Contrairement aux attentes, le goulot d'étranglement pour la production de cartes GPU Nvidia n'est pas la RAM mais les **condensateurs MLCC** produits par Murata et TDK. Ces composants sont en tension jusqu'à 2027, ce qui limite la production même de Nvidia et d'AMD. C'est une révélation clé montrant que l'infrastructure électronique mondiale n'est pas dimensionnée pour la demande IA.",
+          "**Inférence : problème central de l'IA** : L'entraînement des modèles est devenu trivial (tout le monde sait le faire), mais **l'inférence est le vrai défi**. 80% de l'énergie consommée par l'IA concerne l'inférence des modèles existants, pas leur création. C'est pourquoi tout le monde (Open AI, META, Microsoft, Google, Elon Musk) investit dans ses propres moteurs d'inférence pour s'émanciper de CUDA/Nvidia.",
+          "**Moteurs d'inférence en local et décentralisation** : Des projets comme celui d'Antirez permettent de faire tourner Deepseek 4 Flash (230B paramètres) à 13 tokens/seconde sur une machine à 96 Go de RAM. Cela rend possible le **calcul local performant sans dépendre des data centers centralisés**. En parallèle, Meta, Open AI et xAI ferment leurs modèles tandis que la Chine (Alibaba, Deepseek, Qwen) continue d'ouvrir en source et publie ses méthodes, inversant le paradigme de l'open source.",
+          "**Régulations et contrôle des données** : L'UE vote simultanément **chat contrôle** (scan des communications locales) et **euro numérique** (2029), créant une infrastructure de surveillance. Les USA bloquent les exportations de capacités IA à la Chine, qui riposte en développant Huawei/Kunpeng indépendant. Ce contexte géopolitique rend le local IA crucial pour préserver autonomie et confidentialité, justifiant l'investissement massif dans la base de connaissance vectorisée locale."
+        ],
+        "takeaway": "L'IA se décentralise progressivement : Apple construit le meilleur hardware pour inférence locale, la Chine libère les modèles open source, et les régulations poussent vers la confidentialité locale. Le vrai enjeu n'est plus d'avoir des modèles puissants (déjà commodifiés) mais de maîtriser l'inférence efficace. Les utilisateurs et entreprises qui installeront des bases de connaissance locales seront compétitifs ; les autres dépendront de services cloud coûteux et contrôlés."
+      },
+      "summarizedAt": "2026-07-20T06:42:33.170Z"
+    },
     {
       "id": "AH3v68Mufs4",
       "title": "OTAN et Europe : l’Alliance sous forte pression #octogone88",
@@ -50,16 +73,6 @@
         "takeaway": "La guerre de l'IA n'est pas gagnée par le plus gros modèle ou la plus grande puissance brute, mais par ceux qui maîtrisent l'optimisation logicielle, les bases de connaissance locales et les systèmes décentralisés. La Chine progresse en autonomie technologique, les professionnels découvrent que 12B locaux + RAG avancé surpassent 130B+ cloud, et les gouvernements qui ne structurent pas l'accès aux ressources (énergie, données, modèles) perdront leur compétitivité. La transition est déjà en cours : garde ton esprit de gamin, teste, lance-toi—la technologie efficace et souveraine appartient à ceux qui osent optimiser, pas à ceux qui achètent le plus gros."
       },
       "summarizedAt": "2026-07-07T08:20:24.273Z"
-    },
-    {
-      "id": "NohKv4EHUOw",
-      "title": "Iran–États-Unis : Netanyahu peut-il faire capoter la paix ? #octogone87",
-      "url": "https://www.youtube.com/watch?v=NohKv4EHUOw",
-      "publishedAt": "2026-06-20T10:38:21.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/NohKv4EHUOw/hqdefault.jpg",
-      "durationSec": 2625,
-      "summary": null,
-      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNUgrTCv49tct8VG8FP\"}"
     },
     {
       "id": "peqNdGdFQho",

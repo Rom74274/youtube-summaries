@@ -304,10 +304,16 @@ async function main() {
   console.log(`Found ${channels.length} channel(s)`)
   let grandTotalCost = 0
   let grandProcessed = 0
+  const failed = []
   for (const ch of channels) {
-    const { processed, cost } = await processChannel(ch)
-    grandTotalCost += cost
-    grandProcessed += processed
+    try {
+      const { processed, cost } = await processChannel(ch)
+      grandTotalCost += cost
+      grandProcessed += processed
+    } catch (e) {
+      console.warn(`\n  ✗ channel ${ch.slug} failed: ${e.message} — skipping, continuing with next channel`)
+      failed.push({ slug: ch.slug, error: e.message })
+    }
   }
   const indexPath = resolve(DATA_DIR, 'index.json')
   writeFileSync(
@@ -320,6 +326,9 @@ async function main() {
   )
   console.log(`\n=== DONE ===`)
   console.log(`Total: ${grandProcessed} summaries, cost ≈ $${grandTotalCost.toFixed(4)}`)
+  if (failed.length) {
+    console.log(`⚠ ${failed.length} channel(s) failed: ${failed.map((f) => f.slug).join(', ')}`)
+  }
 }
 
 main().catch((e) => {
