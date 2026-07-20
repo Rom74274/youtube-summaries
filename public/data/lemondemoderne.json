@@ -3,47 +3,99 @@
   "channelName": "Le Monde Moderne",
   "handle": "@LeMondeModerne",
   "slug": "lemondemoderne",
-  "lastUpdate": "2026-07-07T08:20:38.425Z",
+  "lastUpdate": "2026-07-20T14:24:54.219Z",
   "videos": [
     {
-      "id": "AWinMWZyKgI",
-      "title": "Houria Bouteldja : “La campagne 2027 va être déstabilisée”",
-      "url": "https://www.youtube.com/watch?v=AWinMWZyKgI",
-      "publishedAt": "2026-07-06T17:00:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/AWinMWZyKgI/hqdefault.jpg",
-      "durationSec": 4371,
-      "summary": null,
-      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNVLnEytbarbFBfDfX6\"}"
+      "id": "CYZbv4AR7lo",
+      "title": "QUI CONTROLE LES FACT-CHECKERS?",
+      "url": "https://www.youtube.com/watch?v=CYZbv4AR7lo",
+      "publishedAt": "2026-07-18T11:54:19.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/CYZbv4AR7lo/hqdefault.jpg",
+      "durationSec": 1235,
+      "summary": {
+        "tldr": "L'écosystème du fact-checking, en apparence journalistique, s'est transformé en instrument de gouvernance de l'espace public par la convergence entre médias, fondations, plateformes et autorités publiques. Ce système exerce une surveillance permanente des discours, applique des sanctions algorithmiques et fabrique un consensus qui dépasse largement les faits vérifiables pour arbitrer les opinions politiques.",
+        "thesis": "Le fact-checking a basculé d'une activité journalistique légitime à un mécanisme de police privée de l'information qui, sans pouvoir judiciaire formel, réduit la visibilité des contenus, influence la régulation publique et neutralise les opinions dissidentes par une censure moderne et discrète.",
+        "arguments": [
+          "Le partenariat entre les Décodeurs du Monde et Facebook entre 2018 et 2022 illustre le premier basculement : lorsqu'un jugement éditorial (qualifiant une information de fausse ou trompeuse) entraîne une **sanction algorithmique** réduisant la visibilité, on n'est plus face à une simple critique journalistique mais à une forme de police de la pensée privée. Le fact-checker ne se contente plus de répondre; son appréciation modifie la diffusion de la parole contestée, ce qui est bien plus discret qu'une censure administrative et plus difficile à contester.",
+          "Le pouvoir du fact-checking réside autant dans la sélection des questions que dans les réponses apportées. Il est possible de vérifier méticuleusement une phrase d'un opposant politique tout en ignorant dix contrevérités du gouvernement, ou de contrôler un chiffre exact présenté de manière polémique tout en laissant passer un cadrage trompeur d'une institution officielle. Ainsi, l'objectivité de la méthode ne garantit pas la neutralité de l'agenda éditorial.",
+          "Conspiracy Watch illustre la nature hybride de l'écosystème : financée partiellement par des fonds publics (plafonnés à 50% selon l'association), elle est partenaire d'institutions publiques (CIPDR, Arcom) et productrice d'expertise qui alimente les politiques publiques. Son projet Ripost, cofinancé aux deux tiers par le CIPDR, utilise Google Ads pour placer en priorité ses contenus devant ceux recherchés (Nouvel Ordre mondial, Great Reset, etc.). Ce n'est pas juridiquement de la censure mais une **occupation organisée de l'espace informationnel** visant à s'interposer entre le contenu alternatif et son public, une stratégie appelée prébunking.",
+          "L'homogénéité sociologique de l'écosystème pose un problème démocratique structurel : les mêmes personnes se citent, se financent, siègent dans les mêmes commissions (commission Bronner, observatoire de la haine, etc.) et partagent une conception similaire de l'information responsable. Cette proximité avec un univers intellectuel social-démocrate et progressiste hostile au populisme ne nécessite pas de chef d'orchestre; tous les musiciens ont la même partition, créant une apparence de consensus sans mécanisme centralisé de contrôle.",
+          "La présence répétée de spécialistes comme Thomas Huchon dans les médias, conférences et dispositifs institutionnels fabrique son autorité : il devient celui qu'on invite pour déterminer qui manipule qui, est entendu par les commissions publiques, dont les catégories sont reprises par les médias et les politiques. Cette boucle finit par donner l'apparence d'un **consensus scientifique** là où il s'agit de choix politiques, moraux et éditoriaux.",
+          "Les recherches scientifiques soutenant le fact-checking sont limitées et nuancées : certaines montrent que les vérifications réduisent la croyance dans les fausses informations, mais d'autres constatent des effets moyens ou limites des labels de crédibilité, une amélioration factuelle sans changement d'attitude politique, et une variabilité selon les publics et la confiance à la source. Crucialmente, la science peut étudier l'effet d'une correction sur une croyance mais ne peut pas désigner démocratiquement celui qui doit corriger tout le monde.",
+          "La transformation de catégories factuelles en étiquettes durables constitue le mécanisme clé de surveillance politique : qualifier une personne de complotiste, désinformateur ou influenceur proclemelin crée une identité publique stable, déplaçant les soupçons du contenu vers l'auteur. Tout ce que dira ensuite cette personne sera lu à travers cette étiquette, fonctionnant ainsi comme un **commissariat politique** qui ne supprime pas les opinions mais distribue des certificats de fréquentabilité."
+        ],
+        "takeaway": "La démocratie ne garantit pas que tout le monde dit la vérité, mais que personne ne possède le pouvoir exclusif de décider ce que les autres ont le droit de dire. Entre la suppression brutale et la liberté réelle existe maintenant une zone grise faite d'avertissements, déclassements, démonétisations et réductions de portée. La vérification des informations doit s'accompagner de transparence totale (financement, critères, taux d'erreur), de droit de réponse et d'appel, et surtout de la séparation absolue entre faits démontrables et interprétations politiques. Le retrait d'une expression légale ne doit jamais être décidé indirectement par une coalition opaque entre plateformes, acteurs éditoriaux et autorités administratives."
+      },
+      "summarizedAt": "2026-07-20T14:24:03.017Z"
     },
     {
-      "id": "_CcOGEJRjKo",
-      "title": "FIFA, Philippe et Jubilar",
-      "url": "https://www.youtube.com/watch?v=_CcOGEJRjKo",
-      "publishedAt": "2026-07-06T09:07:01.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/_CcOGEJRjKo/hqdefault.jpg",
-      "durationSec": 4034,
-      "summary": null,
-      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNVSwKktj87sT9wuZSp\"}"
+      "id": "6Q07E19Zys4",
+      "title": "Les censeurs en roue libre, flou en Ukraine, Incendies",
+      "url": "https://www.youtube.com/watch?v=6Q07E19Zys4",
+      "publishedAt": "2026-07-17T11:00:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/6Q07E19Zys4/hqdefault.jpg",
+      "durationSec": 7447,
+      "summary": {
+        "tldr": "Le gouvernement français et les sénateurs mettent en place un système de censure sous prétexte de lutter contre les « ingérences intérieures », un concept flou qui criminalise en réalité la liberté d'expression. Pendant ce temps, des fonds massifs destinés à l'adaptation climatique sont détournés, et des politiciens comme Laurent Wauquiez se font valoir avec des mesures ridicules tout en gaspillant l'argent public.",
+        "thesis": "Le régime français glisse progressivement vers le totalitarisme en instaurant des lois de censure coercitives, une surveillance accrue et un contrôle de l'information prétendument nécessaires pour protéger la démocratie, alors qu'en réalité ces mesures visent à écraser la dissidence politique et à conserver le pouvoir du bloc centraliste macroniste et socialiste.",
+        "arguments": [
+          "Le concept d'« ingérences intérieures » est volontairement vague et dangereux : les sénateurs ont créé ce terme pour criminaliser simplement l'expression d'opinions critiques. Dire que la politique de Macron a ruiné la France économiquement (avec preuves chiffrées) pourrait être requalifié comme une « ingérence intérieure » visant à manipuler les électeurs. C'est l'institutionnalisation du **délit d'opinion**, une pratique totalitaire qui détruit le fondement même de la démocratie : la liberté d'expression.",
+          "Les sénateurs proposent de créer un organisme indépendant pour détecter et réprimer les « menaces informationnelles intérieures », avec pouvoir de saisir l'ARCOM pour bloquer des comptes ou modifier les algorithmes. Cette architecture reprend exactement la structure du ministère de la Vérité décrit par Orwell. Les fact-checkers subventionnés et les fondations comme la Fondation Descartes ne vérifieront jamais les mensonges du camp gouvernemental, créant un système de **propagande institutionnalisée** au service d'un parti unique.",
+          "Un détournement massif de fonds publics destinés à la rénovation thermique et climatique depuis 2003 : plus de 60 milliards d'euros ont été utilisés pour rembourser les intérêts de la dette au lieu d'équiper hôpitaux et écoles de climatisation. Laurent Wauquiez récupère politiquement cette faillite en distribuant trois climatiseurs portables (achetés 1000€ pièce au lieu de 300-500€) comme s'il sauvait la France, tandis que l'argent volé pendant 20 ans disparaît sans explication.",
+          "La **facturation électronique obligatoire**, l'euro numérique et les QR codes généralisés constituent progressivement un système de traçabilité totale des citoyens et des entreprises. Présenté comme une modernisation administrative, c'est en réalité un outil de contrôle sans précédent permettant à l'État de surveiller chaque transaction, chaque déplacement. Les gouvernements promettent d'être « bienveillants » (comme pour le pass sanitaire), puis l'étau se resserre inexorablement.",
+          "Rich Thibaud, figure de résistance civile, est arrêté avec 10 policiers du renseignement, perquisitionné et poursuivi simplement pour avoir critiqué Macron lors du 14 juillet. Cette répression révèle que le régime ne tolère plus aucune parole discordante. Les **méthodes fascistes** utilisées contre lui (géolocalisation, saisie informatique, expertise psychiatrique) sont des tactiques d'État totalitaire préfigurant ce qui attend tous les citoyens osant protester.",
+          "La guerre en Ukraine sert de justification pour imposer un contrôle informationnel accru : en situation de crise, le gouvernement affirme devoir réguler l'information pour protéger la nation. Or, des milliards partent en Ukraine sans débat parlementaire tandis que Fontainebleau brûle et nécessite une cagnotte publique. C'est l'illustration d'une **inversion totalitaire** : les fonds publics vont aux guerres lointaines et aux élites, tandis que les Français doivent mendier pour leur patrimoine.",
+          "Le système électoral français est devenu un jeu pipé : tous les candidats viables (Macron, Attal, Philippe, Lecornu) défendent le même bilan catastrophique (dette +60 milliards, pauvreté accrue, désindustrialisation). Les sondages manipulés promeuvent des candidats du « centre mou » incapable de gouverner. Un vrai clivage électoral n'existera que si Mélenchon et Le Pen arrivent au second tour, mais les lois de censure tentent justement d'empêcher cette **clarification démocratique** qui révélerait l'effondrement du régime."
+        ],
+        "takeaway": "La France n'est plus une démocratie : elle a basculé dans un régime d'apparence démocratique où la liberté d'expression est progressivement criminalisée, l'argent public détourné systématiquement, et le contrôle des citoyens normalisé via des technologies présentées comme neutres. La résistance passe par la désobéissance civile, le refus de ces lois, l'information indépendante hors des canaux officiels, et la clarification électorale en 2027 pour imposer un vrai choix au régime en place."
+      },
+      "summarizedAt": "2026-07-20T14:24:23.185Z"
     },
     {
-      "id": "usO_Wf4rfys",
-      "title": "Nord Stream, canicule et clim, Wauquiez traitre en chef",
-      "url": "https://www.youtube.com/watch?v=usO_Wf4rfys",
-      "publishedAt": "2026-07-03T10:48:36.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/usO_Wf4rfys/hqdefault.jpg",
-      "durationSec": 8416,
-      "summary": null,
-      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNVYwivHLvkoxcSTJwu\"}"
+      "id": "nD6Br8tuf3s",
+      "title": "Plan orsec chaleur extreme, le PS a fondu et les vacances non apprenantes",
+      "url": "https://www.youtube.com/watch?v=nD6Br8tuf3s",
+      "publishedAt": "2026-07-10T18:24:57.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/nD6Br8tuf3s/hqdefault.jpg",
+      "durationSec": 3345,
+      "summary": {
+        "tldr": "Le gouvernement met en place le plan ORSEC chaleur extrême avec climatiseurs et centres d'hébergement pour les personnes vulnérables, mais le locuteur dénonce l'inaction réelle face aux crises structurelles (hôpitaux engorgés, prisons surpeuplées, dossiers pédocriminels non traités). Il critique aussi la régulation gouvernementale du numérique et les mesures liberticides en préparation.",
+        "thesis": "Le gouvernement français utilise une rhétorique vide et des mesures cosmétiques pour donner l'illusion d'action, tandis que les problèmes structurels persistent et que les libertés publiques sont progressivement restreintes par des lois de censure du numérique.",
+        "arguments": [
+          "Le **plan ORSEC chaleur extrême** renomme simplement la canicule pour 'renouveler la peur' et envoie 7500 climatiseurs dans les hôpitaux (un nombre minuscule comparé au nombre de chambres), puis promet 15000 supplémentaires. C'est de la communication sans substance : les hôpitaux manquent structurellement de moyens, les lits ferment en permanence, et des nuits d'hôtel climatisées pour les soignants ne résout pas le problème de l'effondrement du système de santé.",
+          "Le gouvernement croise les fichiers des services sociaux (CCAS et ARS) pour identifier et **réquisitionner les personnes âgées isolées et sans-abri**, les mettant dans des 'pièces rafraîchies' pendant les canicules. Cette mesure révèle une logique de contrôle total : plutôt que de résoudre l'isolement social ou la pauvreté, on isole davantage ces populations pour la durée de la vague de chaleur.",
+          "Les **dossiers pédocriminels en attente** (70 000) ne sont jamais traités faute de moyens, tandis que Gérald Darmanin quitte en vacances sans rendre de comptes. Le locuteur souligne l'absurdité : on climatise les hôpitaux mais on abandonne les enfants victimes de crimes sexuels. Cette hiérarchie des priorités révèle le vrai fonctionnement de l'État.",
+          "Laurent Panifous organise un **'cocktail' (déguisé en 'réception')** au ministère pour célébrer le passage de la loi fin de vie, financé par les contribuables via le CESE. Quand découvert, il nie les faits en jouant sur les mots : ce n'était pas une 'célébration', c'était une 'réception'. Le locuteur dénonce ce jeu sémantique : renommer chaleur extrême = canicule, aide à mourir = euthanasie, réception = cocktail, c'est vider les mots de leur sens pour masquer la réalité.",
+          "L'**ARCOM (régulateur audiovisuel français) met en place une régulation du numérique** inspirée de la **loi DSA européenne**, avec l'intention d'étendre à Internet les mêmes contraintes qu'à la télévision. Officiellement pour 'protéger les mineurs', en réalité pour empêcher la circulation d'informations critiques envers le gouvernement, notamment sur les réseaux sociaux où se dénoncent les scandales (comme Pfizer).",
+          "Le **Chat Control** (loi européenne de surveillance du chiffrement des messages) s'installe par étapes : d'abord 'volontaire', puis obligatoire avec amendes. C'est une infrastructure de **surveillance de masse** justifiée par la lutte contre la pédocriminalité, mais conçue pour détecter et écraser tout mouvement social d'opposition (comme les Gilets jaunes) avant qu'il ne prenne ampleur, en débranchant instantanément les comptes des contestataires.",
+          "Le locuteur observe que **la France devient un 'pays du tient'** (en déclin) : la Chine lance son premier lanceur récupérable (comme SpaceX), crée des lanceurs réutilisables, tandis que la France réquisitionne des lits climatisés pour les personnes fragiles en canicule. Il y a une déconnexion complète entre la trajectoire technologique mondiale et la situation française, aggravée par un leader (Macron) qui se met en scène en permanence (Tour de France, 14 juillet avec QR codes) plutôt que de gouverner."
+        ],
+        "takeaway": "Le système politique français fonctionne sur la base d'une rhétorique creuse et de mesures cosmétiques qui donnent l'illusion d'action tout en laissant les crises structurelles s'aggraver. Parallèlement, des lois liberticides sont mises en place graduellement (surveillance du chiffrement, régulation du numérique) sous couvert de protection sociale. Le vrai enjeu n'est pas la gestion des crises, mais le maintien du contrôle sur les populations, notamment l'empêchement de tout mouvement d'opposition organisé."
+      },
+      "summarizedAt": "2026-07-20T14:24:40.206Z"
     },
     {
-      "id": "3dRx0MiSbXQ",
-      "title": "Edouard Philippe promet de la sueur, Lecronu \"sort de ses gonds\" , USS Liberty",
-      "url": "https://www.youtube.com/watch?v=3dRx0MiSbXQ",
-      "publishedAt": "2026-07-01T09:05:25.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/3dRx0MiSbXQ/hqdefault.jpg",
-      "durationSec": 4471,
-      "summary": null,
-      "_error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CcnNVd7kNsPQNqEniRdtU\"}"
+      "id": "o3Dum9oLm5U",
+      "title": "Message de service",
+      "url": "https://www.youtube.com/watch?v=o3Dum9oLm5U",
+      "publishedAt": "2026-07-10T07:58:32.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/o3Dum9oLm5U/hqdefault.jpg",
+      "durationSec": 2046,
+      "summary": {
+        "tldr": "Annonce de service : le présentateur reporte la revue de presse du jour en raison d'enregistrements prévus. Il profite du moment pour annoncer plusieurs projets estivaux majeurs : un festival le 3 octobre en Drôme, la rédaction de son premier livre, et la refonte du site internet du Monde Moderne.",
+        "thesis": "Face à un contexte géopolitique et climatique dégradé (guerres, canicule, crises environnementales), le créateur choisit de canaliser son énergie vers des projets culturels et communautaires plutôt que de sombrer dans le pessimisme.",
+        "arguments": [
+          "Le contexte de l'été 2024 est marqué par une **atmosphère de fin d'époque** : les guerres s'intensifient (Iran, Ukraine), les températures grimpen avec des feux de forêt omniprésents, et l'UE vote des mesures restrictives comme le **ChatControl**. Le présentateur évoque une sorte de pulsion de mort collective où les crises nucléaires, biologiques et environnementales s'accumulent, donnant l'impression que l'humanité tend vers l'auto-destruction plutôt que vers la paix.",
+          "Le présentateur critique la récupération politique des événements sportifs, notamment par Emmanuel Macron qui cherchera à tirer profit de l'équipe de France. Il souligne aussi l'absence de troubles lors du match France-Maroc (contrairement à ce que certains médias auraient pu montrer), questionnant ainsi le narratif dramatisé des médias traditionnels.",
+          "Un anniversaire historique est rappelé : le 9 juillet 1962, le test atomique stratosphérique **Starfish Prime** démontra qu'on pouvait détruire les satellites et télécommunications. Cet événement symbolise l'**audace destructrice** de l'humanité face à elle-même et aux technologies qui auraient pu servir la paix.",
+          "Le **DSA européen (Digital Services Act)** et l'action de l'Arcom menacent la liberté informationnelle. Ces régulations visent à contrôler la sphère internet sous prétexte de régulation, alors que les médias traditionnels sont plus faciles à censurer. Le Monde Moderne, en tant que média indépendant sans subventions, doit s'adapter pour survivre face à ces obstacles.",
+          "Pour contrer ces défis, le présentateur mise sur une **coconstruction communautaire** : refonte du site (mondemoderne.media), augmentation du contenu rédactionnel, expansion de la newsletter (déjà 18 000 abonnés), et développement de nouveaux formats. L'idée est de rendre l'information plus accessible et de créer un écosystème médiatique alternatif.",
+          "Le **Festival du Monde Moderne** (3 octobre, Drôme) symbolise cette philosophie communautaire. Prévu pour une journée entière avec conférences, débats, stands partenaires et concerts en soirée, le festival repose sur le bénévolat et l'aide de la communauté. Un camping sur place permettra aux participants de s'immerger dans une expérience collective sans coût prohibitif.",
+          "L'écriture d'un premier livre constitue un engagement personnel pour l'automne. Présenté comme un projet volontairement non-conventionnel (d'abord format numérique en ligne, puis recherche d'un éditeur), l'objectif est de créer du bruit et de l'impact médiatique pour **déranger le système**. C'est une tentative de combiner culture, pensée critique et action concrète face aux enjeux actuels."
+        ],
+        "takeaway": "Face à une période marquée par les crises géopolitiques, climatiques et informationnelles, l'approche défendue est celle de l'action créative et collective : plutôt que de subir passivement, il s'agit de construire des alternatives médiatiques, culturelles et communautaires. Le festival, le livre et la refonte numérique du Monde Moderne incarnent cette philosophie de résistance par la création et l'engagement citoyen, en dehors des structures traditionnelles."
+      },
+      "summarizedAt": "2026-07-20T14:24:54.219Z"
     }
   ]
 }
