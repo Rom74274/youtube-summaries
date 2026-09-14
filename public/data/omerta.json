@@ -3,18 +3,8 @@
   "channelName": "Omerta",
   "handle": "@omertamediaoff",
   "slug": "omerta",
-  "lastUpdate": "2026-09-13T19:17:01.425Z",
+  "lastUpdate": "2026-09-14T07:39:07.173Z",
   "videos": [
-    {
-      "id": "n7xjDKJieWA",
-      "title": "Menaces sur Omerta : On vous dit tout",
-      "url": "https://www.youtube.com/watch?v=n7xjDKJieWA",
-      "publishedAt": "2026-09-13T19:00:44.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/n7xjDKJieWA/hqdefault.jpg",
-      "durationSec": 6964,
-      "summary": null,
-      "_noTranscript": true
-    },
     {
       "id": "Rx7niHrXFUo",
       "title": "Xenia Fedorova : Les coulisses d’une interview exclusive",
@@ -83,6 +73,29 @@
         "takeaway": "La violence politique américaine contemporaine résulte de la convergence entre une prolifération incontrôlée d'armes (393 millions), ancrée dans l'histoire fondatrice du pays, et l'effondrement du civisme politique traditionnel qui encadrait les débats électoraux. Alors que les États-Unis ont longtemps maintenu un respect du processus démocratique malgré les tensions idéologiques, l'émergence d'une rhétorique justifiant la violence politique comme réponse légitime aux « propos incisifs » marque une rupture majeure. Cette combinaison dangereuse entre armement massif et délégitimation du consensus démocratique explique pourquoi les tentatives d'assassinat de leaders politiques sont devenues plus fréquentes et acceptées qu'elles ne l'étaient dans les décennies antérieures."
       },
       "summarizedAt": "2026-09-13T19:17:01.425Z"
+    },
+    {
+      "id": "twLS33dywi0",
+      "title": "Dette française : un scénario à la grecque ?",
+      "url": "https://www.youtube.com/watch?v=twLS33dywi0",
+      "publishedAt": "2026-09-11T16:00:35.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/twLS33dywi0/hqdefault.jpg",
+      "durationSec": 2119,
+      "summary": {
+        "tldr": "La France fait face à une crise de la dette souveraine avec des taux d'emprunt (OAT) à 4,3%, niveau inédit depuis 2008, provoquant une comparaison avec la crise grecque. Cependant, la situation française est structurellement différente car la France est systémique pour l'Europe, ce qui signifie que l'UE ne peut pas imposer les mêmes mesures punitives qu'en Grèce sans effondrer l'économie européenne.",
+        "thesis": "La crise de la dette française ne peut être résolue par des mesures d'austérité budgétaire seules, mais nécessite une refonte complète de l'approche économique française : réduire les dépenses publiques inutiles (agences, bureaucratie), relocaliser l'industrie, et restaurer une culture de création de richesse plutôt que de redistribution, afin de retrouver une dynamique économique durable.",
+        "arguments": [
+          "**L'écart de spread entre les OAT et le Bund allemand a franchi 90 points de base**, ce qui est inquiétant car au-delà de 100 points, une alerte générale serait déclenchée. Cet élargissement reflète une défiance croissante des marchés vis-à-vis de la capacité de la France à financer sa dette, notamment dans un contexte d'incertitude politique post-dissolution de l'Assemblée.",
+          "Contrairement à la Grèce (dette de 350 milliards), la France est systémique avec une dette de 3 500 milliards. Si la France connaît une crise de la dette, c'est toute l'Europe qui s'effondrerait, entraînant une dépréciation de l'euro. Une dépréciation de 3-4% de l'euro face au dollar signifierait une hausse de 3-4% du coût des importations énergétiques et autres, créant ainsi une inflation supplémentaire inacceptable pour le continent.",
+          "La **BCE, contrairement aux précédents traités, n'aurait d'autre choix que de racheter massivement les émissions obligataires françaises** (en violant ses propres règles limitant les détentions à 30% d'une dette souveraine), tout comme elle l'a fait pour l'Italie en 2011 quand les taux italiens ont dépassé 7-8%. C'est la survie de l'euro qui serait en jeu, ce qui justifierait ces mesures exceptionnelles.",
+          "**Le secteur immobilier est le plus gravement touché** avec des taux de crédit flirtant avec 5% sur 15 ans, ce qui signifie que les emprunteurs remboursent deux fois la valeur du bien en 15 ans. La construction s'est effondrée (de 85 000 à 60 000 logements prévus) et aucun primo-accédant ne peut accéder à l'emprunt, bloquant ainsi une source majeure de croissance économique.",
+          "**La France dispose d'un colossal gaspillage administratif** : 1 200 agences publiques coûtent entre 100 et 140 milliards d'euros annuels sans contrôle sur 80% d'entre elles. La Cour des comptes dénonce depuis des années des centaines de millions voire des milliards qui disparaissent. Fermer les agences improductives et réduire le millefeuille administratif (576 députés et 275 sénateurs contre beaucoup moins en Suède) pourrait récupérer plusieurs milliards, sans nécessiter des coupes claires dans les retraites.",
+          "**La fuite des cerveaux et des talents français est directement liée à une fiscalité confiscatoire** : un cadre gagnant 250 000€ conserve moins de 130 000€ après impôts et TVA (l'État capture 60%), tandis qu'aux États-Unis ou aux Émirats il en garderait 70% ou plus. Les plus hauts salaires restants en France sont principalement des hauts fonctionnaires, tous les talents du secteur privé partent créer de la richesse ailleurs, privant la France de cotisations sociales et d'innovations.",
+          "**Le problème structurel de la France est son modèle économique fondé sur la redistribution depuis 1981**, qui crée une bureaucratie de contrôleurs plutôt que de créateurs de richesse. Contrairement à Singapour ou aux Émirats (pays prospères sans dette), la France pénalise l'entrepreneur : un chef d'entreprise doit remplir 174+ formulaires administratifs chaque année pour justifier chaque action, ce qui décourage l'entrepreneuriat et la création de valeur ajoutée réelle."
+        ],
+        "takeaway": "La crise de la dette française ne sera résolue ni par l'austérité, ni par des baisses de taux futurs, mais uniquement par une profonde refonte économique : réduction drastique de la bureaucratie inutile, baisse significative de la fiscalité sur les créateurs de richesse (ramenant les prélèvements de 60% à 30% maximum), relocalisation de l'industrie, et abandon du modèle redistributif au profit d'une économie de création. Sans ces changements structurels, la France continuera sa spirale déflationniste et son déclassement économique, indépendamment des décisions de la BCE."
+      },
+      "summarizedAt": "2026-09-14T07:39:07.173Z"
     }
   ]
 }
