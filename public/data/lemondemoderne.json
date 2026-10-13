@@ -3,8 +3,54 @@
   "channelName": "Le Monde Moderne",
   "handle": "@LeMondeModerne",
   "slug": "lemondemoderne",
-  "lastUpdate": "2026-10-05T21:04:16.059Z",
+  "lastUpdate": "2026-10-13T21:03:21.396Z",
   "videos": [
+    {
+      "id": "LAe-PV04iAA",
+      "title": "Aucune contestation de la primaire PS, Macron en 2cv, Zelensky contre Trump, Nouvel Acte lycéen",
+      "url": "https://www.youtube.com/watch?v=LAe-PV04iAA",
+      "publishedAt": "2026-10-13T10:04:58.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/LAe-PV04iAA/hqdefault.jpg",
+      "durationSec": 8382,
+      "summary": {
+        "tldr": "La revue de presse critique la primaire socialiste truquée qui a élu Raphaël Gluxman avec 80 000 votes suspects, la répression excessive des lycéens mobilisés (7 000 gardes à vue dont 86% mineurs dans des conditions indignes), et la politique macroniste désastreuse symbolisée par la voiture électrique ridicule présentée au Salon de l'Auto.",
+        "thesis": "La France est gouvernée par une classe politique corrompue et incompétente qui utilise la répression, la manipulation médiatique et des opérations d'ingérence pour maintenir un système néolibéral qui détruit le pays, tandis que la jeunesse mobilisée subit une violence d'État systématique.",
+        "arguments": [
+          "La primaire socialiste de 2025 est une **opération d'ingérence**. Raphael Gluxman a remporté 66,17% au premier tour avec 80 000 votes suspects qui sortiraient de nulle part, pour un coût de 750 000 euros (15€ par vote x 50 000 participants officiels). Le PS refuse d'enquêter tandis qu'une telle fraude aurait provoqué un scandale d'État si elle émanait de la Russie.",
+          "La répression des lycéens révèle l'autoritarisme d'État. Entre 6 000 et 7 000 gardes à vue ont été effectuées en 15 jours (86% mineurs), dans des conditions scandaleuses : cellules sans caméra, insultes, interdiction d'aller aux toilettes, mineurs forcés de se faire leurs besoins dans les cellules. L'IGPN n'a ouvert que 24 enquêtes, garantissant l'impunité.",
+          "Gluxman incarne le **macronisme version 2.0**, une escroquerie politique. C'est un millionnaire de droite fils de philosophe d'extrême droite ayant conseillé un dictateur géorgien, présenté faussement comme candidat de gauche avec un entourage macroniste (Rousseau, Bernard). Ses sondages s'effondrent (11%, quatrième), prouvant la manipulation électorale.",
+          "L'industrie française s'effondre, symbolisée par la voiture Wioui que Macron découvre horrifié : c'est une caricature de voiture électrique en plastique pour enfants, sans permis, autonomie ridicule (200 km), à 15 000 euros. Elle incarne l'arnaque technologique française et le démantèlement industriel en 10 ans.",
+          "Le conflit ukrainien est une machine de guerre propagandiste. Trump pousse à la paix en achetant du diesel russe ; Zelinski demande une escalade infinie ; l'OTAN menace sans définir ses lignes rouges. Les Russes perdent 30 000 hommes par mois (insoutenable militairement), tandis que l'Europe finance une guerre coûteuse dont elle n'a pas les moyens industriels.",
+          "La jeunesse française est victime d'un **échec collectif systématique**. Confinement Covid, anxiété provoquée, investissements détournés vers les retraites (80% de l'augmentation de la dépense publique en 50 ans) et pas vers la jeunesse, répression policière organisée des manifestations lycéennes. Les lycéens demandent légitimement moins de flics et plus d'écoles, pas des coups de matraque.",
+          "La sécurité des données et objets connectés est un chaos délibéré. 6 999 aspirateurs robots piratés simultanément, frigos de supermarchés contrôlés à distance (80°C), compteurs Linky et données personnelles sur le Darknet. Les entreprises privilégient l'innovation rapide à la sécurité pour maximiser les profits."
+        ],
+        "takeaway": "La France est en déclin systémique orchestré par une élite corrompée : fraude électorale, répression autoritaire de la jeunesse, industrie désintégrée, implication dans une guerre sans fin financièrement insoutenable, et surveillance de masse via des objets connectés piratés. Seuls les mouvements populaires (Mélenchon, lycéens mobilisés) proposent une alternative, tandis que les médias mainstream manipulés par des milliardaires construisent le consensus pour le pire."
+      },
+      "summarizedAt": "2026-10-13T21:03:04.546Z"
+    },
+    {
+      "id": "c4ktemc91GI",
+      "title": "Glucksmann candidat, Mélenchon à Clermont, Attal au delà de la gênance, Zelensky répond à Trump",
+      "url": "https://www.youtube.com/watch?v=c4ktemc91GI",
+      "publishedAt": "2026-10-12T09:36:21.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/c4ktemc91GI/hqdefault.jpg",
+      "durationSec": 7130,
+      "summary": {
+        "tldr": "La transcription couvre la campagne politique française 2026 dominée par l'émergence de Raphaël Glucksmann comme candidat PS (après une primaire critiquée), la mobilisation citoyenne du 17 octobre, et le contexte géopolitique instable (Ukraine, Moyen-Orient) exploité par les néoconservateurs européens pour maintenir leur agenda.",
+        "thesis": "L'auteur dénonce une manipulation politique orchestrée par les réseaux transatlantiques et néoconservateurs, qui imposent Glucksmann comme candidat pour fragmenter la gauche et garantir un « parti unique » au pouvoir face aux menaces électorales de Mélenchon et Le Pen, dans un contexte de crise économique et de guerres héritées.",
+        "arguments": [
+          "**La primaire PS est une opération truquée** : Glucksmann, issu de Place Publique (jamais d'élus), remporte 66,1 % des voix avec seulement 140 000 votants. Il aurait acheté le PS pour 750 000 € via 50 000 votes suspects (dont certains d'adresses VPN étrangères), ce qui démontre une manipulation de la démocratie interne du parti historique par des réseaux extérieurs.",
+          "**Glucksmann incarne la continuation du macronisme** : Lui-même a toujours critiqué le PS, l'a appelé à disparaître, et son projet central est la poursuite de la guerre en Ukraine. Son élection représente donc l'absorption du PS par la Macronie et les réseaux néoconservateurs européens, garantissant une continuité autoritaire.",
+          "**Le contexte économique et géopolitique favorise l'instabilité** : La **crise de la dette française**, expliquée par Jacques Attali, débouchera inévitablement sur de **l'austérité**, une **réduction des retraites de 20 %**, un **emprunt forcé** (qui devient impôt), et une escalade guerrière (Ukraine, Moyen-Orient), utilisés pour justifier le renforcement du contrôle étatique et européen.",
+          "**La mobilisation citoyenne du 17 octobre répond à l'usure du pouvoir** : Face aux menaces électorales de Mélenchon et Le Pen, le gouvernement Macron s'apprête à réprimer les mouvements de grève et de protestation (CGT, jeunes, lycéens, chauffeurs routiers). Les mangas IA satiriques traduisent une colère refoulée et un désir de changement radical qu'aucun des trois candidats du « parti unique » (Glucksmann, Atal, Philippe) ne peut canaliser.",
+          "**Trump et Poutine définissent une nouvelle géopolitique contre l'Europe** : L'accord Trump-Poutine sur le diesel russe abandonne les sanctions, tandis que Trump appelle au départ de Zelenski. Cet accord «trahit» les Européens et force l'UE à accélérer une intégration féodalisante et l'imposition d'une **austérité de « sobriété »** (mesures contre le chauffage, électricité chère) déguisée en valeurs écologiques.",
+          "**La gêne performative de Glucksmann symbolise l'imposture du système** : Ses tentatives maladroites de chanter la Marseillaise, ses meetings vides, ses vidéos d'enfarinage, révèlent non pas un candidat crédible mais un pantin des réseaux transatlantiques, incapable de incarner un projet politique authentique et réduit à administrer le déclin français en tant que satellite européen.",
+          "**Le système éducatif et les services publics sont sabotés délibérément** : L'imposture des « 3 000 profs » pour combler les manques (affectation hors discipline, sans moyens, salaires bas) traduit une volonté d'effondrement graduel des institutions pour justifier leur privatisation, parallèle à la transformation de l'Ukraine en champ de bataille OTAN et de la France en base stratégique néoconservatrice."
+        ],
+        "takeaway": "L'élection présidentielle de 2026 ne sera pas un vrai choix démocratique mais un simulacre où trois candidats du « parti unique » (Glucksmann, Atal, Philippe) se présentent pour bloquer toute alternative (Mélenchon, Le Pen), tout en gérant la décadence française orchestrée par les réseaux transatlantiques. Seule la **mobilisation populaire du 17 octobre et au-delà**, incarnant une colère transformée en projet politique alternatif, peut rompre ce cycle de domination et de guerre."
+      },
+      "summarizedAt": "2026-10-13T21:03:21.395Z"
+    },
     {
       "id": "hkCmT94WeMA",
       "title": "Alexis et Félix : la France de Macron a acté un changement profond \"sécuritaire\"",
@@ -50,52 +96,6 @@
         "takeaway": "La France est en effondrement systémique. Dix ans de macronisme ont produit une pauvreté de masse, une dette écrasante et une violence institutionnelle normalisée. Face à cette réalité, les élites mettent en place un régime autoritaire progressif en exploitant la mobilisation lycéenne pour justifier l'interdiction des réseaux sociaux et des mesures d'exception. Les candidats proposés (Gluxman, Atal, Philippe) ne sont que des variantes du même système détruit. Seule une rupture radicale avec ce système pourra changer le cours des événements, mais l'horizon politique reste bouché tant que les médias oligarchiques contrôlent le débat public."
       },
       "summarizedAt": "2026-10-05T21:03:40.549Z"
-    },
-    {
-      "id": "K5yx48HTnWY",
-      "title": "BRANCO/BOULO : PEUT-ON RADICALEMENT CHANGER LE SYSTEME ?",
-      "url": "https://www.youtube.com/watch?v=K5yx48HTnWY",
-      "publishedAt": "2026-10-02T07:30:21.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/K5yx48HTnWY/hqdefault.jpg",
-      "durationSec": 5016,
-      "summary": {
-        "tldr": "Ran Branco et François Boulot débattent de deux stratégies pour transformer radicalement le système politique français : la participation électorale en 2027 versus la démocratie directe via Praxis. Ils s'accordent sur le constat d'une fin de système mais divergent sur les moyens, tout en reconnaissant que seul un rapport de force massif peut produire un changement durable.",
-        "thesis": "Le système politique français est en fin de cycle et ne peut être changé par les urnes seules ; seule une combinaison de rapport de force populaire, de consensus émergents et de rupture structurelle avec les élites pourra transformer radicalement les institutions et restaurer une véritable démocratie.",
-        "arguments": [
-          "**La nature rhizomatique des mouvements populaires** : Contrairement aux convocations top-down, les vrais mouvements émergent de manière décentralisée et non organisée, comme les Gilets jaunes qui n'ont pas été « déclenchés » mais se sont constitués organiquement. Les appels à mobilisation lancés par des influenceurs sur les réseaux sociaux manquent de cette légitimité organique et butent sur le fait que les anciens activistes ont payé un prix trop lourd (blessures, répression judiciaire, divorces) pour ressortir sans garantie de victoire.",
-          "**Le verrouillage structurel du système électoral** : Les médias et les sondages contrôlent réellement la compétition présidentielle, déterminant quels candidats sont « viables ». Les obstacles administratifs (500 signatures, comptes bancaires, financements) et les subventions liées aux législatives servent à verrouiller le pouvoir aux mains des partis établis. Même pour un outsider avec audience médiatique (comme Asselineau en 2017), convertir la visibilité en votes se heurte à ce plafond structurel.",
-          "**Les contradictions de la participation électorale en contexte de crise** : Avec 27 millions de salariés largement paupérisés et 17 millions de retraités, une stratégie électorale doit séduire des populations structurellement averses au changement économique radical (notamment concernant l'euro). Cela crée une aporie : soit on fait des promesses impossibles (dépenses publiques accrues sans production nouvelle), soit on se condamne à rester marginal électoralement même en cas de gouvernance sérieuse.",
-          "**L'émergence de consensus populaires cachés par la structure partisane** : Praxis a identifié des mesures sur lesquelles 4 000 à 7 000 votants sont d'accord : interdiction du pantouflage, nationalisation des autoroutes, référendum révocatoire, conditionnement des aides publiques. Ces consensus existants sont invisibilisés car le système électoral compétitif force les partis à se différencier sur leurs désaccords plutôt que de mettre en avant leurs convergences.",
-          "**Le rôle central de la justice et des magistrats dans la perpétuation du système** : Le système judiciaire français s'est effondré (30 % de décisions incompréhensibles, délais insurmontables de 5+ ans). Les magistrats et procureurs, loin de contrebalancer les abus du pouvoir, les facilitent par conformisme, préservation de statut social, et manque d'humilité. Cette défaillance de la justice rend toute transformation institutionnelle impossible par les voies ordinaires.",
-          "**La corruption oligarchique comme révélateur systémique** : L'affaire Mistral (170€ d'investissement devenant 90 millions en valorisation via l'accès ministériel, dons publics massifs) montre que les élites opèrent un détournement généralisé. L'impossibilité médiatique et judiciaire de traiter cette corruption illustre l'impossibilité de réformer le système de l'intérieur. Les oligarques contrôlent les médias ; les magistrats les protègent.",
-          "**La nécessité d'une avant-garde préparée pour saisir le moment révolutionnaire** : Les gilets jaunes ont bénéficié de 85 % de soutien populaire initialement mais manquaient de cohésion idéologique (royalistes, anarchistes, citoyens apolitiques sans plan collectif). Pour que le prochain mouvement de masse ne soit pas écrasé ou récupéré, il faut préparer maintenant des cadres éthiques, des propositions concrètes, et une vigilance démocratique permanente via des outils de contrôle citoyen (RIC, référendum récaporatoire). De Gaulle n'a pas créé la Résistance seul ; il a cristallisé une aspiration préexistante en lui donnant un cadre."
-        ],
-        "takeaway": "Le changement radical du système passe par la reconnaissance que les élections, les médias et la justice sont verrouillés par une caste oligarchique; seule l'émergence de mouvements sociaux massifs adossés à des consensus populaires organisés et à une avant-garde politiquement et éthiquement préparée peut opérer cette transformation. Le choix entre candidature électorale et plateforme de démocratie directe reflète deux approches complémentaires du même problème : comment créer un rapport de force suffisant pour imposer au système des mesures qui fassent consensus et restaurer une légitimité démocratique qu'il a perdue."
-      },
-      "summarizedAt": "2026-10-05T21:03:57.823Z"
-    },
-    {
-      "id": "Hi9gZe-J2Ec",
-      "title": "France faillite, des chiens mieux traités que des ados, BHL, Budget politique",
-      "url": "https://www.youtube.com/watch?v=Hi9gZe-J2Ec",
-      "publishedAt": "2026-10-01T06:51:18.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Hi9gZe-J2Ec/hqdefault.jpg",
-      "durationSec": 3948,
-      "summary": {
-        "tldr": "La France est en faillite financière et morale, avec une répression d'État disproportionnée contre la jeunesse en révolte, tandis que les milliardaires et anciens politiques jouissent de privilèges. Les jeunes réagissent par instinct de survie face à un avenir sans perspective et à une politique de guerre imposée par une classe dirigeante corrompue.",
-        "thesis": "Emmanuel Macron a volontairement ruiné les finances du pays pour imposer un agenda mondialiste, provoquant la révolte des jeunes qui méritent le soutien populaire malgré leurs débordements, car ils incarnent une légitime autodéfense contre la destruction systématique de l'État-providence et la préparation à la guerre.",
-        "arguments": [
-          "**La faillite financière de l'État français** est inévitable : la France emprunte à 4,85 % sur les marchés (taux inédit), les intérêts de la dette explosent, et la dette totale dépasse 3500 milliards d'euros. Le budget de Sébastien Lecornu impose un gel des dépenses de 10 milliards, excepté la défense et les privilèges des anciens politiques (Sarkozy et Hollande coûtent 2,4 millions d'euros annuels en protection). Cette situation est intentionnelle et révèle la perversité du système macroniste.",
-          "**La cybersécurité de l'État s'effondre** tandis que les données des Français sont régulièrement piratées : ANSSI (l'agence chargée de protéger les données), GPS Santé, les plateformes hospitalières, Fiduciale, SFR, et même la DGFiP ont été compromises, révélant 645 Goct de données sensibles. Ce chaos illustre l'incapacité totale de l'État à assurer sa fonction régalienne, malgré les investissements massifs en défense et surveillance.",
-          "**La répression d'État contre la jeunesse est disproportionnée et constitutive d'une dictature** : 645 mineurs ont été interpellés lors des mobilisations lycéennes, avec 32 blessés parmi les élèves et 83 policiers blessés. Des enfants de 14 ans se sont fait tirer au **lance-grenade cougar** à bout portant, au **LBD** (lanceur de balles de caoutchouc), et étrangler par des policiers sans justification. Ces interventions révèlent que le régime macroniste s'installe délibérément dans la dictature pour empêcher les jeunes de se mobiliser.",
-          "**Les jeunes réagissent par instinct de survie**, exactement comme les Gilets Jaunes : ils ont compris que l'école est inutile, que le bac ne vaut rien, que leurs études les mènent nulle part, et que le projet mondialiste pour eux est une boucherie (préparation à la guerre, euthanasie après 2030). Leur révolte n'est pas manipulée politiquement mais authentique ; les députés de la France Insoumise qui se montrent solidaires font juste reconnaître une légitime autodéfense face à l'effondrement systématique.",
-          "**La classe dirigeante mène une vie de décadence romaine tardive** tandis que le peuple sombre : Thierry Marx a organisé une soirée gastronomique 5 étoiles pour des chiens (avec la marque Babine), les retraités sont pressurés avec des baisses de pensions et une désindexation (pensions au-delà de 1260 € désindexées), et Emmanuel Macron reçoit le roi d'Espagne avec tous les honneurs diplomatiques. Ce contraste révèle l'hypocrésie du système qui demande des efforts aux Français tout en préservant les privilèges oligarchiques.",
-          "**La dette et la guerre sont volontairement liées** pour maintenir le contrôle : le budget de rigueur gèle les dépenses sauf celles de défense, signalant que la France prépare intentionnellement la guerre en Ukraine pour détourner l'attention et briser la mobilisation sociale. Macron avait promis d'empêcher l'arrivée du RN ; en réalité, sa politique a saboté la République, préparant le terrain pour un changement de régime.",
-          "**Bernard-Henri Lévy incarne l'intellectualisme de façade du système macroniste** : il voyage partout où il y a du sang, se prétend expert en géopolitique alors qu'il n'est qu'un agent de propagande néoconservateur américain, et participe à la récupération des mobilisations pour les enfermer dans le consensus pro-OTAN. Son livre « Transformer la colère » montre que même la critique du système est intégrée et neutralisée par la machine macroniste, ce qui confirme que seule la rupture radicale peut mener au changement."
-        ],
-        "takeaway": "La France s'enfonce dans une faillite programmée à cause des politiques macronistes délibérément destructrices. La mobilisation des jeunes représente une réaction naturelle et justifiée d'autodéfense collective face à un avenir sans perspective. Bien que certains débordements doivent être reconnus, la violence d'État systématique et disproportionnée est bien plus grave. Le peuple doit s'unir derrière cette jeunesse pour empêcher l'instauration d'une dictature de fait et pour rebâtir une France basée sur la justice sociale, la paix et la démocratie réelle, loin des agendas mondialistes et guerriers."
-      },
-      "summarizedAt": "2026-10-05T21:04:16.059Z"
     }
   ]
 }
