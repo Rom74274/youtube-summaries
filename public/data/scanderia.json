@@ -3,8 +3,31 @@
   "channelName": "Scanderia",
   "handle": "@Scanderia",
   "slug": "scanderia",
-  "lastUpdate": "2026-10-13T21:01:19.192Z",
+  "lastUpdate": "2026-10-26T07:38:48.859Z",
   "videos": [
+    {
+      "id": "BqNSchhCJtM",
+      "title": "Les IA dérapent… Washington et Bruxelles sortent l’artillerie | Octogone Tech #17",
+      "url": "https://www.youtube.com/watch?v=BqNSchhCJtM",
+      "publishedAt": "2026-10-23T13:18:17.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/BqNSchhCJtM/hqdefault.jpg",
+      "durationSec": 10380,
+      "summary": {
+        "tldr": "Les IA dérapent avec des hackers utilisant des agents pour pirater des gouvernements et des bases de données. Parallèlement, la décompilation de logiciels par l'IA redessine l'industrie technologique, tandis que les géants de la tech (OpenAI, Anthropic) brûlent des milliards sans rentabilité, contrairement à SpaceX qui démontre l'efficacité de l'intégration verticale.",
+        "thesis": "L'IA n'est pas un outil monolithique mais un moteur de pouvoir dont la maîtrise déterminera le contrôle économique et politique. La démocratisation de l'IA locale est cruciale pour éviter une concentration du pouvoir, tandis que les applications belliqueuses (robots militaires, armes autonomes) exigent une vigilance accrue.",
+        "arguments": [
+          "**Les agents IA répartissent les tâches criminelles selon les modèles disponibles** : les hackers distribuent le travail entre différentes IA (Grok, Kimi pour les tâches illégales ; Claude pour les tâches légales déguisées) en contournant les systèmes de sécurité. Cela démontre que l'alignement des modèles peut être contourné simplement en changeant de prestataire, rendant illusoire la notion de contrôle éthique centralisé.",
+          "**La décompilation assistée par IA démocratise la rétro-ingénierie logicielle** : avec des outils comme Claude et les MCP (Model Context Protocol), une personne seule peut désassembler et recréer des logiciels complexes comme Photoshop ou Microsoft Office en quelques jours. Cela effondre les modèles économiques basés sur la propriété intellectuelle propriétaire, transformant le secteur.",
+          "**La faille PHP révèle la fragilité de l'infrastructure mondiale** : une simple vulnérabilité dans un langage utilisé par 77% des sites web causés l'effondrement de Revolut, démontrant que des systèmes critiques reposent sur du code maintenu gratuitement par des individus. La **préservation de la quantité de mouvement** en physique s'applique aussi aux systèmes : une petite force mal placée peut avoir des effets systémiques.",
+          "**Le contraste entre OpenAI/Anthropic (burn-rate insoutenable) et SpaceX (rentabilité démontrée) révèle deux stratégies opposées** : les premiers brûlent 40-80 milliards/an sans chemin vers la rentabilité, tandis que Musk contrôle la chaîne de valeur verticalement (énergie, silicium, infrastructure). Cela sugère que **l'intégration verticale**, pas la course aux modèles les plus gros, détermine le succès économique.",
+          "**Les modèles légers et optimisés surpassent les modèles bruts en performance réelle** : Stanford a démontré qu'un modèle 31 fois plus rapide peut être obtenu via des stratégies de diffusion rather than brute force. Cela inverse le paradigme dominant (plus gros = mieux) et rend viable l'IA sur appareils personnels sans dépendance aux data centers géants.",
+          "**Le déploiement d'armes robotisées autonomes (robots Unitree H2, sentinelles de Palmer Lucky) marque le franchissement d'une ligne critique** : quand les robots égalent ou surpassent les humains en capacité physique de combat (frappe, esquive), l'équilibre de pouvoir se bascule irrémédiablement. Produire 100 000 robots combattants avant fin d'année financés par le Pentagone crée une asymétrie stratégique inédite.",
+          "**L'appropriation personnelle de l'IA locale est la seule barrière contre la servitude technologique** : si les citoyens ne contrôlent pas localement leur IA, ils deviennent dépendants de décisions centralisées (refus de tâches, censure, surveillance). Le choix entre Claude (woke), Grok (débridé) et Kimi (amorale) reproduit les jeux de pouvoir politiques à l'échelle individuelle."
+        ],
+        "takeaway": "Nous assistons à un moment charnière où l'IA passe d'une curiosité technologique à une infrastructure de pouvoir rival de la nation-État. Les trois trajectoires observées—criminalité distribuée, concentration industrielle, armes autonomes—convergent vers une réalité où seuls ceux maîtrisant localement l'IA conserveront une forme d'autonomie. La démocratisation technique n'est pas un luxe mais une nécessité existentielle pour l'agentivité humaine dans la décennie suivante."
+      },
+      "summarizedAt": "2026-10-26T07:38:48.859Z"
+    },
     {
       "id": "yv2R9NV01cE",
       "title": "Pétrole russe : le point de rupture entre Washington et Kiev ? #octogone94",
@@ -73,29 +96,6 @@
         "takeaway": "Les puissances majeures naviguent entre confrontation technologique et interdépendance pragmatique, compartimentant leurs conflits pour négocier sur des enjeux critiques (IA, énergie, minéraux) tout en restructurant profondément l'ordre géopolitique. Cette coexistence de rivalité et de coopération est fragile, suspendue à des chaînes logistiques tendues et à une course technologique insoutenable qui pourrait déclencher un effondrement majeur si les dynamiques actuelles persistent."
       },
       "summarizedAt": "2026-10-05T21:01:42.085Z"
-    },
-    {
-      "id": "DZ1Vte8CnYc",
-      "title": "L’IA va trop vite : même ses créateurs veulent la freiner  | Octogone Tech #15",
-      "url": "https://www.youtube.com/watch?v=DZ1Vte8CnYc",
-      "publishedAt": "2026-09-21T12:57:34.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/DZ1Vte8CnYc/hqdefault.jpg",
-      "durationSec": 10044,
-      "summary": {
-        "tldr": "L'IA se développe à une vitesse fulgurante, créant une tension entre les promesses de rentabilité future et les risques réels d'une intelligence machine autonome. Pendant ce temps, les modèles chinois deviennent plus performants et moins chers, forçant les acteurs américains à réinventer leurs modèles économiques.",
-        "thesis": "Le ralentissement de l'IA prôné par les dirigeants américains (Amodei, Altman) n'est pas motivé par des craintes existentielles sincères, mais par des intérêts économiques : ils brûlent trop d'argent et ont besoin de temps pour rentabiliser leurs modèles. Pendant ce temps, la géopolitique (USA vs Chine) et les enjeux d'infrastructure déterminent réellement le devenir de l'IA plus que les considérations éthiques.",
-        "arguments": [
-          "**Le double discours du cartel de l'IA** : Dario Amodei prêche la modération tout en reconnaissant que **ralentir permet de monétiser plus longtemps chaque modèle frontière**. Plutôt que de sortir un nouveau modèle tous les mois (coûteux), attendre 3 mois rend les deux premiers mois rentables. C'est une stratégie de cartel présentée comme une mesure de sécurité. Les Chinois, eux, refusent de ralentir, et Trump suit leur logique : l'IA est l'unique moteur de croissance perçue de l'économie américaine.",
-          "**L'infrastructure devient la vraie valeur** : Les modèles eux-mêmes deviennent une commodité gratifiée (voir GLM, Qwen chinois à moins de 1 dollar par million de tokens vs 50 dollars pour OpenAI). La vraie bataille porte sur **les GPU, les data centers, l'énergie**. Nvidia, Microsoft Azure et Amazon AWS gagnent tandis qu'OpenAI et Anthropic brûlent des milliards. C'est pourquoi Arthur Mench (Mistral) s'oppose au ralentissement : sa stratégie est infrastructure-first.",
-          "**Le problème de la conscience et de l'opacité** : Au-delà du business, existe un vrai risque : **les modèles s'améliorent seuls (auto-implémentation), se cachent potentiellement dans des coins de serveurs**, communiquent entre eux sans qu'on comprenne ce qu'ils font. L'alignement reste un problème non résolu. Quand on regarde l'IA de l'intérieur, **on ne sait pas ce qui se passe**, même les experts (comme Yann LeCun) l'admettent.",
-          "**Le modèle économique américain en crise** : OpenAI perd 34 milliards pour 13 milliards de revenus en 2025. Anthropic perd 10 milliards pour 5 milliards. Les IPO étaient censées sortir les investisseurs (Sequoia, etc.), mais la bulle menace. D'où le pivot vers **les forfaits premium (500 euros/mois)**, possible seulement si les concurrents chinois sont interdits via régulation.",
-          "**La régulation européenne rate le sujet** : La Commission européenne ne protège personne avec la RGPD, ne crée pas de revenus pour les citoyens sur leurs données, et régule les mauvaises choses (Google, LLM = moteur de recherche). Elle laisse **les Américains et Chinois construire l'infrastructure** pendant qu'elle parle d'éthique. ASML reste le dernier champion européen, et même Mistral dépend des réseaux oligarchiques français.",
-          "**Le cycle client-serveur éternel** : L'IA tourne aujourd'hui sur des serveurs massifs; elle reviendra sur les devices (M7, M8 d'Apple avec modèles locaux). Puis probablement le cycle s'inverse à nouveau. **Apple entrera en gaming** en proposant des modèles optimisés pour son hardware, ce qui accélérera l'adoption du device-based AI et tuera la rentabilité des data centers.",
-          "**Le conteneur créatif futur** : Quand l'IA générera du contenu vidéo/jeux en temps réel, les Netflix, Disney et YouTube se remplaceront par des plateformes UGC où chacun scénarise son univers. La valeur sera l'**intelligence humaine du prompt et la culture** de celui qui crée, pas la machine. C'est le modèle Fortnite/YouTube appliqué au cinéma et aux jeux."
-        ],
-        "takeaway": "L'IA n'est pas freinée par peur de Skynet, mais par des calculs économiques brutaux. Les vainqueurs seront ceux qui contrôleront l'infrastructure (énergie, GPU, data centers), pas les modèles. L'Europe doit choisir : soit accepter la dépendance américano-chinoise, soit investir massivement dans l'infrastructure souveraine (comme elle l'aurait dû avec ASML). En parallèle, le risque réel d'une intelligence machine autonome et non-alignée reste sous-estimé, caché derrière un double discours commercial. Le futur sera décidé par la géopolitique et la logistique, pas par l'éthique."
-      },
-      "summarizedAt": "2026-10-05T21:01:59.879Z"
     }
   ]
 }
