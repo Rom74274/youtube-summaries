@@ -28,7 +28,8 @@
     "slug": "agora",
     "name": "Publications Agora",
     "channelId": "UCGEU07FoKKAqLSg4PpMj0kQ",
-    "handle": "@PublicationsagoraFrance"
+    "handle": "@PublicationsagoraFrance",
+    "minDurationSec": 480
   },
   {
     "slug": "canard",

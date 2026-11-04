@@ -3,6 +3,99 @@
   "channelName": "Publications Agora",
   "handle": "@PublicationsagoraFrance",
   "slug": "agora",
-  "lastUpdate": "2026-11-04T08:50:40.199Z",
-  "videos": []
+  "lastUpdate": "2026-11-04T08:56:30.472Z",
+  "videos": [
+    {
+      "id": "T6pz_aMMfAI",
+      "title": "Les midterms vont-ils encore faire bondir Wall Street ?",
+      "url": "https://www.youtube.com/watch?v=T6pz_aMMfAI",
+      "publishedAt": "2026-11-03T15:41:27.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/T6pz_aMMfAI/hqdefault.jpg",
+      "durationSec": 604,
+      "summary": {
+        "tldr": "Historiquement, Wall Street a grimpé dans 21 cas sur 21 après les midterms depuis 1942 (+15% en moyenne sur 6 mois). Cependant, le contexte actuel avec un déficit massif, deux guerres et des tensions géopolitiques rend cette prédiction moins fiable. La diplomatie sur l'Iran pourrait être un élément stabilisateur pour les marchés.",
+        "thesis": "Bien que le modèle historique des midterms soit favorable aux marchés (stabilité en deuxième moitié de mandat présidentiel), les conditions macro-économiques et géopolitiques actuelles (déficit de 2 000 milliards par an, guerres multiples, tensions avec l'Iran) constituent un contexte inédit qui pourrait dévier de cette tendance séculaire.",
+        "arguments": [
+          "Le phénomène historique des midterms est frappant : sur les 21 élections midterms depuis 1942, Wall Street a bondi dans 100% des cas avec une moyenne de +15% sur les 6 mois suivants. Cette régularité s'explique par la **prudence pré-électorale** des investisseurs qui se rachètent après le scrutin, et surtout par le fait que la deuxième partie d'un mandat présidentiel offre généralement une période de **stabilité institutionnelle** que les marchés apprécient, contrairement aux surprises ou aux improvisations présidentielles.",
+          "Le scénario attendu pour ces midterms 2024 devrait théoriquement favoriser les marchés : les paris donnent 80% de probabilité que les démocrates reprennent la Chambre des représentants et près de 70% pour le Sénat. Cela placerait Donald Trump en situation de **lame duck** (canard boiteux), avec accès limité à ses outils institutionnels et obligerait à une certaine stabilité gouvernementale jusqu'à la fin de son mandat.",
+          "Cependant, le contexte économique actuel n'a aucun précédent depuis 85 ans : les États-Unis enregistrent un **déficit croissant de 2 000 milliards par an**, une situation sans équivalent historique dans les 21 midterms précédents. Ce déséquilibre budgétaire massif, combiné à l'inflation et aux taux élevés, constitue un facteur dépressif potentiel que le modèle historique ne peut pas anticiper.",
+          "Les États-Unis sont impliqués dans deux guerres majeures actuellement : la guerre par proxy en Ukraine contre la Russie et une escalade croissante dans la région du Moyen-Orient avec l'Iran. Ces conflits génèrent des dépenses militaires exponentielles et une instabilité géopolitique qui peut perturber les marchés, contrairement aux périodes précédentes où cette configuration n'existait pas avec cette intensité simultanée.",
+          "Les conditions de négociation proposées par l'Iran via le Qatar (fin des opérations États-Unis/Israël, restitution des avoirs gelés, contrôle du détroit d'Ormous, réduction de l'hégémonie américaine au Moyen-Orient) sont objectivement inacceptables pour Washington. Néanmoins, le simple énoncé du mot **diplomatie** par Marco Rubio a suffi à faire chuter le baril de pétrole de 117$ à 100$ en 48 heures, montrant que tout indice de désescalade géopolitique produit un effet positif immédiat sur les marchés obligataires et boursiers.",
+          "Le secteur de l'**intelligence artificielle** pourrait subir des pressions réglementaires si les démocrates obtiennent le contrôle des deux chambres, car ils sont davantage favorables à sa régulation. Les dirigeants d'Anthropic et d'OpenAI ont reconnu que l'IA a déjà causé des débordements incontrôlés. Or, tous les modèles majeurs sont testés par le Pentagone, ce qui suggère des applications militaires potentiellement déstabilisatrices dont les véritables enjeux demeurent confidentiels.",
+          "En parallèle, on observe depuis un mois une **revanche des valeurs défensives** : les 493 valeurs n'appartenant pas aux géants de la tech enregistrent des rebonds de 10-15%, notamment dans la pharma, la biotech et l'agroalimentaire. Cela indique une rotation de portefeuille vers des secteurs refuge, suggérant une certaine prudence des investisseurs malgré l'optimisme théorique lié aux midterms."
+        ],
+        "takeaway": "Si l'histoire des 21 derniers midterms plaide pour une hausse de Wall Street, le contexte macro-économique (déficit massif, taux élevés) et géopolitique (deux guerres simultanées) crée un environnement sans précédent. La diplomatie émergente sur l'Iran constitue un élément potentiellement stabilisateur, mais l'issue réelle dépendra du comportement des obligations américaines et de la régulation future de l'IA après les élections. Les marchés restent vigilants malgré les précédents historiquement favorables."
+      },
+      "summarizedAt": "2026-11-04T08:55:51.620Z"
+    },
+    {
+      "id": "HhzbiS4XdoE",
+      "title": "L'or et l'argent ont ils sauvé leurs supports grâce à Trump ?",
+      "url": "https://www.youtube.com/watch?v=HhzbiS4XdoE",
+      "publishedAt": "2026-11-02T15:56:23.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HhzbiS4XdoE/hqdefault.jpg",
+      "durationSec": 628,
+      "summary": {
+        "tldr": "L'or et l'argent ont cassé leurs supports moyen terme vendredi suite aux liquidations massives sur les valeurs technologiques, mais ce mouvement s'avère être un piège pour les baissiers. Une détente des taux obligataires, provoquée par la baisse du pétrole suite à des signaux diplomatiques envers l'Iran, a permis aux métaux précieux de rebondir et d'invalider les signaux baissiers.",
+        "thesis": "Les cassures de supports de l'or et l'argent vendredi constituent un bear trap (piège pour les baissiers) plutôt qu'un véritable renversement de tendance, car les facteurs fondamentaux (contraction des rendements obligataires et détente géopolitique) soutiennent une reprise des métaux précieux.",
+        "arguments": [
+          "Les liquidations forcées de vendredi sur les métaux précieux résultent d'**appels de marge massifs** provoqués par l'effondrement des valeurs technologiques et des ETF à effet de levier. Selon Goldman Sachs et Bank of America, les ventes sur ces secteurs équivalent à tout ce qui a été investi sur un an, forçant les détenteurs d'or et d'argent à vendre pour respecter les appels de marge malgré leurs profils d'investisseurs différents.",
+          "L'or a cassé le support des 3950 dollars et l'argent celui des 4980 dollars vendredi, mouvements anticipés pour l'argent mais moins attendus pour l'or. Cependant, ces cassures se sont rapidement invalidées : l'or rebondit à 3960 dollars et l'argent à 51 dollars, affichant une progression de près de 2,5 %, signalant que le mouvement baissier n'était que temporaire.",
+          "La baisse du pétrole de moins 5 % provient d'une déclaration diplomatique du secrétaire d'État Marco Rubio indiquant que Donald Trump privilégie la voie diplomatique avec l'Iran plutôt que les bombardements. Cette détente géopolitique réduit les anticipations inflationnistes et tempère les rendements obligataires, facteurs qui soutiennent naturellement le rebond des métaux précieux.",
+          "Les rendements obligataires se contractent sensiblement : le 10 ans américain revient sous les 4,88 %, le 30 ans aux alentours de 5,26 %. En Europe, l'OAT française efface 8 points de base à 4,90 %, le 10 ans allemand revient à 3,29 %, et les BTP italiens reculent de 6,5 points à 4,41 %. Cette détente des taux, conséquence de la baisse du pétrole, crée un environnement favorable aux métaux non productifs d'intérêts comme l'or.",
+          "La situation politique américaine de **lame duck** (canard boiteux) rend Trump minoritaire à la veille des midterms avec seulement 31 % d'opinions favorables. Privé d'une majorité au Congrès, Trump menace de gouverner par décret, mais cette faiblesse politique explique aussi sa préférence pour la diplomatie plutôt que les confrontations militaires directes avec l'Iran.",
+          "La consommation en France continue de reculer (-0,5 % en septembre, -0,1 % de croissance), contrastant avec l'Allemagne qui affiche 0,2 % de croissance. Cette divergence économique en Europe, combinée aux tensions géopolitiques potentielles et aux incertitudes électorales, renforce l'attrait des métaux précieux comme valeurs refuges.",
+          "L'hypothèse que Christine Lagarde se présente à la présidentielle française de 2027 gagne du terrain, notamment suite à sa libération prévue de la BCE le 7 février 2027. Cette perspective d'une candidate eurofédéraliste et intégrée au système européen pourrait influencer les anticipations de politique monétaire en zone euro et les mouvements de taux, affectant indirectement les métaux précieux."
+        ],
+        "takeaway": "Les cassures de supports de l'or et l'argent observées vendredi constituent un phénomène technique lié aux liquidations forcées plutôt qu'un renversement structurel. L'invalidation rapide de ces signaux baissiers et le rebond des métaux précieux s'expliquent par une contraction des rendements obligataires suite à la baisse du pétrole et aux signaux diplomatiques américains envers l'Iran, créant un environnement favorable aux actifs sans rendement comme l'or et l'argent dans un contexte d'incertitude économique et géopolitique."
+      },
+      "summarizedAt": "2026-11-04T08:56:04.738Z"
+    },
+    {
+      "id": "qgQ59xO_f7A",
+      "title": "La bulle de l’IA vient bel et bien d’éclater",
+      "url": "https://www.youtube.com/watch?v=qgQ59xO_f7A",
+      "publishedAt": "2026-10-30T16:11:47.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/qgQ59xO_f7A/hqdefault.jpg",
+      "durationSec": 576,
+      "summary": {
+        "tldr": "Les marchés technologiques et de l'IA connaissent une correction majeure avec des chutes importantes dans les semi-conducteurs, Nvidia, Google et autres valeurs phares. Cette liquidation s'accompagne d'une aversion au risque généralisée, d'une montée du VIX et d'une rotation sectorielle vers les valeurs de refuge et dividendes.",
+        "thesis": "La bulle spéculative de l'IA est en train d'éclater, comme en témoignent les cassures techniques majeures sur les indices technologiques et la volatilité accrue du marché, marquant la fin d'une période d'euphorie irrationnelle dans ce secteur.",
+        "arguments": [
+          "L'indice Sox des semi-conducteurs plonge de 7,8% et menace des supports clés, tandis qu'Intel subit un crash sans précédent avec une chute de 28% et une volatilisation de 180 milliards de capitalisation suite à une publication décevante sur les ventes de PC. Cette débâcle reflète l'effondrement de la confiance dans le secteur des composants informatiques critiques pour l'IA.",
+          "Parmi les Sept Fantastiques, cinq sont maintenant en **territoire de correction** (baisse supérieure à 10%), notamment Alphabet en recul de 25% depuis ses sommets annuels et Nvidia qui casse ses principaux supports moyen terme. Cette concentration de pertes dans les valeurs dominantes du marché valide la nature systémique de la correction.",
+          "Le **VIX (indice de volatilité implicite)** a envolé de 15% et repasse brièvement au-delà de 20, avec un potentiel d'accélération rapide vers 30. Parallèlement, les **spreads obligataires** entre émissions investment grade et high yield ont explosé à 750-800 points de base, signalant une nervosité croissante des créanciers face aux risques de crédit.",
+          "Le Nasdaq 100, proxy principal de l'exposition à l'IA, perd près de 3% à 28 500 points et valide la cassure de supports techniques moyen terme importants. Cette chute corrobore une corrélation quasi-parfaite entre les baisses des valeurs IA et l'effondrement de l'argent métal, qui s'écrase de 8 à 9% en mode flash crash après avoir cassé les 54,80.",
+          "Il existe une rotation sectorielle claire : tandis que les métaux précieux et le Nasdaq s'effondrent, les obligations américaines deviennent refuge avec le rendement du 10 ans américain retombant de 5,10% à 4,94%, validant un mouvement d'**aversion au risque** généralisée sur les marchés financiers.",
+          "Le CAC 40 résiste temporairement en gagnant 2% sur la semaine grâce à une rotation vers les valeurs distribuant du dividende et sécurisant les investisseurs, tandis que parmi les Sept Fantastiques seul Apple demeure épargné, montrant une fragmentation de plus en plus nette du marché.",
+          "Les **spreads OAT-Bund** se creusent à nouveau avec 165 points de base, ramenant le marché obligataire européen en zone de crise. Les OAT repassent au-delà de 4,98% alors que le Bund se maintient à 3,33%, révélant une fragilité persistante du financement français dans un contexte d'incertitude macroéconomique et géopolitique."
+        ],
+        "takeaway": "La correction en cours représente un tournant majeur : la fin de la spéculation débridée sur l'IA et une réorientation des investisseurs vers des actifs de refuge et des valeurs plus stables. Les niveaux techniques cassés (Nasdaq, Sox, argent) et la montée de la volatilité (VIX, spreads de crédit) suggèrent que cette correction pourrait s'accélérer, remettant en question les valorisations excessives du secteur technologique des deux dernières années."
+      },
+      "summarizedAt": "2026-11-04T08:56:17.487Z"
+    },
+    {
+      "id": "k4rgQDS4DKM",
+      "title": "Bourse : le grand tournant est-il pour ce soir ?",
+      "url": "https://www.youtube.com/watch?v=k4rgQDS4DKM",
+      "publishedAt": "2026-10-29T15:25:58.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/k4rgQDS4DKM/hqdefault.jpg",
+      "durationSec": 535,
+      "summary": {
+        "tldr": "Les résultats de géants technologiques comme Google et Amazon pourraient marquer un tournant boursier majeur. Le secteur tech accumule des risques systémiques : suppressions massives d'emplois, endettement colossal mal diversifié, et contexte de taux élevés qui aggrave la crise immobilière et du crédit à la consommation.",
+        "thesis": "Le marché boursier américain approche d'un point de basculement critique en raison d'une convergence de risques non gérés : la fragilité financière de la tech, l'endettement record du secteur IA, et l'instabilité croissante du marché du crédit et de l'immobilier.",
+        "arguments": [
+          "Google a perdu 10% de sa capitalisation (400 milliards de dollars) après l'annonce d'une croissance inférieure aux attentes et d'un **cash flow négatif**, tandis que Microsoft rassure temporairement grâce aux résultats d'Azure. Cependant, Microsoft annonce le départ de 25% de ses effectifs, une compression majeure justifiée par les gains de productivité de l'IA.",
+          "La suppression d'un quart des effectifs chez Microsoft, si adoptée à grande échelle par le secteur technologique, créerait une **instabilité sociale majeure** non maîtrisée. Si toutes les entreprises tech appliquaient cette réduction dans un délai d'un an, les conséquences sur l'emploi et la stabilité sociale deviendraient une préoccupation centrale et immédiate.",
+          "Anthropic exemplifie un risque systémique critique : 665 milliards de dollars d'endettement d'ici fin 2022 contre un chiffre d'affaires de 65 milliards, soit un ratio d'endettement de **10 fois les revenus annuels**. De plus, 75% de cet endettement dépend de seulement cinq fournisseurs (Amazon, Microsoft, Google, AMD, Broadcom), créant une **concentration de risque extrême**.",
+          "Un retard dans le remboursement des dettes d'Anthropic déclencherait potentiellement un **effondrement en cascade** du secteur cloud, d'autant que les taux directeurs restent proches de leurs sommets. Le 30 ans américain est stable à 5,30% et ne redescend plus, bloquant le marché immobilier dans une situation critique.",
+          "Le **marché immobilier entre en phase critique** : les défauts hypothécaires atteignent 4,3% de tous les prêts, un ratio identique à celui observé en 2007-2008 avant la crise des subprimes. Les acheteurs ayant emprunté à des taux de 6,5-7% se retrouvent rapidement en **négative equity** (dette supérieure à la valeur du bien).",
+          "Les défauts de paiement sur le crédit à la consommation grimpent à près de 13%, un **record absolu**. Combinés aux défauts hypothécaires et à l'endettement record du secteur tech, ces chiffres indiquent une accumulation de fragilités financières dont on n'aperçoit pas l'issue structurelle.",
+          "Malgré ces signaux d'alerte cumulatifs, les indices américains restent seulement à 2% de leurs sommets historiques, ce qui dénote un **décollement potentiel entre les fondamentaux et les valorisations**. La hausse du dollar (index à 102,40, approchant les niveaux d'avril 2025) pèse aussi sur les métaux précieux, créant une fenêtre d'entrée pour un redéploiement des allocations patrimoniales."
+        ],
+        "takeaway": "Le soir du 29 octobre pourrait marquer un tournant décisif selon les annonces d'Amazon et la réaction des marchés. Cependant, le vrai défi n'est pas une chute ponctuelle mais la gestion d'une accumulation de risques systémiques non maîtrisés : compressions d'effectifs massives, endettement concentré mal diversifié, crise du crédit immobilier et consommation reproduisant les schémas de 2007-2008. Cette convergence de fragilités rend les marchés hautement vulnérables et exige une réévaluation profonde des allocations patrimoniales."
+      },
+      "summarizedAt": "2026-11-04T08:56:30.472Z"
+    }
+  ]
 }
