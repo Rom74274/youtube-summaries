@@ -18,5 +18,15 @@
     "slug": "lemondemoderne",
     "name": "Le Monde Moderne",
     "handle": "@LeMondeModerne"
+  },
+  {
+    "slug": "agora",
+    "name": "Publications Agora",
+    "handle": "@PublicationsagoraFrance"
+  },
+  {
+    "slug": "canard",
+    "name": "Canard Réfractaire",
+    "handle": "@LeCanardRéfractaire"
   }
 ]

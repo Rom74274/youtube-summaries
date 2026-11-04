@@ -3,8 +3,31 @@
   "channelName": "Scanderia",
   "handle": "@Scanderia",
   "slug": "scanderia",
-  "lastUpdate": "2026-10-26T07:38:48.859Z",
+  "lastUpdate": "2026-11-04T08:48:56.793Z",
   "videos": [
+    {
+      "id": "CIpjMTtI6P8",
+      "title": "IA : le début d’un krach mondial ? #octogone95",
+      "url": "https://www.youtube.com/watch?v=CIpjMTtI6P8",
+      "publishedAt": "2026-10-31T08:00:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/CIpjMTtI6P8/hqdefault.jpg",
+      "durationSec": 2729,
+      "summary": {
+        "tldr": "La bulle de l'IA mondial s'effondre en octobre 2024 avec des pertes massives (Alphabet perd 12,6%, 500 milliards volatilisés), aggravées par le piratage de Binance (6,3 milliards volés) et une contagion mondiale des marchés asiatiques. Cet effondrement reflète un surinvestissement chronique en infrastructures IA sans rentabilité démontrée, similaire à la crise du rail de 1848.",
+        "thesis": "L'auteur défend que la bulle IA est inévitable et structurelle : les géants technologiques surinvestissent massivement dans des data centers sans retour sur investissement visible dans les comptes, créant une purge du marché comparable historiquement aux cycles de suraccumulation de capital (bulle du rail). Cette correction est saine et nécessaire, bien que l'IA transforme réellement le monde à long terme.",
+        "arguments": [
+          "**Le surinvestissement massif sans rentabilité visible** : Alphabet, Amazon et autres géants annoncent des investissements de 195-220 milliards en data centers IA, pariants sur une demande qui n'apparaît pas encore dans les comptes de résultats. Le flux de trésorerie disponible d'Alphabet est devenu négatif pour la première fois, tandis qu'Amazon enregistre -42,4 milliards sur 12 mois. Cette déconnexion entre dépenses réelles et retours comptabilisés crée les conditions d'une bulle.",
+          "**Le phénomène de contagion de la peur aux marchés** : Alphabet perd 500 milliards de capitalisation en une journée (pire depuis 2004), ce qui déclenche une contagion virale de la peur sur les autres valeurs. Avec les Magnificent Seven représentant 1/3 du S&P 500, une baisse de ces géants impacte automatiquement tous les fonds indexés, créant un effet de cascade de liquidations en cascade que l'auteur compare à l'embrasement d'un feu de peur.",
+          "**IA érode les modèles économiques fondateurs** : Google a bâti sa domination sur les revenus publicitaires via les clics. Le mode IA de Google répond directement aux questions sans cliquer sur les annonces, menaçant la vache à lait du groupe. Les investisseurs craignent que l'IA ne cannibalize les revenus plutôt que de les augmenter, expliquant l'effondrement de 12,6% du titre.",
+          "**Parallèle historique avec la bulle du rail de 1848** : Comme la bulle du rail, les entreprises surinvestissent en infrastructures (rails, data centers) en surestimant les rendements futurs composés. Bien que le rail ait réellement transformé le monde (permettant la victoire du Nord en 1861, structurant les développements coréen, chinois, brésilien), la **purge du mauvais sang** était inévitable : l'excès spéculatif devait être purgé avant stabilisation.",
+          "**Le piratage de Binance (6,3 milliards) comme catalyseur de propagation** : Un terminal DevOps compromis a permis le vol de 6,3 milliards en crypto, le plus grand vol de l'histoire. Cet incident propage la peur au-delà de ses impacts réels : environ 3 milliards gelés (stablecoins), 2,4 milliards en Bitcoin/Ether restent volatiles. La vulnérabilité révèle que les risques de sécurité s'amplifieront avec les **agents IA autonomes** qui auront besoin d'accès délégués aux systèmes, créant des surfaces d'attaque exponentielles.",
+          "**L'hypothèse gaussienne fausse des économistes** : Les économistes (type prix Nobel de la Banque de Suède) supposent que les distributions de marché sont gaussiennes, prédisant que des événements à 8-9 écarts-types sont quasi impossibles. Or, **les distributions réelles ont des longues traînes** (fat tails selon Nassim Nicholas Taleb). Napoléon à 16 écarts-types dans les métriques militaires prouve que l'univers obéit à des distributions non-gaussiennes où les outliers sont plus fréquents que prédit, justifiant l'apparition d'entreprises à 1000 milliards.",
+          "**L'IA transforme réellement le monde mais lentement** : Contrairement aux critiques, l'IA est l'avatar de la **révolution noétique** (information/cognition) comme le rail était celui de la révolution industrielle. Elle change le monde, mais à un rythme plus lent que les promesses de croissance composée 20-25% annuels. La vérité est un miroir brisé : les critiques sur l'absence de ROI visible ont raison à court terme, les optimistes sur la transformation à long terme aussi."
+        ],
+        "takeaway": "L'effondrement d'octobre 2024 n'est ni un crash définitif ni une fausse alerte, mais une **purge cyclique inévitable du capital excédentaire**. Les géants technologiques ont surinvesti en IA sans retour immédiat démontré, créant les conditions d'une correction de marché classique. Historiquement, ces corrections (comme celle du rail en 1848) sont nécessaires pour éliminer les projets non rentables et réallouer le capital. L'IA transformera profondément l'économie mondiale, mais cette transformation prendra des années, non des trimestres. Le marché doit accepter que les distributions ne sont pas gaussiennes et que les événements extrêmes (bulles spectaculaires, krachs rapides) surviennent régulièrement dans les économies technologiques modernes."
+      },
+      "summarizedAt": "2026-11-04T08:48:56.793Z"
+    },
     {
       "id": "BqNSchhCJtM",
       "title": "Les IA dérapent… Washington et Bruxelles sortent l’artillerie | Octogone Tech #17",
@@ -73,29 +96,6 @@
         "takeaway": "L'IA n'est pas une menace existentielle abstraite ; c'est un miroir qui expose impitoyablement les faiblesses des structures établies : monopoles technologiques, académie corrompue, bureaucratie étouffante. Le vrai danger n'est pas que l'IA prenne le contrôle, c'est que le pouvoir reste aux mains d'une élite bureaucratique en France tandis que l'innovation s'éxile vers les US, la Chine et l'Allemagne. Seule une réforme profonde de la culture entrepreneuriale française pourrait changer cette trajectoire."
       },
       "summarizedAt": "2026-10-13T21:01:19.192Z"
-    },
-    {
-      "id": "eQoaiw7igDU",
-      "title": "Chine–USA : le sommet au cœur de la bataille pour l’IA et les terres rares #octogone93",
-      "url": "https://www.youtube.com/watch?v=eQoaiw7igDU",
-      "publishedAt": "2026-09-24T08:21:28.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/eQoaiw7igDU/hqdefault.jpg",
-      "durationSec": 2913,
-      "summary": {
-        "tldr": "La Chine et les États-Unis négocient sur l'IA et les terres rares malgré leurs tensions commerciales, tandis que le monde s'engage dans une nouvelle phase de militarisation arctique et de réalignements géopolitiques. Ces négociations reflètent une interdépendance persistante qui force les grandes puissances à compartimenter leurs conflits.",
-        "thesis": "Malgré la rivalité technologique et commerciale sino-américaine, les deux puissances maintiennent des canaux de négociation pragmatiques sur des enjeux critiques (IA, terres rares, énergie) car leurs interdépendances économiques et énergétiques les contraignent à des compromis, tout en restructurant l'ordre géopolitique mondial autour de nouveaux axes de confrontation.",
-        "arguments": [
-          "**Les négociations sino-américaines sur l'IA et les terres rares** représentent une tentative de ralentir une course technologique insoutenable. Le délai de sortie des nouveaux modèles d'IA se raccourcit exponentiellement, créant une compétition épuisante qui rend les dépenses américaines non viables et crée un risque de crash inévitable. La Chine, en spammant des modèles open weight à grande échelle même à perte, force les américains (OpenAI, Anthropic) à innover plus rapidement, ce qui pourrait déclencher une crise majeure du marché.",
-          "**La Chine propose via les BRICS un leadership technologique centralisé autour de l'IA** en raison de son avantage absolu dans ce domaine parmi les puissances émergentes. L'absence de modèles indiens compétitifs—malgré l'excellence des programmeurs indiens—provient du coût prohibitif d'entraînement des modèles, que seules les grandes multinationales chinoises peuvent assumer. Pékin positionne donc l'IA comme base de coopération des BRICS, marquant le début d'un **impérialisme technologique chinois**.",
-          "**L'Arctique devient le théâtre d'une nouvelle militarisation** où Washington renforce sa présence au Groenland tandis que la Russie maintient un avantage stratégique avec sa flotte de brise-glace nucléaires. Cet accord entre Washington, Copenhague et Nuuk vise à contrôler les routes arctiques et l'accès aux ressources minières, reflétant un repositionnement géopolitique face aux deux grandes puissances arctiques (Russie et Chine).",
-          "**Les sanctions secondaires américaines redéfinissent la stratégie de contrôle géopolitique** en transformant les restrictions contre la Russie en outils de pression directe sur les partenaires commerciaux de Moscou (notamment l'Inde qui raffine le pétrole russe). Cette doctrine, héritée de Théodore Roosevelt (walk softly and carry a big stick), multiplie exponentiellement les ennemis potentiels mais s'avère efficace sur les chaînes d'approvisionnement énergétiques et de défense.",
-          "**L'Opération Epic Fury révèle une vulnérabilité logistique critique américaine** : les stocks de munitions et de terres rares se consomment plus vite qu'ils ne sont reconstitués, malgré un coût de 33,4 milliards de dollars. Cela expose le principe fondamental que **les amateurs parlent de stratégie, les professionnels parlent de logistique**—une guerre prolongée peut épuiser les capacités de production industrielle américaines à un rythme insoutenable.",
-          "**Le Japon rompt avec le tabou des sous-marins nucléaires** sous pression de la dégradation stratégique en Asie (expansion des forces sous-marines chinoises, ambitions nucléaires nord-coréennes). Ce changement de doctrine—autorisant une propulsion nucléaire auparavant politiquement impossible—illustre comment **les lignes rouges se déplacent progressivement** face à une menace perçue, ouvrant potentiellement la voie à une nucléarisation militaire du Japon.",
-          "**La concentration du commerce mondial sur les produits liés à l'IA (hausse de 42-44% des équipements et semi-conducteurs) masque une fragilité structurelle plus diffuse**. Cette dépendance à un cycle d'investissement très capitalistique crée une fausse robustesse qui cache une faiblesse généralisée de l'industrie traditionnelle et de la demande réelle, susceptible de provoquer un ajustement brutal si la bulle spéculative explose."
-        ],
-        "takeaway": "Les puissances majeures naviguent entre confrontation technologique et interdépendance pragmatique, compartimentant leurs conflits pour négocier sur des enjeux critiques (IA, énergie, minéraux) tout en restructurant profondément l'ordre géopolitique. Cette coexistence de rivalité et de coopération est fragile, suspendue à des chaînes logistiques tendues et à une course technologique insoutenable qui pourrait déclencher un effondrement majeur si les dynamiques actuelles persistent."
-      },
-      "summarizedAt": "2026-10-05T21:01:42.085Z"
     }
   ]
 }

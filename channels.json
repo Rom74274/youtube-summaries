@@ -23,5 +23,17 @@
     "name": "Le Monde Moderne",
     "channelId": "UCA3dZqGawAvJO6Lexbj8EGg",
     "handle": "@LeMondeModerne"
+  },
+  {
+    "slug": "agora",
+    "name": "Publications Agora",
+    "channelId": "UCGEU07FoKKAqLSg4PpMj0kQ",
+    "handle": "@PublicationsagoraFrance"
+  },
+  {
+    "slug": "canard",
+    "name": "Canard Réfractaire",
+    "channelId": "UCWGsN59FON3vOtXCozQPsZQ",
+    "handle": "@LeCanardRéfractaire"
   }
 ]
