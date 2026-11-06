@@ -36,5 +36,13 @@
     "name": "Canard Réfractaire",
     "channelId": "UCWGsN59FON3vOtXCozQPsZQ",
     "handle": "@LeCanardRéfractaire"
+  },
+  {
+    "slug": "mikael",
+    "name": "Mikaël Popschuh",
+    "platform": "tiktok",
+    "handle": "@mikaelpopschuh",
+    "tiktokUrl": "https://www.tiktok.com/@mikaelpopschuh",
+    "minDurationSec": 90
   }
 ]

@@ -1,6 +1,8 @@
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs'
-import { resolve, dirname } from 'node:path'
+import { readFileSync, writeFileSync, existsSync, mkdirSync, mkdtempSync, rmSync, readdirSync } from 'node:fs'
+import { resolve, dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { spawnSync } from 'node:child_process'
+import { tmpdir } from 'node:os'
 import Parser from 'rss-parser'
 import { YoutubeTranscript } from 'youtube-transcript'
 import { Innertube } from 'youtubei.js'
@@ -155,7 +157,225 @@ function fmtMin(s) {
   return `${Math.floor(s / 60)}m${String(s % 60).padStart(2, '0')}`
 }
 
+// ========= TikTok support (yt-dlp + mlx_whisper + Claude) =========
+
+const WHISPER_MODEL = 'mlx-community/whisper-small-mlx'
+const TIKTOK_FETCH_LIMIT = 10
+
+function tiktokDateToIso(yyyymmdd) {
+  if (!yyyymmdd || yyyymmdd.length !== 8) return new Date().toISOString()
+  return `${yyyymmdd.slice(0, 4)}-${yyyymmdd.slice(4, 6)}-${yyyymmdd.slice(6, 8)}T00:00:00Z`
+}
+
+function listTiktokVideos(profileUrl, limit) {
+  const r = spawnSync(
+    'yt-dlp',
+    [
+      '--no-warnings',
+      '--flat-playlist',
+      '--dump-json',
+      '--playlist-end',
+      String(limit),
+      profileUrl,
+    ],
+    { encoding: 'utf8', maxBuffer: 50 * 1024 * 1024 },
+  )
+  if (r.status !== 0) throw new Error(`yt-dlp list failed: ${(r.stderr || '').trim()}`)
+  return r.stdout
+    .trim()
+    .split('\n')
+    .filter(Boolean)
+    .map((line) => {
+      const m = JSON.parse(line)
+      return {
+        id: m.id,
+        title: m.title || '(sans titre)',
+        duration: m.duration ?? null,
+        uploadDate: m.upload_date,
+        thumbnail: m.thumbnail || m.thumbnails?.[0]?.url || '',
+        url: m.url || m.webpage_url,
+      }
+    })
+}
+
+function transcribeTiktok(videoUrl) {
+  const tmpDir = mkdtempSync(join(tmpdir(), 'tiktok_'))
+  try {
+    // Force h264 — le default hevc de TikTok fait planter ffmpeg sur l'extraction audio
+    const dl = spawnSync(
+      'yt-dlp',
+      [
+        '--no-warnings', '-q',
+        '-f', 'best[vcodec^=h264]/best[vcodec!*=hev][vcodec!*=h265]/best',
+        '-o', `${tmpDir}/%(id)s.%(ext)s`,
+        videoUrl,
+      ],
+      { encoding: 'utf8' },
+    )
+    if (dl.status !== 0) throw new Error(`download failed: ${(dl.stderr || '').trim()}`)
+    const mp4File = readdirSync(tmpDir).find((f) => f.endsWith('.mp4'))
+    if (!mp4File) throw new Error('no mp4 downloaded')
+    const mp4Path = join(tmpDir, mp4File)
+    const w = spawnSync(
+      'mlx_whisper',
+      [
+        '--model', WHISPER_MODEL,
+        '--language', 'fr',
+        '--output-format', 'txt',
+        '--output-dir', tmpDir,
+        mp4Path,
+      ],
+      { encoding: 'utf8' },
+    )
+    if (w.status !== 0) throw new Error(`whisper failed: ${(w.stderr || '').trim()}`)
+    const txtPath = mp4Path.replace(/\.mp4$/, '.txt')
+    const text = readFileSync(txtPath, 'utf8').replace(/\s+/g, ' ').trim()
+    return text
+  } finally {
+    try {
+      rmSync(tmpDir, { recursive: true, force: true })
+    } catch {
+      // ignore
+    }
+  }
+}
+
+async function processTiktokChannel(channel) {
+  console.log(`\n=== ${channel.name} (${channel.slug}) [TikTok] ===`)
+  const dataPath = resolve(DATA_DIR, `${channel.slug}.json`)
+  const existing = existsSync(dataPath)
+    ? JSON.parse(readFileSync(dataPath, 'utf8'))
+    : { videos: [] }
+  const minDuration = channel.minDurationSec ?? DEFAULT_MIN_DURATION_SEC
+  const existingById = new Map(existing.videos.map((v) => [v.id, v]))
+
+  const items = listTiktokVideos(channel.tiktokUrl, TIKTOK_FETCH_LIMIT)
+
+  const newCandidates = []
+  for (const it of items) {
+    if (existingById.has(it.id)) continue
+    if (it.duration == null) {
+      console.log(`  • ?       no duration ${it.id}  ${it.title.slice(0, 60)}`)
+      continue
+    }
+    if (it.duration < minDuration) {
+      console.log(
+        `  • ${fmtMin(it.duration).padStart(7)} too short ${it.id}  ${it.title.slice(0, 60)}`,
+      )
+      continue
+    }
+    console.log(
+      `  • ${fmtMin(it.duration).padStart(7)} NEW         ${it.id}  ${it.title.slice(0, 60)}`,
+    )
+    newCandidates.push({ ...it, publishedAt: tiktokDateToIso(it.uploadDate) })
+  }
+
+  const existingWithSummary = existing.videos.filter((v) => v.summary)
+  const pool = [
+    ...existingWithSummary.map((v) => ({
+      kind: 'existing',
+      data: v,
+      publishedAt: v.publishedAt,
+    })),
+    ...newCandidates.map((c) => ({ kind: 'new', data: c, publishedAt: c.publishedAt })),
+  ].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+  const top = pool.slice(0, FEED_SIZE)
+  console.log(
+    `  pool: ${existingWithSummary.length} existing + ${newCandidates.length} new → top ${top.length}`,
+  )
+
+  const videos = []
+  let processedThisRun = 0
+  const totalUsage = { input_tokens: 0, output_tokens: 0 }
+
+  for (const item of top) {
+    if (item.kind === 'existing') {
+      console.log(`  • KEEP         ${item.data.id}  ${item.data.title.slice(0, 60)}`)
+      videos.push(item.data)
+      continue
+    }
+    const c = item.data
+    const handleClean = channel.handle.replace('@', '')
+    const videoUrl = c.url || `https://www.tiktok.com/@${handleClean}/video/${c.id}`
+    console.log(`  • SUMMARIZE    ${c.id}  ${c.title.slice(0, 60)}`)
+    let transcript
+    try {
+      transcript = transcribeTiktok(videoUrl)
+    } catch (e) {
+      console.warn(`    ✗ transcribe failed: ${e.message}`)
+      videos.push({
+        id: c.id,
+        title: c.title,
+        url: videoUrl,
+        publishedAt: c.publishedAt,
+        thumbnail: c.thumbnail,
+        durationSec: c.duration,
+        summary: null,
+        _noTranscript: true,
+      })
+      continue
+    }
+    try {
+      const { summary, usage } = await summarize(transcript, c.title)
+      totalUsage.input_tokens += usage.input_tokens
+      totalUsage.output_tokens += usage.output_tokens
+      const cost =
+        (usage.input_tokens * 1) / 1_000_000 + (usage.output_tokens * 5) / 1_000_000
+      console.log(
+        `    ✓ in=${usage.input_tokens} out=${usage.output_tokens} cost≈$${cost.toFixed(4)}`,
+      )
+      videos.push({
+        id: c.id,
+        title: c.title,
+        url: videoUrl,
+        publishedAt: c.publishedAt,
+        thumbnail: c.thumbnail,
+        durationSec: c.duration,
+        summary,
+        summarizedAt: new Date().toISOString(),
+      })
+      processedThisRun++
+    } catch (e) {
+      console.warn(`    ✗ summary failed: ${e.message}`)
+      videos.push({
+        id: c.id,
+        title: c.title,
+        url: videoUrl,
+        publishedAt: c.publishedAt,
+        thumbnail: c.thumbnail,
+        durationSec: c.duration,
+        summary: null,
+        _error: e.message,
+      })
+    }
+  }
+
+  const totalCost =
+    (totalUsage.input_tokens * 1) / 1_000_000 + (totalUsage.output_tokens * 5) / 1_000_000
+  if (processedThisRun === 0) console.log(`  → no new summaries`)
+  else
+    console.log(
+      `  → ${processedThisRun} new summaries, total cost this run ≈ $${totalCost.toFixed(4)}`,
+    )
+
+  const out = {
+    channelId: channel.handle,
+    channelName: channel.name,
+    handle: channel.handle,
+    platform: 'tiktok',
+    slug: channel.slug,
+    lastUpdate: new Date().toISOString(),
+    videos,
+  }
+  writeFileSync(dataPath, JSON.stringify(out, null, 2))
+  console.log(`  → wrote ${dataPath}`)
+  return { processed: processedThisRun, cost: totalCost }
+}
+
+// ========= Main router =========
+
 async function processChannel(channel) {
+  if (channel.platform === 'tiktok') return processTiktokChannel(channel)
   console.log(`\n=== ${channel.name} (${channel.slug}) ===`)
   const dataPath = resolve(DATA_DIR, `${channel.slug}.json`)
   const existing = existsSync(dataPath)

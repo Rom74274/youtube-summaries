@@ -3,8 +3,53 @@
   "channelName": "Publications Agora",
   "handle": "@PublicationsagoraFrance",
   "slug": "agora",
-  "lastUpdate": "2026-11-04T08:56:30.472Z",
+  "lastUpdate": "2026-11-06T15:27:22.857Z",
   "videos": [
+    {
+      "id": "P91ekPHrMLY",
+      "title": "Mais d’où sort ce flash krach sur le Nasdaq ?",
+      "url": "https://www.youtube.com/watch?v=P91ekPHrMLY",
+      "publishedAt": "2026-11-05T16:12:50.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/P91ekPHrMLY/hqdefault.jpg",
+      "durationSec": 576,
+      "summary": {
+        "tldr": "Le Nasdaq s'effondre de -5% le 5 novembre 2025, porté par une chute brutale du secteur des semi-conducteurs (-8,7% sur l'indice SOX), provoquée par des projets démocrates de moratoires sur les data centers et l'annulation d'incitations fiscales. Parallèlement, un rapport de la Cour des comptes révèle que plus de 20 milliards d'euros de recettes destinées à la Sécu ne sont pas versés, suffisant à transformer le déficit en excédent.",
+        "thesis": "Le flash krach du Nasdaq résulte d'une vague de liquidation massive des semi-conducteurs déclenchée par l'annonce de politiques démocrates contre les data centers, tandis qu'en France, le véritable scandale réside dans le détournement systématique de recettes de la Sécu qui masque l'ampleur réelle du problème de financement.",
+        "arguments": [
+          "Le secteur des semi-conducteurs s'effondre brutalement avec le SOX affichant une chute de -8,7%, la plus violente depuis l'annonce des tarifs douaniers de Trump en avril 2025. Des fabricants majeurs comme SanDisk (-18%), AMD (-13,5%) et Broadcom subissent des vagues de liquidation provenant d'investisseurs étrangers qui réalisent des plus-values accumulées sur 18 mois face à la perspective d'une instabilité réglementaire.",
+          "Le déclencheur du krach est **l'annulation annoncée par les démocrates des incitations fiscales et des permis de construction pour les data centers** dans des États clés (Texas, Géorgie, Caroline du Nord, Ohio) qui venaient de passer sous contrôle démocrate. Les entreprises ayant emprunté pour acquérir le matériel doivent néanmoins continuer à rembourser leurs dettes et intérêts, créant un effet ciseau dévastateur.",
+          "Le krach s'étend rapidement aux marchés européens, le CAC40 passant de +1,20% à -0,2%, tandis que le DAX perd 1,5% depuis l'ouverture de Wall Street en abandonnant ses records autour de 26680. Cet effet de contagion montre comment une crise américaine affectant un secteur technologique clé se propage immédiatement aux bourses mondiales.",
+          "Le rapport de la Cour des comptes d'Evelyne Duba révèle que sur les 11 milliards de déficit de la Sécu annoncés, **plus de 20 milliards d'euros de recettes destinées à la Sécu ne sont pas versés année après année**. Cela concerne 7,8 milliards de taxes sur tabacs et alcools, 3,5 milliards sur l'alcool, 1,6 milliard de primes d'assurance auto, 1,2 milliard de taxes sur les industries polluantes, 2 milliards de TVA, 2,1 milliards de cotisations sur contrats aidés et 1,9 milliard de retards de paiement des entreprises.",
+          "Si l'ensemble des recettes destinées à la Sécu était réellement versé, les comptes seraient en excédent et non en déficit, ce qui éliminerait instantanément la justification de l'allongement de la durée du travail. Ce détournement systématique de recettes représente une escroquerie administratif massive qui masque la véritable santé financière de la Sécu aux citoyens.",
+          "Le blocage politique du budget français illustre l'impasse institutionnelle : le volet recettes du budget a été rejeté à l'unanimité par la Chambre des députés, y compris par les parlementaires du groupe soutenant le Premier ministre Le Cornu. Ce rejet transversal montre que les politiques proposées sont jugées inacceptables même par ceux qui soutiennent le gouvernement, tandis que la rue se mobilise sans connaître l'ampleur du scandale des recettes manquantes."
+        ],
+        "takeaway": "Le flash krach du Nasdaq expose l'instabilité géopolitique et réglementaire autour des data centers et des semi-conducteurs aux États-Unis. En parallèle, la France fait face à une crise de légitimité plus profonde : le véritable problème n'est pas un déficit inévitable de la Sécu, mais l'absence systématique de versement de 20 milliards d'euros de recettes qui devrait être le cœur du débat public et qui deviendra probablement central dans les élections de 2027."
+      },
+      "summarizedAt": "2026-11-06T15:22:23.955Z"
+    },
+    {
+      "id": "XNbhyA9opLg",
+      "title": "Midterms : les démocrates font un carton plein !",
+      "url": "https://www.youtube.com/watch?v=XNbhyA9opLg",
+      "publishedAt": "2026-11-04T16:11:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/XNbhyA9opLg/hqdefault.jpg",
+      "durationSec": 598,
+      "summary": {
+        "tldr": "Les élections de mi-mandat ont vu une victoire décisive des démocrates, déclenchant un rebond boursier. Cependant, cette victoire intervient dans un contexte de déficits budgétaires massifs (40 500 milliards de dollars), de besoins d'investissement colossal dans les data centers (2 700 milliards), et de déficits commerciaux record, créant une onde de choc obligataire potentiellement dévastatrice.",
+        "thesis": "Bien que les marchés aient célébré la victoire démocrate aux midterms, cette victoire cache des défis économiques profonds : les démocrates héritent d'une économie américaine surendettée et ne possèdent pas l'antécédent de réduction des déficits, tandis que les investissements massifs requis dans l'IA et l'infrastructure risquent de créer une crise de financement sans précédent.",
+        "arguments": [
+          "Les démocrates ont remporté une victoire électorale massive aux midterms 2024, obtenant une majorité écrasante à la Chambre des représentants et gagnant des sièges au Sénat dans des États républicains supposément inviolables comme le Kansas, la Caroline du Nord et le Texas, où une sénatrice démocrate a été élue. Cette victoire a inversé les attentes des marchés : après des pertes initiales (NASDAQ -2,5%, S&P 500 -1%), les indices ont rebondi spectaculairement en fin de journée, effaçant toutes leurs pertes.",
+          "Le principal héritage économique laissé aux démocrates est une dette fédérale américaine massif de **40 500 milliards de dollars, augmentant de 180 milliards par mois (soit 6 milliards par jour)**. Historiquement, les démocrates ont privilégié l'expansion monétaire et budgétaire plutôt que la consolidation fiscale : sous Obama, la **crise financière de 2008 a mené au quantitative easing** (création monétaire), et sous Biden, on a continué le **all-in monétaire pendant le Covid** tout en niant que l'inflation soit persistante.",
+          "L'économie américaine doit lever 2 200 à 2 300 milliards de dollars supplémentaires en 2027 pour financer ses déficits, sans perspective de stabilisation. Parallèlement, les principales banques américaines anticipent **2 700 milliards d'investissements dans les data centers et l'IA en 2025**, un montant supérieur aux besoins de financement de l'État fédéral. Cette compétition pour l'épargne disponible pose une question critique : existe-t-il suffisamment d'épargne pour financer ces deux sources massives d'emprunt simultanément ?",
+          "Les risques liés aux data centers sont amplifiés par les obstacles réglementaires et environnementaux. La nouvelle sénatrice démocrate du Texas a averti qu'elle s'opposerait à la construction des data centers prévus. Or, le Texas représente déjà **25% de la capacité de calcul totale des États-Unis** et devrait doubler d'ici 2030. Cependant, cette expansion exige des gigawatts d'électricité et d'énormes quantités d'eau pour le refroidissement, des ressources insuffisantes actuellement. D'autres États démocrates comme l'Ohio et la Caroline du Nord adopteront les mêmes restrictions.",
+          "La viabilité financière des investissements massifs en IA dépend de la rentabilité opérationnelle, qui demeure incertaine. Si les data centers ne sortent pas de terre à cause d'obstacles réglementaires ou de manque d'électricité, comment les géants de l'IA rembourseront-ils les **5 000 à 8 000 milliards de dollars empruntés d'ici 2032** ? Cela impliquerait que chaque Américain consacre environ 100 dollars par mois à un abonnement hyperscaler avec une consommation massive de tokens, un modèle d'affaires hautement spéculatif.",
+          "L'économie américaine présente des signaux mitigés : les créations d'emploi dans le secteur privé restent robustes (+86 000 en octobre, identique à septembre), mais le **déficit du commerce extérieur américain reste proche de ses records à 105 milliards de dollars en septembre**, égal au chiffre d'août. En combinant le déficit budgétaire de 40 500 milliards et le déficit commercial de 1 000 milliards, les États-Unis font face à des **déficits jumeaux** massifs sans perspective de financement durable.",
+          "Les marchés des métaux précieux reflètent les attentes d'une politique budgétaire expansionniste sous les démocrates : anticipant de la **planche à billets (création monétaire)** plutôt que de la consolidation fiscale, les investisseurs s'attendent à une baisse des taux d'intérêt et du dollar. Cela a provoqué une hausse de 5% de l'argent et un peu plus de 3% de l'or, représentant un des plus importants rebonds des métaux précieux en décennies après la cassure du 30 octobre."
+        ],
+        "takeaway": "La victoire démocrate aux midterms masque une crise financière latente aux États-Unis. Les déficits jumeaux (budgétaire et commercial), les besoins d'investissement colossaux en IA/data centers, et l'incapacité historique des démocrates à réduire les déficits créent une tempête parfaite pour les marchés obligataires. Bien que les marchés d'actions aient célébré à court terme, les créanciers étrangers des États-Unis pourraient conclure que la stabilité budgétaire n'est pas au programme, risquant une crise de financement sans précédent et une instabilité des taux d'intérêt à long terme."
+      },
+      "summarizedAt": "2026-11-06T15:22:41.009Z"
+    },
     {
       "id": "T6pz_aMMfAI",
       "title": "Les midterms vont-ils encore faire bondir Wall Street ?",
@@ -50,52 +95,6 @@
         "takeaway": "Les cassures de supports de l'or et l'argent observées vendredi constituent un phénomène technique lié aux liquidations forcées plutôt qu'un renversement structurel. L'invalidation rapide de ces signaux baissiers et le rebond des métaux précieux s'expliquent par une contraction des rendements obligataires suite à la baisse du pétrole et aux signaux diplomatiques américains envers l'Iran, créant un environnement favorable aux actifs sans rendement comme l'or et l'argent dans un contexte d'incertitude économique et géopolitique."
       },
       "summarizedAt": "2026-11-04T08:56:04.738Z"
-    },
-    {
-      "id": "qgQ59xO_f7A",
-      "title": "La bulle de l’IA vient bel et bien d’éclater",
-      "url": "https://www.youtube.com/watch?v=qgQ59xO_f7A",
-      "publishedAt": "2026-10-30T16:11:47.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/qgQ59xO_f7A/hqdefault.jpg",
-      "durationSec": 576,
-      "summary": {
-        "tldr": "Les marchés technologiques et de l'IA connaissent une correction majeure avec des chutes importantes dans les semi-conducteurs, Nvidia, Google et autres valeurs phares. Cette liquidation s'accompagne d'une aversion au risque généralisée, d'une montée du VIX et d'une rotation sectorielle vers les valeurs de refuge et dividendes.",
-        "thesis": "La bulle spéculative de l'IA est en train d'éclater, comme en témoignent les cassures techniques majeures sur les indices technologiques et la volatilité accrue du marché, marquant la fin d'une période d'euphorie irrationnelle dans ce secteur.",
-        "arguments": [
-          "L'indice Sox des semi-conducteurs plonge de 7,8% et menace des supports clés, tandis qu'Intel subit un crash sans précédent avec une chute de 28% et une volatilisation de 180 milliards de capitalisation suite à une publication décevante sur les ventes de PC. Cette débâcle reflète l'effondrement de la confiance dans le secteur des composants informatiques critiques pour l'IA.",
-          "Parmi les Sept Fantastiques, cinq sont maintenant en **territoire de correction** (baisse supérieure à 10%), notamment Alphabet en recul de 25% depuis ses sommets annuels et Nvidia qui casse ses principaux supports moyen terme. Cette concentration de pertes dans les valeurs dominantes du marché valide la nature systémique de la correction.",
-          "Le **VIX (indice de volatilité implicite)** a envolé de 15% et repasse brièvement au-delà de 20, avec un potentiel d'accélération rapide vers 30. Parallèlement, les **spreads obligataires** entre émissions investment grade et high yield ont explosé à 750-800 points de base, signalant une nervosité croissante des créanciers face aux risques de crédit.",
-          "Le Nasdaq 100, proxy principal de l'exposition à l'IA, perd près de 3% à 28 500 points et valide la cassure de supports techniques moyen terme importants. Cette chute corrobore une corrélation quasi-parfaite entre les baisses des valeurs IA et l'effondrement de l'argent métal, qui s'écrase de 8 à 9% en mode flash crash après avoir cassé les 54,80.",
-          "Il existe une rotation sectorielle claire : tandis que les métaux précieux et le Nasdaq s'effondrent, les obligations américaines deviennent refuge avec le rendement du 10 ans américain retombant de 5,10% à 4,94%, validant un mouvement d'**aversion au risque** généralisée sur les marchés financiers.",
-          "Le CAC 40 résiste temporairement en gagnant 2% sur la semaine grâce à une rotation vers les valeurs distribuant du dividende et sécurisant les investisseurs, tandis que parmi les Sept Fantastiques seul Apple demeure épargné, montrant une fragmentation de plus en plus nette du marché.",
-          "Les **spreads OAT-Bund** se creusent à nouveau avec 165 points de base, ramenant le marché obligataire européen en zone de crise. Les OAT repassent au-delà de 4,98% alors que le Bund se maintient à 3,33%, révélant une fragilité persistante du financement français dans un contexte d'incertitude macroéconomique et géopolitique."
-        ],
-        "takeaway": "La correction en cours représente un tournant majeur : la fin de la spéculation débridée sur l'IA et une réorientation des investisseurs vers des actifs de refuge et des valeurs plus stables. Les niveaux techniques cassés (Nasdaq, Sox, argent) et la montée de la volatilité (VIX, spreads de crédit) suggèrent que cette correction pourrait s'accélérer, remettant en question les valorisations excessives du secteur technologique des deux dernières années."
-      },
-      "summarizedAt": "2026-11-04T08:56:17.487Z"
-    },
-    {
-      "id": "k4rgQDS4DKM",
-      "title": "Bourse : le grand tournant est-il pour ce soir ?",
-      "url": "https://www.youtube.com/watch?v=k4rgQDS4DKM",
-      "publishedAt": "2026-10-29T15:25:58.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/k4rgQDS4DKM/hqdefault.jpg",
-      "durationSec": 535,
-      "summary": {
-        "tldr": "Les résultats de géants technologiques comme Google et Amazon pourraient marquer un tournant boursier majeur. Le secteur tech accumule des risques systémiques : suppressions massives d'emplois, endettement colossal mal diversifié, et contexte de taux élevés qui aggrave la crise immobilière et du crédit à la consommation.",
-        "thesis": "Le marché boursier américain approche d'un point de basculement critique en raison d'une convergence de risques non gérés : la fragilité financière de la tech, l'endettement record du secteur IA, et l'instabilité croissante du marché du crédit et de l'immobilier.",
-        "arguments": [
-          "Google a perdu 10% de sa capitalisation (400 milliards de dollars) après l'annonce d'une croissance inférieure aux attentes et d'un **cash flow négatif**, tandis que Microsoft rassure temporairement grâce aux résultats d'Azure. Cependant, Microsoft annonce le départ de 25% de ses effectifs, une compression majeure justifiée par les gains de productivité de l'IA.",
-          "La suppression d'un quart des effectifs chez Microsoft, si adoptée à grande échelle par le secteur technologique, créerait une **instabilité sociale majeure** non maîtrisée. Si toutes les entreprises tech appliquaient cette réduction dans un délai d'un an, les conséquences sur l'emploi et la stabilité sociale deviendraient une préoccupation centrale et immédiate.",
-          "Anthropic exemplifie un risque systémique critique : 665 milliards de dollars d'endettement d'ici fin 2022 contre un chiffre d'affaires de 65 milliards, soit un ratio d'endettement de **10 fois les revenus annuels**. De plus, 75% de cet endettement dépend de seulement cinq fournisseurs (Amazon, Microsoft, Google, AMD, Broadcom), créant une **concentration de risque extrême**.",
-          "Un retard dans le remboursement des dettes d'Anthropic déclencherait potentiellement un **effondrement en cascade** du secteur cloud, d'autant que les taux directeurs restent proches de leurs sommets. Le 30 ans américain est stable à 5,30% et ne redescend plus, bloquant le marché immobilier dans une situation critique.",
-          "Le **marché immobilier entre en phase critique** : les défauts hypothécaires atteignent 4,3% de tous les prêts, un ratio identique à celui observé en 2007-2008 avant la crise des subprimes. Les acheteurs ayant emprunté à des taux de 6,5-7% se retrouvent rapidement en **négative equity** (dette supérieure à la valeur du bien).",
-          "Les défauts de paiement sur le crédit à la consommation grimpent à près de 13%, un **record absolu**. Combinés aux défauts hypothécaires et à l'endettement record du secteur tech, ces chiffres indiquent une accumulation de fragilités financières dont on n'aperçoit pas l'issue structurelle.",
-          "Malgré ces signaux d'alerte cumulatifs, les indices américains restent seulement à 2% de leurs sommets historiques, ce qui dénote un **décollement potentiel entre les fondamentaux et les valorisations**. La hausse du dollar (index à 102,40, approchant les niveaux d'avril 2025) pèse aussi sur les métaux précieux, créant une fenêtre d'entrée pour un redéploiement des allocations patrimoniales."
-        ],
-        "takeaway": "Le soir du 29 octobre pourrait marquer un tournant décisif selon les annonces d'Amazon et la réaction des marchés. Cependant, le vrai défi n'est pas une chute ponctuelle mais la gestion d'une accumulation de risques systémiques non maîtrisés : compressions d'effectifs massives, endettement concentré mal diversifié, crise du crédit immobilier et consommation reproduisant les schémas de 2007-2008. Cette convergence de fragilités rend les marchés hautement vulnérables et exige une réévaluation profonde des allocations patrimoniales."
-      },
-      "summarizedAt": "2026-11-04T08:56:30.472Z"
     }
   ]
 }
